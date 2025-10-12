@@ -14822,8 +14822,8 @@
 13	thitta	thitta	NUM	_	Animacy=Nhum|NumType=Card	14	nummod	14:nummod	Gloss=one|MSeg=thitta
 14	khale	khal	ADJ	ADJZ	_	15	amod	15:amod	Gloss=kind-ADJZ|MSeg=khal-e
 15	cɨkhepcɨkhep	cɨkhepcɨkhep	ADV	_	_	16	acl:nmlz	16:acl:nmlz	Gloss=sticky|MSeg=cɨkhepcɨkhep
-16	kha	kha	NOUN	NMLZ2	Case=Abs|Number=Sing	8	parataxis	8:parataxis	Gloss=NMLZ2|MSeg=kha|SpaceAfter=No
-17	,	,	PUNCT	_	_	8	punct	8:punct	_
+16	kha	kha	NOUN	NMLZ2	Case=Abs|Number=Sing	6	parataxis	6:parataxis	Gloss=NMLZ2|MSeg=kha|SpaceAfter=No
+17	,	,	PUNCT	_	_	6	punct	6:punct	_
 18-19	ɨcɨkheppayaŋ	_	_	_	_	_	_	_	_
 18	ɨcɨkheppa	cɨkheppa	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person=3	20	nsubj	20:nsubj	Gloss=3SG.POSS-stickiness|MSeg=u-cɨkheppa=yaŋ
 19	yaŋ	yaŋ	PART	ADD	_	18	advmod	18:advmod	Gloss=ADD|MSeg=yaŋ
