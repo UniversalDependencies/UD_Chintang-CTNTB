@@ -14823,7 +14823,7 @@
 14	khale	khal	ADJ	ADJZ	_	15	amod	15:amod	Gloss=kind-ADJZ|MSeg=khal-e
 15	cɨkhepcɨkhep	cɨkhepcɨkhep	ADV	_	_	16	acl:nmlz	16:acl:nmlz	Gloss=sticky|MSeg=cɨkhepcɨkhep
 16	kha	kha	NOUN	NMLZ2	Case=Abs|Number=Sing	8	parataxis	8:parataxis	Gloss=NMLZ2|MSeg=kha|SpaceAfter=No
-17	,	,	PUNCT	_	_	16	punct	16:punct	_
+17	,	,	PUNCT	_	_	8	punct	8:punct	_
 18-19	ɨcɨkheppayaŋ	_	_	_	_	_	_	_	_
 18	ɨcɨkheppa	cɨkheppa	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person=3	20	nsubj	20:nsubj	Gloss=3SG.POSS-stickiness|MSeg=u-cɨkheppa=yaŋ
 19	yaŋ	yaŋ	PART	ADD	_	18	advmod	18:advmod	Gloss=ADD|MSeg=yaŋ
@@ -24748,8 +24748,8 @@
 # english = All, uhm, what's it, knowledgeable people had to be brought here.
 1	Jamma	jammai	DET	_	PronType=Tot	3	reparandum	3:reparandum	Gloss=all|MSeg=jʌmma
 2	caĩ	caĩ	PART	CTOP	InfStruct=Top	1	advmod:emph	1:advmod:emph	Gloss=CTOP|MSeg=ca(h)ĩ
-3	ke	ke	INTJ	_	Foreign=Yes	5	discourse	5:discourse	Gloss=what|MSeg=ke|OrigLang=ne
-4	bhane	bhan	INTJ	_	Foreign=Yes	3	flat:foreign	3:flat:foreign	Gloss=say|MSeg=bhʌn̪|OrigLang=ne
+3	ke	ke	X	_	Foreign=Yes	5	discourse	5:discourse	Gloss=what|MSeg=ke|OrigLang=ne
+4	bhane	bhan	X	_	Foreign=Yes	3	flat:foreign	3:flat:foreign	Gloss=say|MSeg=bhʌn̪|OrigLang=ne
 5	kaŋice	ŋis	VERB	ACT.PTCP	Aspect=Imp|Case=Abs|Number=Nsing|VerbForm=Part|Voice=Act	8	obj	8:obj	Gloss=ACT.PTCP-know-NSG|MSeg=ka-ŋis-ce
 6	caĩ	caĩ	PART	CTOP	InfStruct=Top	5	advmod:emph	5:advmod:emph	Gloss=CTOP|MSeg=ca(h)ĩ
 7	bai	ba	ADV	LOC1	AdvType=Loc|Case=Loc|Deixis=Prox|PronType=Dem	8	advmod	8:advmod	Gloss=PROX-LOC1|MSeg=ba-iʔ
