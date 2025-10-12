@@ -269,12 +269,12 @@
 # english = It is the truth, Lord, if one asks what [this is].
 1	Satte	satya	NOUN	_	Case=Abs|Number=Sing	0	root	0:root	Gloss=truth|MSeg=sʌt̪t̪e
 2	parmeswora	parmeswari	NOUN	NTVZ	Case=Abs|Number=Sing	1	vocative	1:vocative	Gloss=lord-NTVZ|MSeg=pʌrmeswʌr-a|SpaceAfter=No
-3	,	,	PUNCT	_	_	8	punct	8:punct	_
+3	,	,	PUNCT	_	_	7	punct	7:punct	_
 4	ba	ba	PRON	_	Case=Abs|Deixis=Prox|Number=Sing|PronType=Dem	7	nsubj	7:nsubj	Gloss=PROX|MSeg=ba
 5	phaĩma	phaĩma	ADV	_	_	7	advmod	7:advmod	Gloss=near|MSeg=phaĩma
 6	caĩne	caĩ	PART	CTOP	InfStruct=Top	5	advmod:emph	5:advmod:emph	Gloss=CTOP|MSeg=caine
-7	ke	ke	VERB	_	Foreign=Yes	1	advcl	1:advcl	Gloss=what|MSeg=ke|OrigLang=ne
-8	bhanedekhi	bhan	VERB	_	Foreign=Yes	7	flat	7:flat	Gloss=say-COND|MSeg=bhʌn̪-ed̪ekhi|OrigLang=ne|SpaceAfter=No
+7	ke	ke	X	_	Foreign=Yes	1	advcl	1:advcl	Gloss=what|MSeg=ke|OrigLang=ne
+8	bhanedekhi	bhan	X	_	Foreign=Yes	7	flat:foreign	7:flat:foreign	Gloss=say-COND|MSeg=bhʌn̪-ed̪ekhi|OrigLang=ne|SpaceAfter=No
 9	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
 
 # sent_id = grammar_Introduction_9
@@ -2136,7 +2136,7 @@
 # sent_id = grammar_Morphology_100b
 # text = Camahaiʔmabimakhaŋma ukok!
 # english = [I will] try to eat all his rice!
-1	Camahaiʔmabimakhaŋma	ca-pid	VERB	COMPL3.TR-BEN	Aspect=ComplImp|Case=Abs|Mood=Con|VerbForm=Inf|Voice=Act	0	root	0:root	Gloss=eat-INF-COMPL3.TR-INF-BEN-INF-CON-INF|MSeg=ca-ma-hatt-ma-pid-ma-khag-ma
+1	Camahaiʔmabimakhaŋma	ca-pid	VERB	COMPL3.TR-BEN	Aspect=ComplImp|Case=Abs|VerbForm=Inf|Voice=Act	0	root	0:root	Gloss=eat-INF-COMPL3.TR-INF-BEN-INF-CON-INF|MSeg=ca-ma-hatt-ma-pid-ma-khag-ma
 2	ukok	kok	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person=3	1	obj	1:obj	Gloss=3SG.POSS-rice|MSeg=u-kok|SpaceAfter=No
 3	!	!	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
 
@@ -2944,7 +2944,7 @@
 1	Yoʔniyã	yo	ADV	DEM.LVL-DIR	AdvType=Loc|Case=LocErg|Deixis=Remt|PronType=Dem	3	advmod	3:advmod	Gloss=DEM.LVL-DIR-ERG|MSeg=yo-ʔni-ŋa
 2	le	le	PART	RESTR	InfStruct=Foc	1	advmod:emph	1:advmod:emph	Gloss=RESTR|MSeg=le
 3	copta	copt	VERB	_	Aspect=Perfv|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=look-IMP[.2[SG].S/A]|MSeg=copt-a|SpaceAfter=No
-4	!	!	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
+4	!	!	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
 
 # sent_id = grammar_Morphology_142d
 # text = Saŋbhoŋteĩbayuŋa uthabe maitiharu.
@@ -5094,7 +5094,7 @@
 # english = We could try and send the kids down towards Ladim.
 1	Ladimbamuʔni	Ladim	PROPN	LOC.DOWN-DIR	Case=LocLoc|Number=Sing	3	obl	3:obl	Gloss=a_place-LOC.DOWN-DIR|MSeg=laɖim-mu-ʔni
 2	chace	cha	NOUN	_	Case=Abs|Number=Nsing	3	obj	3:obj	Gloss=child-NSG|MSeg=cha-ce
-3	paŋmahaŋmace	paŋs	VERB	_	Aspect=Imp|Case=Abs|Mood=Con|Number[p]=Nsing|Person[p]=3|VerbForm=Inf|Voice=Act	0	root	0:root	Gloss=send-INF-CON-INF-3NSG.P|MSeg=paŋs-ma-khag-ma-ci
+3	paŋmahaŋmace	paŋs	VERB	_	Aspect=Imp|Case=Abs|Number[p]=Nsing|Person[p]=3|VerbForm=Inf|Voice=Act	0	root	0:root	Gloss=send-INF-CON-INF-3NSG.P|MSeg=paŋs-ma-khag-ma-ci
 4	[...]	[...]	PUNCT	_	_	3	punct	3:punct	SpaceAfter=No
 5	.	.	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
 
@@ -11440,7 +11440,7 @@
 # text = Sailuki ɨmɨkɨlsice rato ɨnɨŋno.
 # english = Little Saili's eyeballs look red.
 1	Sailuki	saĩli	NOUN	DIM4.F	Case=Abs|Degree=Dim|Number=Sing	2	nmod:poss	2:nmod:poss	Gloss=third_daughter-DIM4.F|MSeg=sa(h)ĩli-uki
-2	ɨmɨkɨlsice	mɨksɨlɨk	NOUN	_	Case=Abs|Number=NSing|Number[psor]=Sing|Person=3	4	nsubj	3:nsubj:xsubj|4:nsubj	Gloss=3SG.POSS-eyeball-PL|MSeg=u-mɨkɨlsi-ce
+2	ɨmɨkɨlsice	mɨksɨlɨk	NOUN	_	Case=Abs|Number=Nsing|Number[psor]=Sing|Person=3	4	nsubj	3:nsubj:xsubj|4:nsubj	Gloss=3SG.POSS-eyeball-PL|MSeg=u-mɨkɨlsi-ce
 3	rato	rato	ADJ	_	_	4	xcomp	4:xcomp	Gloss=red|MSeg=rat̪o
 4	ɨnɨŋno	nɨŋs	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=3[PL].S-seem-IND.NPST|MSeg=u-nɨŋs-nok|SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
@@ -14815,10 +14815,10 @@
 7	kina	kina	CCONJ	SEQ	_	8	cc	8:cc	Gloss=SEQ|MSeg=kina
 8	khaum	khag	VERB	_	Aspect=Imp|Clusivity=In|Mood=Sub|Number=Plur|Number[p]=Sing|Person=1|Person[p]=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	6:conj|20:advcl	Gloss=watch-3[SG].P-[SUBJ.NPST.]1PL[.INCL].A|MSeg=khag-u-m
 9	para	para	SCONJ	COND1	_	6	mark	6:mark|8:mark	Gloss=COND1|MSeg=para|SpaceAfter=No
-10	,	,	PUNCT	_	_	16	punct	16:punct	_
+10	,	,	PUNCT	_	_	6	punct	6:punct	_
 11-12	bagoiʔ	_	_	_	_	_	_	_	_
-11	ba	ba	DET	_	Deixis=Prox|PronType=Dem	2	det:nmlz	2:det:nmlz	Gloss=PROX|MSeg=ba
-12	goiʔ	go	NOUN	NMLZ1-LOC1	Case=Loc|Number=Sing	15	obl	15:obl	Gloss=NMLZ1-LOC1|MSeg=go-iʔ
+11	ba	ba	DET	_	Deixis=Prox|PronType=Dem	12	det:nmlz	12:det:nmlz	Gloss=PROX|MSeg=ba
+12	goiʔ	go	NOUN	NMLZ1-LOC1	Case=Loc|Number=Sing	15	nsubj	15:nsubj	Gloss=NMLZ1-LOC1|MSeg=go-iʔ
 13	thitta	thitta	NUM	_	Animacy=Nhum|NumType=Card	14	nummod	14:nummod	Gloss=one|MSeg=thitta
 14	khale	khal	ADJ	ADJZ	_	15	amod	15:amod	Gloss=kind-ADJZ|MSeg=khal-e
 15	cɨkhepcɨkhep	cɨkhepcɨkhep	ADV	_	_	16	acl:nmlz	16:acl:nmlz	Gloss=sticky|MSeg=cɨkhepcɨkhep
@@ -16474,7 +16474,7 @@
 1	Yo	yo	DET	DEM.LVL	Deixis=Remt|PronType=Dem	3	det	3:det	Gloss=DEM.LVL|MSeg=yo
 2-5	yogoiʔtamo	_	_	_	_	_	_	_	_
 2	yo	yo	DET	DEM.LVL	Deixis=Remt|PronType=Dem	3	det:nmlz	3:det:nmlz	Gloss=DEM.LVL|MSeg=yo
-3	goiʔ	go	NOUN	NMLZ1-LOC1	Case=Loc|Number=Sing	5	obl	5:obl	Gloss=NMLZ1-LOC1|MSeg=go-iʔ
+3	goiʔ	go	NOUN	NMLZ1-LOC1	Case=Loc|Number=Sing	6	obl	6:obl	Gloss=NMLZ1-LOC1|MSeg=go-iʔ
 4	ta	ta	PART	FOC	InfStruct=Foc	3	advmod:emph	3:advmod:emph	Gloss=FOC|MSeg=ta
 5	mo	mo	SCONJ	CIT	_	3	case	3:case	Gloss=CIT|MSeg=mo
 6	aceknoʔ	cekt	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=2[SG].S-say-IND.NPST|MSeg=a-cekt-nok
@@ -20232,12 +20232,12 @@
 4	tisum	tis	VERB	_	Aspect=Imp|Clusivity=In|Mood=Sub|Number=Plur|Number[p]=Sing|Person=1|Person[p]=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=plant-[SBJV.NPST.]3[SG].P-1PL[.INCL].A|MSeg=tis-u-m
 5	kina	kina	CCONJ	SEQ	_	11	cc	11:cc	Gloss=SEQ|MSeg=kina
 6	na	na	PART	TOP	InfStruct=Top	5	advmod:emph	5:advmod:emph	Gloss=TOP|MSeg=na
-7	[...]	[...]	PUNCT	_	_	11	discourse	11:discourse	_
+7	[...]	[...]	PUNCT	_	_	11	punct	11:punct	_
 8-9	huŋgo	_	_	_	_	_	_	_	_
 8	huŋ	hun	DET	_	Deixis=Med|PronType=Dem	9	det:nmlz	9:det:nmlz	Gloss=MED|MSeg=hun
 9	go	go	NOUN	NMLZ1	Case=Abs|Number=Sing	10	nmod	10:nmod	Gloss=NMLZ1|MSeg=go
 10	meĩ	meĩ	NOUN	_	Case=Abs|Number=Sing	11	nsubj	11:nsubj	Gloss=thing|MSeg=meĩ
-11	lino	lis	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cc	4:cc	Gloss=happen-IND.NPST[.3SG.S]|MSeg=lis-nok|SpaceAfter=No
+11	lino	lis	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	4:conj	Gloss=happen-IND.NPST[.3SG.S]|MSeg=lis-nok|SpaceAfter=No
 12	.	.	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
 
 # sent_id = grammar_Complex_73
@@ -21358,7 +21358,7 @@
 13	numma	numd	VERB	_	Aspect=Imp|Case=Abs|VerbForm=Inf|Voice=Act	9	conj	9:conj	Gloss=do-INF|MSeg=numd-ma
 14	kina	kina	CCONJ	SEQ	_	15	cc	15:cc	Gloss=SEQ|MSeg=kina
 15-16	siŋanemo	_	_	_	_	_	_	_	_
-15	siŋane	si	VERB	_	Aspect=Imp|Mood=OptSub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	13	conj	13:conj|9:conj	Gloss=die-[SBJV.NPST.]1SG.S-OPT|MSeg=si-ŋa-ne
+15	siŋane	si	VERB	_	Aspect=Imp|Mood=OptSub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	13	conj	9:conj|13:conj	Gloss=die-[SBJV.NPST.]1SG.S-OPT|MSeg=si-ŋa-ne
 16	mo	mo	SCONJ	CIT	_	13	mark	13:mark|15:mark	Gloss=CIT|MSeg=mo
 17	kina	kina	CCONJ	SEQ	_	13	cc	13:cc	Gloss=SEQ|MSeg=kina|SpaceAfter=No
 18	.	.	PUNCT	_	_	9	punct	9:punct	SpacesAfter=\n
@@ -21495,7 +21495,7 @@
 10	ta	ta	PART	FOC	InfStruct=Foc	9	advmod:emph	9:advmod:emph	Gloss=FOC|MSeg=ta
 11	meĩce	meĩ	NOUN	_	Case=Abs|Number=Nsing	13	reparandum	13:reparandum	Gloss=thing-NSG|MSeg=meĩ-ce|SpaceAfter=No
 12	,	,	PUNCT	_	_	11	punct	11:punct	_
-13	balice	bali	NOUN	_	Case=Abs|Number=Nsing	15	nsubj	13:nsubj:xsubj|15:nsubj	Gloss=crop-NSG|MSeg=bali-ce
+13	balice	bali	NOUN	_	Case=Abs|Number=Nsing	15	nsubj	14:nsubj:xsubj|15:nsubj	Gloss=crop-NSG|MSeg=bali-ce
 14	simaiʔma	si	VERB	COMPL3.ITR	Aspect=ComplImp|Case=Abs|VerbForm=Inf|Voice=Act	15	xcomp	15:xcomp	Gloss=die-INF-COMPL3.ITR-INF|MSeg=si-ma-hat-ma
 15	ulapte	lapt	VERB	_	Aspect=Perfv|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=3[PL].S-be_about_to-IND.PST|MSeg=u-lapt-e|SpaceAfter=No
 16	.	.	PUNCT	_	_	15	punct	15:punct	SpacesAfter=\n
