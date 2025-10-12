@@ -26,7 +26,7 @@
 4	salabeʔ	sal	NOUN	NTVZ-LOC2	Case=Loc|Number=Sing	6	obl	6:obl	Gloss=year-NTVZ-LOC2|MSeg=sal-a-beʔ
 5	baiʔ	ba	ADV	LOC1	AdvType=Loc|Case=Loc|Deixis=Prox|PronType=Dem	6	advmod	6:advmod	Gloss=PROX-LOC1|MSeg=ba-iʔ
 6	apkaap	apt	VERB	_	Aspect=Imp|Case=Abs|VerbForm=Inf|Voice=Rcp	0	root	0:root	Gloss=shoot-RECP~STEM|MSeg=apt-ka~apt
-7	uluse	lus	AUX	_	Aspect=Perfv|Mood=Ind|Number=Plur|Person=3|Tense=Past	6	aux	6:aux	Gloss=3[PL].S-AUX-IND.PST|MSeg=u-lus-e
+7	uluse	lus	AUX	_	Aspect=Perfv|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	aux	6:aux	Gloss=3[PL].S-AUX-IND.PST|MSeg=u-lus-e
 8	kina	kina	CCONJ	SEQ	_	6	cc	6:cc	Gloss=SEQ|MSeg=kina|SpaceAfter=No
 9	...	...	PUNCT	_	_	6	punct	6:punct	SpacesAfter=\n
 
@@ -3579,7 +3579,7 @@
 9	go	go	NOUN	NMLZ1	Case=Abs|Number=Sing	10	nsubj:outer	10:nsubj:outer	Gloss=NMLZ1|MSeg=go
 10	khasɨŋkasɨŋ	kha-sɨŋ	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Rcp	12	acl:nmlz	12:acl:nmlz	Gloss=ask-STEM-RECP~STEM|MSeg=kha-sɨŋ-ka~sɨŋ
 11-12	lumakha	_	_	_	_	_	_	_	_
-11	luma	lus	AUX	_	VerbForm=Inf	10	aux	10:aux	Gloss=AUX-INF|MSeg=lus-ma
+11	luma	lus	AUX	_	Aspect=Imp|Case=Abs|VerbForm=Inf|Voice=Act	10	aux	10:aux	Gloss=AUX-INF|MSeg=lus-ma
 12	kha	kha	NOUN	NMLZ2	Case=Abs|Number=Sing	4	parataxis	4:parataxis	Gloss=NMLZ2|MSeg=kha
 13	raicha	raicha	PART	MIR	_	12	discourse	12:discourse	Gloss=MIR|MSeg=rʌichʌ|SpaceAfter=No
 14	.	.	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
@@ -4316,7 +4316,7 @@
 # english = And they don't see each other.
 1	Ani	ani	CCONJ	_	_	2	cc	2:cc	Gloss=and|MSeg=ʌn̪i
 2	khaŋkakhaŋ	khag	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Rcp	0	root	0:root	Gloss=see-RECP~STEM|MSeg=khag-ka~khag
-3	ulucekenɨŋ	lus	AUX	_	Aspect=Imp|Mood=Ind|Number=Dual|Person=3|Polarity=Neg|Tense=Pres	2	aux	2:aux	Gloss=3.S-AUX-DU-IND.NPST-NEG|MSeg=u-lus-ci-kV-nɨŋ|SpaceAfter=No
+3	ulucekenɨŋ	lus	AUX	_	Aspect=Imp|Mood=Ind|Number=Dual|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	2	aux	2:aux	Gloss=3.S-AUX-DU-IND.NPST-NEG|MSeg=u-lus-ci-kV-nɨŋ|SpaceAfter=No
 4	.	.	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
 
 # sent_id = grammar_Complex_179
@@ -5402,7 +5402,7 @@
 2	garda	garda	SCONJ	TMP.LOC2	_	1	mark	1:mark	Gloss=TMP.LOC2|MSeg=gʌrd̪a
 3	yaŋ	yaŋ	PART	ADD	InfStruct=Foc	1	advmod:emph	1:advmod:emph	Gloss=ADD|MSeg=yaŋ
 4	seĩkaseĩ	sen	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Rcp	6	xcomp	6:xcomp	Gloss=ask-RECP~STEM|MSeg=sen-ka~sen
-5	luma	lus	AUX	_	VerbForm=Inf	4	aux	4:aux	Gloss=AUX-INF|MSeg=lus-ma
+5	luma	lus	AUX	_	Aspect=Imp|Case=Abs|VerbForm=Inf|Voice=Act	4	aux	4:aux	Gloss=AUX-INF|MSeg=lus-ma
 6	chittukumnɨŋ	chitt	VERB	_	Aspect=Imp|Clusivity=In|Mood=Ind|Number=Plur|Number[p]=Sing|Person=1|Person[p]=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=find-3[SG].P-IND.NPST-1PL[.INCL].A-NEG|MSeg=chitt-u-kV-m-nɨŋ
 7	ni	ni	PART	ASS	_	6	discourse	6:discourse	Gloss=ASS|MSeg=n̪i
 8	naŋ	naŋ	CCONJ	CNTR	_	6	cc	6:cc	Gloss=CNTR|MSeg=nahaŋ|SpaceAfter=No
@@ -5414,7 +5414,7 @@
 1	Hiccibaŋ	hicce	NUM	_	Animacy=Hum|NumType=Card	3	nsubj	3:nsubj	Gloss=two-HUM.CLF|MSeg=hicci-paŋ
 2	khaŋma	khag	VERB	_	Aspect=Imp|Case=Abs|VerbForm=Inf|Voice=Act	3	xcomp	3:xcomp	Gloss=see-INF|MSeg=khag-ma
 3	lekale	les	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Rcp	0	root	0:root	Gloss=like-RECP~STEM|MSeg=les-ka~les
-4	alusace	lus	AUX	_	Aspect=Perfv|Mood=Ind|Number=Dual|Person=2|Tense=Past	3	aux	3:aux	Gloss=2.S-AUX-PST-DU-IND.PST|MSeg=a-lus-a-ci-e
+4	alusace	lus	AUX	_	Aspect=Perfv|Mood=Ind|Number=Dual|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	3	aux	3:aux	Gloss=2.S-AUX-PST-DU-IND.PST|MSeg=a-lus-a-ci-e
 5	ki	kina	CCONJ	SEQ	_	3	conj	3:conj	Gloss=SEQ|MSeg=kina|SpaceAfter=No
 6	...	...	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
 
@@ -6507,7 +6507,7 @@
 7	najikka	najik	ADV	NTVZ	_	6	advmod	6:advmod	Gloss=near-NTVZ|MSeg=n̪ʌjik-a
 8	go	go	NOUN	NMLZ1	Case=Abs|Number=Sing	4	conj	4:conj|9:nsubj	Gloss=NMLZ1|MSeg=go
 9	paiʔkapai	patt	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Rcp	0	root	0:root	Gloss=call-RECP~STEM|MSeg=patt-ka~patt
-10	lusiki	lus	AUX	_	Aspect=Imp|Clusivity=In|Mood=Ind|Number=Plur|Person=1|Tense=Pres	9	aux	9:aux	Gloss=AUX-1PL[.INCL].S-IND.NPST|MSeg=lus-ĩ-kV|SpaceAfter=No
+10	lusiki	lus	AUX	_	Aspect=Imp|Clusivity=In|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	9	aux	9:aux	Gloss=AUX-1PL[.INCL].S-IND.NPST|MSeg=lus-ĩ-kV|SpaceAfter=No
 11	,	,	PUNCT	_	_	12	punct	12:punct	_
 12	utanoʔ	ta	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	conj	9:conj	Gloss=3[PL].S-come-IND.NPST|MSeg=u-ta-nok|SpaceAfter=No
 13	.	.	PUNCT	_	_	9	punct	9:punct	SpacesAfter=\n
@@ -6683,7 +6683,7 @@
 # text = Pamkapam luce!
 # english = Let's scratch each other!
 1	Pamkapam	pamd	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Rcp	0	root	0:root	Gloss=scratch-RECP~STEM|MSeg=pamd-ka~pamd
-2	luce	lus	AUX	_	Aspect=Imp|Clusivity=In|Mood=Sub|Number=Dual|Person=1|Tense=Pres	1	aux	1:aux	Gloss=AUX-[SBJV.NPST.1]DU[.INCL.S]|MSeg=lus-ci|SpaceAfter=No
+2	luce	lus	AUX	_	Aspect=Imp|Clusivity=In|Mood=Sub|Number=Dual|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	aux	1:aux	Gloss=AUX-[SBJV.NPST.1]DU[.INCL.S]|MSeg=lus-ci|SpaceAfter=No
 3	!	!	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
 
 # sent_id = grammar_Complex_287
@@ -6701,7 +6701,7 @@
 1	Copkacop	copt	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Rcp	0	root	0:root	Gloss=look_at-RECP-look_at|MSeg=copt-ka-copt
 2	na	na	PART	TOP	InfStruct=Top	1	advmod:emph	1:advmod:emph	Gloss=TOP|MSeg=na
 3-4	alusaceta	_	_	_	_	_	_	_	SpaceAfter=No
-3	alusace	lus	AUX	_	Aspect=Imp|Mood=Ind|Number=Dual|Person=2|Tense=Past	1	aux	1:aux	Gloss=2.S-AUX-PST-DU-IND.PST|MSeg=a-lus-a-ci-e
+3	alusace	lus	AUX	_	Aspect=Imp|Mood=Ind|Number=Dual|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	1	aux	1:aux	Gloss=2.S-AUX-PST-DU-IND.PST|MSeg=a-lus-a-ci-e
 4	ta	ta	PART	FOC	InfStruct=Foc	1	advmod:emph	1:advmod:emph	Gloss=FOC|MSeg=ta
 5	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
 
@@ -7592,7 +7592,7 @@
 1	Wa	wa	NOUN	_	Case=Abs|Number=Sing	5	nsubj	5:nsubj	Gloss=chicken|MSeg=wa
 2	yaŋ	yaŋ	PART	ADD	InfStruct=Foc	1	advmod:emph	1:advmod:emph	Gloss=ADD|MSeg=yaŋ
 3	lo	lo	PART	SURP	InfStruct=Foc	1	advmod:emph	1:advmod:emph	Gloss=SURP|MSeg=lo
-4	mojja	majja	ADV	_	Case=Abs|Number=Sing	5	advmod	5:advmod	Gloss=nicely|MSeg=mʌjja
+4	mojja	majja	ADV	_	_	5	advmod	5:advmod	Gloss=nicely|MSeg=mʌjja
 5	thade	that	VERB	_	Aspect=Perfv|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=appear-IND.PST[.3SG.S]|MSeg=that-e
 6	na	na	PART	TOP	InfStruct=Top	5	advmod:emph	5:advmod:emph	Gloss=TOP|MSeg=na|SpaceAfter=No
 7	.	.	PUNCT	_	_	5	punct	5:punct	SpacesAfter=\n
@@ -7857,7 +7857,7 @@
 # english = It seems like your corn has dried nicely.
 1	Hanimakai	makai	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Plur|Person=2	4	nsubj	4:nsubj	Gloss=2PL.POSS-corn|MSeg=hani-mʌkʌi
 2	na	na	PART	TOP	InfStruct=Top	1	advmod:emph	1:advmod:emph	Gloss=TOP|MSeg=na
-3	mojja	mojja	ADV	_	Case=Abs|Number=Sing	4	advmod	4:advmod	Gloss=nicely|MSeg=mʌjja
+3	mojja	mojja	ADV	_	_	4	advmod	4:advmod	Gloss=nicely|MSeg=mʌjja
 4	chobadaŋse	chop	VERB	COMPL3.ITR	Aspect=ComplPerf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=dry-PST-COMPL3.ITR-PST-PRF-IND.PST[.3SG.S]|MSeg=chop-a-hat-a-ŋs-e
 5	raicha	raicha	PART	MIR	_	4	discourse	4:discourse	Gloss=MIR|MSeg=rʌichʌ|SpaceAfter=No
 6	.	.	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
@@ -10034,7 +10034,7 @@
 2-3	nikaniyaŋ	_	_	_	_	_	_	_	_
 2	nikani	ŋis	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Rcp	0	root	0:root	Gloss=know-RECP~STEM|MSeg=ŋis-ka~ŋis
 3	yaŋ	yaŋ	PART	ADD	InfStruct=Foc	2	advmod:emph	2:advmod:emph	Gloss=ADD|MSeg=yaŋ
-4	lusiki	lus	AUX	_	Aspect=Imp|Clusivity=In|Mood=Ind|Number=Plur|Person=1|Tense=Pres	2	aux	2:aux	Gloss=AUX-1PL[.INCL].S-IND.NPST|MSeg=lus-ĩ-kV|SpaceAfter=No
+4	lusiki	lus	AUX	_	Aspect=Imp|Clusivity=In|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	aux	2:aux	Gloss=AUX-1PL[.INCL].S-IND.NPST|MSeg=lus-ĩ-kV|SpaceAfter=No
 5	.	.	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
 
 # sent_id = grammar_Morphology_82
@@ -10062,7 +10062,7 @@
 # english = Before Ram and the guy down there were kicking each other.
 1	Athom	athom	ADV	_	_	2	advmod	2:advmod	Gloss=before|MSeg=athom
 2	tɨŋkatɨŋ	tɨŋs	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Rcp	0	root	0:root	Gloss=kick-STEM-RECP~STEM|MSeg=tɨŋs-ka~tɨŋs
-3	ulusaŋsace	lus	AUX	_	Aspect=Perf|Mood=Ind|Number=Dual|Person=3|Tense=Past	2	aux	2:aux	Gloss=3.S-AUX-PST-PRF-PST-DU-IND.PST|MSeg=u-lus-a-ŋs-a-ci-e
+3	ulusaŋsace	lus	AUX	_	Aspect=Perf|Mood=Ind|Number=Dual|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	aux	2:aux	Gloss=3.S-AUX-PST-PRF-PST-DU-IND.PST|MSeg=u-lus-a-ŋs-a-ci-e
 4	Ramenɨŋ	Ram	PROPN	NICK	Case=Com|Number=Sing	2	nsubj	2:nsubj	Gloss=a_name-NICK-COM|MSeg=ram-e-nɨŋ
 5	monɨŋ	mo	PRON	DEM.DOWN	Case=Com|Deixis=Remt|Number=Sing|PronType=Dem	4	nmod	4:nmod	Gloss=DEM.DOWN-COM|MSeg=mo-nɨŋ|SpaceAfter=No
 6	.	.	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
@@ -10071,7 +10071,7 @@
 # text = Pokkathaka alusace kina pheri atubaŋsace, mahaʔ?
 # english = You left each other and then you met again, didnt you?
 1	Pokkathaka	pok-tha	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Rcp	0	root	0:root	Gloss=leave-RECP-STEM-RECP|MSeg=pok-ka-tha-ka
-2	alusace	lus	AUX	_	Aspect=Imp|Mood=Ind|Number=Dual|Person=2|Tense=Past	1	aux	1:aux	Gloss=2.S-AUX-PST-DU-IND.PST|MSeg=a-lus-a-ci-e
+2	alusace	lus	AUX	_	Aspect=Imp|Mood=Ind|Number=Dual|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	1	aux	1:aux	Gloss=2.S-AUX-PST-DU-IND.PST|MSeg=a-lus-a-ci-e
 3	kina	kina	CCONJ	SEQ	_	5	cc	5:cc	Gloss=SEQ|MSeg=kina
 4	pheri	pheri	ADV	_	_	5	advmod	5:advmod	Gloss=again|MSeg=pheri
 5	atubaŋsace	tup	VERB	_	Aspect=Perf|Mood=Ind|Number=Dual|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	1:conj	Gloss=2SG-meet-PST-PRF-PST-DU-IND.PST|MSeg=a-tup-a-ŋs-a-ci-e|SpaceAfter=No
@@ -11154,7 +11154,7 @@
 # english = My relatives came over from Sambugaũ.
 1	Saŋbhoŋteĩbayuŋa	Saŋbhoŋteĩ	PROPN	LOC.LVL	Case=LocErg|Number=Sing	2	obl	2:obl	Gloss=a_place-LOC.LVL-ERG|MSeg=saŋbhoŋteĩ-bayuk-ŋa
 2	uthabe	thap	VERB	_	Aspect=Perfv|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=3[PL].S-come_across-IND.PST|MSeg=u-thap-e
-3	maitiharu	maiti	NOUN	_	Case=Abs|Number=Plur	2	nsubj	2:nsubj	Gloss=married_woman's_relatives-PL|MSeg=mʌit̪i-hʌru|SpaceAfter=No
+3	maitiharu	maiti	NOUN	_	Case=Abs|Number=Nsing	2	nsubj	2:nsubj	Gloss=married_woman's_relatives-PL|MSeg=mʌit̪i-hʌru|SpaceAfter=No
 4	.	.	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
 
 # sent_id = grammar_Morphology_143a
@@ -13670,7 +13670,7 @@
 # sent_id = grammar_Reference_54b
 # text = Yolam thapnogo huŋgo ma them.
 # english = [I mean] that woman who's coming over.
-1	Yolam	yo	ADV	DEM.LVL	AdvType=Loc|Case=Per|Deixis=Remt|PronType=Dem	2	advmod	2:advmod	Gloss=DEM.LVL-PERL|MSeg=yo-lam
+1	Yolam	yo	ADV	DEM.LVL	AdvType=Loc|Case=LocPer|Deixis=Remt|PronType=Dem	2	advmod	2:advmod	Gloss=DEM.LVL-PERL|MSeg=yo-lam
 2-3	thapnogo	_	_	_	_	_	_	_	_
 2	thapno	thap	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl:nmlz	3:acl:nmlz	Gloss=come_across-IND.NPST[.3SG.S]|MSeg=thap-nok
 3	go	go	NOUN	NMLZ1	Case=Abs|Number=Sing	6	nmod	6:nmod	Gloss=NMLZ1|MSeg=go
@@ -19129,7 +19129,7 @@
 2	Lokendranɨŋ	Lokendra	PROPN	_	Case=Com|Number=Sing	3	nmod	3:nmod	Gloss=a_name-COM|MSeg=loken̪d̪rʌ-nɨŋ
 3	Lakhmannɨŋ	Lakhman	PROPN	_	Case=Com|Number=Sing	4	obj:caus	4:obj:caus	Gloss=a_name-COM|MSeg=lakhmʌn-nɨŋ
 4	mɨkseĩkhaŋmeiʔkameiʔ	mɨkseĩ-khag	VERB	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=CauRefl	0	root	0:root	Gloss=recognize-STEM-CAUS-REFL-CAUS|MSeg=mɨkseĩ-khag-mett-ka-mett
-5	lumettuce	lus	AUX	_	Aspect=Perfv|Mood=Ind|Number=Sing|Number[p]=Nsing|Person=3|Person[p]=3|Tense=Past|Voice=Cau	4	aux	4:aux	Gloss=AUX-CAUS-3.P-3NSG.P-IND.PST[.3SG.A]|MSeg=lus-mett-u-ci-e|SpaceAfter=No
+5	lumettuce	lus	AUX	_	Aspect=Perfv|Mood=Ind|Number=Sing|Number[p]=Nsing|Person=3|Person[p]=3|Tense=Past|VerbForm=Fin|Voice=Cau	4	aux	4:aux	Gloss=AUX-CAUS-3.P-3NSG.P-IND.PST[.3SG.A]|MSeg=lus-mett-u-ci-e|SpaceAfter=No
 6	.	.	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
 
 # sent_id = grammar_Reference_292
@@ -19141,7 +19141,7 @@
 3	khalko	khal	NOUN	GEN	Case=Abs|Number=Sing|Poss=Yes	4	nmod:poss	4:nmod:poss	Gloss=kind-GEN|MSeg=khal-ko
 4	sahayog	sahayog	NOUN	_	Case=Abs|Number=Sing	5	obj	5:obj	Gloss=help|MSeg=sʌhʌyog
 5	pikapi	pid	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Rcp	0	root	0:root	Gloss=give-RECP~STEM|MSeg=pid-ka~pid
-6	lusikiyã	lus	AUX	_	Aspect=Imp|Clusivity=Ex|Mood=Ind|Number=Plur|Person=1|Tense=Pres	5	aux	5:aux	Gloss=AUX-1PL.S-IND.NPST-EXCL|MSeg=lus-ĩ-kV-ŋa
+6	lusikiyã	lus	AUX	_	Aspect=Imp|Clusivity=Ex|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	5:aux	Gloss=AUX-1PL.S-IND.NPST-EXCL|MSeg=lus-ĩ-kV-ŋa
 7	teĩbe	teĩ	NOUN	LOC2	Case=Loc|Number=Sing	5	obl	5:obl	Gloss=village-LOC2|MSeg=teĩ-beʔ|SpaceAfter=No
 8	.	.	PUNCT	_	_	5	punct	5:punct	SpacesAfter=\n
 
@@ -19150,7 +19150,7 @@
 # english = They drop each other near the dancer.
 1	Lakkaluppabe	lak-lus	VERB	ACT.PTCP-REF-LOC2	Aspect=Imp|Case=Loc|Number=Sing|VerbForm=Part|Voice=Act	2	obl	2:obl	Gloss=dance-ACT.PTCP-STEM-REF-LOC2|MSeg=lak-ka-lus-pa-beʔ
 2	thaĩkathaĩ	thand-thand	VERB	_	Aspect=Imp|Case=Abs|VerbForm=Inf|Voice=Rcp	0	root	0:root	Gloss=drop-RECP~STEM|MSeg=thand-ka~thand
-3	uluno	lus	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres	2	aux	2:aux	Gloss=3[PL].S-AUX-IND.NPST|MSeg=u-lus-nok|SpaceAfter=No
+3	uluno	lus	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	aux	2:aux	Gloss=3[PL].S-AUX-IND.NPST|MSeg=u-lus-nok|SpaceAfter=No
 4	.	.	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
 
 # sent_id = grammar_Reference_294
@@ -19158,7 +19158,7 @@
 # english = Let them hit each other with stones.
 1	Luŋghekŋa	luŋtak	NOUN	_	Case=Erg|Number=Sing	2	iobj	2:iobj	Gloss=stone-ERG|MSeg=luŋghek-ŋa
 2	caiʔkacaiʔ	catt-catt	VERB	_	Aspect=Imp|Case=Abs|VerbForm=Inf|Voice=Rcp	0	root	0:root	Gloss=hit-RECP~STEM|MSeg=catt-ka~catt
-3	uluce	lus	AUX	_	Aspect=Imp|Mood=Sub|Number=Dual|Person=3|Tense=Pres	2	aux	2:aux	Gloss=3.S-AUX-[SUBJ.NPST.]DU|MSeg=u-lus-ci|SpaceAfter=No
+3	uluce	lus	AUX	_	Aspect=Imp|Mood=Sub|Number=Dual|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	aux	2:aux	Gloss=3.S-AUX-[SUBJ.NPST.]DU|MSeg=u-lus-ci|SpaceAfter=No
 4	.	.	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
 
 # sent_id = grammar_Reference_295a
@@ -20247,7 +20247,7 @@
 # english = No, we had come down that way up there.
 1	Manchi	manchi	INTJ	_	Polarity=Neg	5	discourse	5:discourse	Gloss=NEG.EXIST|MSeg=manchiʔ|SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	1:punct	_
-3	tolamma	to	ADV	DEM.UP	AdvType=Loc|Case=PerErg|Deixis=Remt|Number=Sing|PronType=Dem	4	obl	4:obl	Gloss=DEM.UP-PERL-ERG|MSeg=to-lam-ŋa
+3	tolamma	to	ADV	DEM.UP	AdvType=Loc|Case=LocPerErg|Deixis=Remt|PronType=Dem	4	advmod	4:advmod	Gloss=DEM.UP-PERL-ERG|MSeg=to-lam-ŋa
 4-5	kuŋsiŋsiŋakha	_	_	_	_	_	_	_	SpaceAfter=No
 4	kuŋsiŋsiŋa	kuŋs	VERB	_	Aspect=Perf|Clusivity=Ex|Mood=Sub|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	5	acl:nmlz	5:acl:nmlz	Gloss=come_down-1PL.S-PRF-1PL.S-[SUBJ.PST.]EXCL|MSeg=kuŋs-ĩ-ŋs-ĩ-ŋa
 5	kha	kha	NOUN	NMLZ2	Case=Abs|Number=Sing	0	root	0:root	Gloss=NMLZ2|MSeg=kha
@@ -21869,7 +21869,7 @@
 # text = Dhankutabe ayulam thabe ki...
 # english = He came to Dhankuta from far over there, and then...
 1	Dhankutabe	Dhankuta	PROPN	LOC2	Case=Loc|Number=Sing	3	obl	3:obl	Gloss=a_place-LOC2|MSeg=d̪hʌn̪kuʈa-beʔ
-2	ayulam	yo	ADV	DEM.LVL	AdvType=Loc|Case=Per|Deixis=Remt|PronType=Dem|Reach=Remote	3	advmod	3:advmod	Gloss=REMOTE-DEM.LVL-PERL|MSeg=a-yo-lam
+2	ayulam	yo	ADV	DEM.LVL	AdvType=Loc|Case=LocPer|Deixis=Remt|PronType=Dem|Reach=Remote	3	advmod	3:advmod	Gloss=REMOTE-DEM.LVL-PERL|MSeg=a-yo-lam
 3	thabe	thap	VERB	_	Aspect=Perfv|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=come_across-IND.PST[.3SG.S]|MSeg=thap-e
 4	ki	kina	CCONJ	_	_	3	cc	3:cc	Gloss=SEQ|MSeg=kina|SpaceAfter=No
 5	...	...	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
@@ -22761,7 +22761,7 @@
 # text = Abo jaso maichap huŋkhita lisiki.
 # english = Whatever we are destined to, so we become.
 1	Abo	abo	ADV	_	_	3	advmod	3:advmod	Gloss=now|MSeg=abo
-2	jaso	j	ADV	_	AdvType=Mod|Case=Abs|PronType=Rel	3	advmod	3:advmod	Gloss=REL-MOD|MSeg=j-ʌso
+2	jaso	j	ADV	_	AdvType=Mod|PronType=Rel	3	advmod	3:advmod	Gloss=REL-MOD|MSeg=j-ʌso
 3	maichap	chapt	VERB	_	Aspect=Imp|Clusivity=In|Mood=Sub|Number[p]=Nsing|Person=3|Person[p]=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=1NSG.INCL.P-be_destined[.SUBJ.NPST.3.A]|MSeg=mai-chapt
 4-5	huŋkhita	_	_	_	_	_	_	_	_
 4	huŋkhi	hun	ADV	_	AdvType=Mod|Deixis=Med|PronType=Dem	6	advmod	6:advmod	Gloss=MED-MOD|MSeg=hun-khiʔ
@@ -23516,7 +23516,7 @@
 6-7	tɨŋkatɨŋta	_	_	_	_	_	_	_	_
 6	tɨŋkatɨŋ	tɨŋs	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Rcp	0	root	0:root	Gloss=kick-RECP~STEM|MSeg=tɨŋs-ka~tɨŋs
 7	ta	ta	PART	FOC	InfStruct=Foc	6	advmod:emph	6:advmod:emph	Gloss=FOC|MSeg=ta
-8	uluceke	lus	AUX	_	Aspect=Imp|Mood=Ind|Number=Dual|Person=3|Tense=Pres	6	aux	6:aux	Gloss=3.S-AUX-DU-IND.NPST|MSeg=u-lus-ci-kV
+8	uluceke	lus	AUX	_	Aspect=Imp|Mood=Ind|Number=Dual|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	6:aux	Gloss=3.S-AUX-DU-IND.NPST|MSeg=u-lus-ci-kV
 9	hou	hou	PART	EMO	_	6	discourse	6:discourse	Gloss=EMO|MSeg=hʌu|SpaceAfter=No
 10	!	!	PUNCT	_	_	6	punct	6:punct	SpacesAfter=\n
 
@@ -24654,7 +24654,7 @@
 # sent_id = grammar_Syntactic_245b
 # text = Bali sapre meiʔmako lagi nikkai molla teiʔma konno.
 # english = In order to make crops grow well one has to use a lot of fertilizer.
-1	Bali	bali	ADV	_	Case=Abs|Number=Sing	3	iobj	3:iobj	Gloss=crops|MSeg=bali
+1	Bali	bali	NOUN	_	Case=Abs|Number=Sing	3	iobj	3:iobj	Gloss=crops|MSeg=bali
 2	sapre	sapr	VERB	V.NTVZ	VerbForm=Inf	3	xcomp	3:xcomp	Gloss=ripen-V.NTVZ|MSeg=sʌpri-e
 3	meiʔmako	mett	VERB	GEN	Aspect=Imp|Case=Abs|Poss=Yes|VerbForm=Inf|Voice=Act	8	advcl	8:advcl	Gloss=do_to-INF-GEN|MSeg=mett-ma-ko
 4	lagi	lagi	SCONJ	FIN	_	3	mark	3:mark	Gloss=FIN|MSeg=lagi
