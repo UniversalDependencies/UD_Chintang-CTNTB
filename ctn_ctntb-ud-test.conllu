@@ -326,7 +326,7 @@
 4-5	patrikabeyaŋ	_	_	_	_	_	_	_	_
 4	patrikabe	patrika	NOUN	LOC2	Case=Loc|Number=Sing	7	iobj	7:iobj	Gloss=magazine-LOC2|MSeg=pʌt̪rika-beʔ
 5	yaŋ	yaŋ	PART	ADD	InfStruct=Foc	4	advmod:emph	4:advmod:emph	Gloss=ADD|MSeg=yaŋ
-6	anakko	anaŋa	PRON	GEN	Case=Abs,Erg|Clusivity=Ex|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	7	obj	7:obj	Gloss=1PL.EXCL-LOC1.NMLZ1|MSeg=anaŋa-ko
+6	anakko	anaŋa	PRON	GEN	Case=Abs,Erg|Clusivity[psor]=Ex|Number=Sing|Number[psor]=Dual|Person=1|Poss=Yes|PronType=Prs	7	obj	7:obj	Gloss=1PL.EXCL-LOC1.NMLZ1|MSeg=anaŋa-ko
 7	pidumyuŋsumsumcummehẽ	pid-yuŋs	VERB	CONT	Aspect=Perf|Clusivity=Ex|Mood=Ind|Number=Nsing|Number[p]=Nsing|Person=1|Person[p]=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=give-3.P-1NSG.A-CONT-3.P-1NSG.A-PRF-3.P-1NSG.A-3NSG.P-1NSG.A-EXCL-IND.PST|MSeg=pid-u-m-yuŋs-u-m-ŋs-u-m-ci-m-ŋa-e|SpaceAfter=No
 8	.	.	PUNCT	_	_	7	punct	7:punct	SpacesAfter=\n
 
@@ -582,9 +582,9 @@
 1	ghoda	ghoda	NOUN	_	Case=Abs|Number=Sing	0	root	0:root	Gloss=horse|MSeg=ghoɖa
 2	kina	kina	CCONJ	SEQ	_	3	cc	3:cc	Gloss=SEQ|MSeg=kina
 3	sawari	sawari	VERB	_	Aspect=Imp|Case=Abs|VerbForm=Inf|Voice=Act	4	csubj	4:csubj	Gloss=travel|MSeg=sʌwari
-4	huda	hu	VERB	COP-CVB	Aspect=Imp|ExtPos=VERB|VerbForm=Conv|Voice=Act	7	advcl	7:advcl	Gloss=COP-CVB|MSeg=hu-d̪a
+4	huda	hu	VERB	COP-CVB	Aspect=Imp|VerbForm=Conv|Voice=Act	7	advcl	7:advcl	Gloss=COP-CVB|MSeg=hu-d̪a
 5-6	hudai	_	_	_	_	_	_	_	_
-5	hud	hu	VERB	COP-CVB	Aspect=Imp|ExtPos=VERB|VerbForm=Conv|Voice=Act	4	fixed	4:fixed	Gloss=COP-CVB|MSeg=hu-d̪a
+5	hud	hu	VERB	COP-CVB	Aspect=Imp|VerbForm=Conv|Voice=Act	4	fixed	4:fixed	Gloss=COP-CVB|MSeg=hu-d̪a
 6	ai	ai	PART	FOC	InfStruct=Foc	4	fixed	4:fixed	Gloss=FOC|MSeg=ʌi
 7	akhaʔnalok	khat	VERB	LNK-SIM	Aspect=Imp|Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	1:conj	Gloss=2[SG].S-go-LNK-SIM|MSeg=a-khat-na-lok|SpacesAfter=\n
 
@@ -663,7 +663,7 @@
 # sent_id = grammar_Morphology_23
 # text = Wanda chindayuk thuwabhuŋseʔta na, car ruppebeʔ lisadeʔ kina na...
 # english = In the coming days [the tomatoes] will have become ripe and then, when [their value] is at four rupees...
-1	Wanda	wanda	ADV	_	ExtPos=ADV	3	advmod	3:advmod	Gloss=tomorrow|MSeg=wandak
+1	Wanda	wanda	ADV	_	_	3	advmod	3:advmod	Gloss=tomorrow|MSeg=wandak
 2	chindayuk	chindayu	ADV	_	_	1	fixed	1:fixed	Gloss=day_after_tomorrow|MSeg=chindayuk
 3-4	thuwabhuŋseʔta	_	_	_	_	_	_	_	_
 3	thuwabhuŋseʔ	thu-bhuŋs	VERB	_	Aspect=Perfv|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=ripen-PST-pile_up-IND.PST[.3SG.S]|MSeg=thu-a-bhuŋs-e
@@ -776,7 +776,7 @@
 1	Maimettha	mett	VERB	_	Aspect=Perfv|Mood=Imp|Number=Sing|Number[p]=Sing|Person=2|Person[p]=3|Polarity=Neg|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=NEG-do_to-NEG-IMP-3[SG].P-IMP[.2SG.A]|MSeg=mai-mett-th-a-u-a|SpaceAfter=No
 2	,	,	PUNCT	_	_	5	punct	5:punct	_
 3-4	josota	_	_	_	_	_	_	_	_
-3	joso	j	ADV	_	AdvType=Mod|PronType=Ind	5	advmod	5:advmod	Gloss=REL-MOD|MSeg=j-ʌso
+3	joso	j	ADV	_	AdvType=Man|PronType=Ind	5	advmod	5:advmod	Gloss=REL-MOD|MSeg=j-ʌso
 4	ta	ta	PART	FOC	InfStruct=Foc	3	advmod:emph	3:advmod:emph	Gloss=FOC|MSeg=ta
 5-6	numnacanena	_	_	_	_	_	_	_	SpaceAfter=No
 5	numnacane	numd-ca	VERB	LNK-AUTOBEN	Aspect=Imp|Mood=OptSub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	1:parataxis	Gloss=do-LNK-AUTOBEN-[SUBJ.NPST.]OPT[.3SG.S]|MSeg=numd-na-ca-ne
@@ -1120,7 +1120,7 @@
 # sent_id = grammar_Morphology_47b
 # text = Huŋkhiʔnɨŋ ta uyuŋsaŋa ukhadaktalok huncimau [...] mahiyakte [...].
 # english = While they were going on living like that their mother was ill.
-1	Huŋkhiʔnɨŋ	hun	ADV	_	AdvType=Met|Deixis=Med|PronType=Dem	3	advmod	3:advmod	Gloss=MED-METHOD|MSeg=hun-khiʔnɨŋ
+1	Huŋkhiʔnɨŋ	hun	ADV	_	AdvType=Man|Deixis=Med|PronType=Dem	3	advmod	3:advmod	Gloss=MED-METHOD|MSeg=hun-khiʔnɨŋ
 2	ta	ta	PART	FOC	InfStruct=Foc	1	advmod:emph	1:advmod:emph	Gloss=FOC|MSeg=ta
 3	uyuŋsaŋa	yug	VERB	CVB.COORD	Aspect=Imp|ConvType=Coord|Number=Sing|Person=3|VerbForm=Conv|Voice=Act	4	advcl:coord	4:advcl:coord	Gloss=3SG-live-CVB.COORD|MSeg=u-yug-saŋa
 4	ukhadaktalok	khat	VERB	SIM	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	advcl:sim	7:advcl:sim	Gloss=3[PL].S-go-PST-IPFV-PST-SIM|MSeg=u-khat-a-yakt-a-lok
@@ -1461,7 +1461,7 @@
 1	Toba	to	ADV	DEM.UP-LOC2	AdvType=Loc|Case=Loc|Deixis=Remt|PronType=Dem	2	advmod:nmlz	2:advmod:nmlz	Gloss=DEM.UP-LOC|MSeg=to-beʔ-ko-ce-ŋa
 2	koceŋa	go	NOUN	NMLZ1	Case=Erg|Number=Nsing	4	nsubj	4:nsubj	Gloss=NMLZ-NSG-ERG|MSeg=to-beʔ-ko-ce-ŋa
 3	yaŋ	yaŋ	PART	ADD	InfStruct=Foc	2	advmod:emph	2:advmod:emph	Gloss=ADD|MSeg=yaŋ
-4	maikhaŋmaikhaŋdiyaktaŋse	khag-khag-tis	VERB	IN	Aspect=Perf|Clusivity=In|Mood=Ind|Number[p]=Nsing|Person=3|Person[p]=1|Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=NEG-look-1NSG.INCL.P-look-IN-NEG-PST-PRF-PST-IND.PST[.3.A]|MSeg=mai-khag-mai-khag-di-yakt-a-ŋs-a-e|SpaceAfter=No
+4	maikhaŋmaikhaŋdiyaktaŋse	khag-khag-tis	VERB	IN	Aspect=Perf|Clusivity[p]=In|Mood=Ind|Number[p]=Nsing|Person=3|Person[p]=1|Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=NEG-look-1NSG.INCL.P-look-IN-NEG-PST-PRF-PST-IND.PST[.3.A]|MSeg=mai-khag-mai-khag-di-yakt-a-ŋs-a-e|SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
 
 # sent_id = grammar_Morphology_65b
@@ -1927,7 +1927,7 @@
 6-7	uloĩyaŋ	_	_	_	_	_	_	_	_
 6	uloĩ	lond	VERB	_	Aspect=Imp|Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=3[PL].S-come_out|MSeg=u-lond
 7	yaŋ	yaŋ	PART	ADD	InfStruct=Foc	6	advmod:emph	6:advmod:emph	Gloss=add|MSeg=yaŋ
-8	bakhiʔnɨŋ	ba	ADV	_	AdvType=Met|Deixis=Prox|PronType=Dem	9	advmod	9:advmod	Gloss=PROX-METHOD|MSeg=ba-khiʔnɨŋ
+8	bakhiʔnɨŋ	ba	ADV	_	AdvType=Man|Deixis=Prox|PronType=Dem	9	advmod	9:advmod	Gloss=PROX-METHOD|MSeg=ba-khiʔnɨŋ
 9	numma	numd	VERB	_	Aspect=Imp|Case=Abs|VerbForm=Inf|Voice=Act	10	xcomp	10:xcomp	Gloss=do-INF|MSeg=numd-ma
 10	upuŋsoko	puŋs	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Number[p]=Sing|Person=3|Person[p]=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	parataxis	6:parataxis	Gloss=3[PL].A-begin-3[SG].P-IND.NPST|MSeg=u-puŋs-u-kV|SpaceAfter=No
 11	.	.	PUNCT	_	_	6	punct	6:punct	SpacesAfter=\n
@@ -2076,7 +2076,7 @@
 # sent_id = grammar_Morphology_96
 # text = Anikoce na parbateleʔ loiʔmaceŋa hairan.
 # english = Ours (I) are weary of only talking Nepali to them (J) .
-1	Anikoce	ani	PRON	GEN	Case=Abs,Erg|Clusivity=In|Number=Nsing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	6	nsubj	5:nsubj:xsubj|6:nsubj	Gloss=1PL.INCL-GEN-NSG|MSeg=ani-ko-ce
+1	Anikoce	ani	PRON	GEN	Case=Abs,Erg|Clusivity[psor]=In|Number=Nsing|Number[psor]=Dual|Person=1|Poss=Yes|PronType=Prs	6	nsubj	5:nsubj:xsubj|6:nsubj	Gloss=1PL.INCL-GEN-NSG|MSeg=ani-ko-ce
 2	na	na	PART	TOP	InfStruct=Top	1	advmod:emph	1:advmod:emph	Gloss=TOP|MSeg=na
 3-4	parbateleʔ	_	_	_	_	_	_	_	_
 3	parbate	parbate	NOUN	_	Case=Abs|Number=Sing	6	obj	6:obj	Gloss=Nepali|MSeg=pʌrbʌt̪e
@@ -2106,7 +2106,7 @@
 # text = Huŋkhita upeĩma ukoncokokha hola.
 # english = Maybe they're trying to fly like that.
 1-2	Huŋkhita	_	_	_	_	_	_	_	_
-1	Huŋkhi	hun	ADV	_	AdvType=Mod|Deixis=Med|PronType=Dem	4	advmod	4:advmod	Gloss=MED-MOD|MSeg=hun-khiʔ
+1	Huŋkhi	hun	ADV	_	AdvType=Man|Deixis=Med|PronType=Dem	4	advmod	4:advmod	Gloss=MED-MOD|MSeg=hun-khiʔ
 2	ta	ta	PART	FOC	InfStruct=Foc	1	advmod:emph	1:advmod:emph	Gloss=FOC|MSeg=ta
 3	upeĩma	pend	VERB	_	Aspect=Imp|Case=Abs|Person=3|VerbForm=Inf|Voice=Act	4	xcomp	4:xcomp	Gloss=3.S/A-fly-INF|MSeg=u-pend-ma
 4	ukoncokokha	kond	VERB	_	Aspect=Imp|Mood=Ind|Number=Dual|Number[p]=Sing|Person=3|Person[p]=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=3.A-search-DU-3[SG].P-IND.NPST|MSeg=u-kond-ci-u-kV
@@ -2251,7 +2251,7 @@
 # english = I was keen on understanding how things work here and there.
 1	Yoʔni	yo	ADV	DEM.LVL-DIR	AdvType=Loc|Case=Loc|Deixis=Remt|PronType=Dem	4	advmod	4:advmod	Gloss=DEM.LVL-DIR|MSeg=yo-ʔni
 2	bhaini	ba	ADV	DIR	AdvType=Loc|Case=Loc|Deixis=Prox|PronType=Dem	1	conj	1:conj|4:advmod	Gloss=PROX-DIR|MSeg=bhai-ʔni
-3	hokhiʔni	hok	ADV	QST	AdvType=Met|PronType=Int	4	advmod	4:advmod	Gloss=Q-METHOD|MSeg=ho-khiʔni
+3	hokhiʔni	hok	ADV	QST	AdvType=Man|PronType=Int	4	advmod	4:advmod	Gloss=Q-METHOD|MSeg=ho-khiʔni
 4	lino	lis	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	ccomp	8:ccomp	Gloss=become-IND.NPST[.3SG.S]|MSeg=lis-nok
 5-6	mogo	_	_	_	_	_	_	_	_
 5	mo	mo	SCONJ	CIT	_	4	mark	4:mark	Gloss=CIT|MSeg=mo
@@ -2290,7 +2290,7 @@
 # text = Huŋkhiʔnɨŋta uyuŋsaŋa ukhadaktalok...
 # english = While they went on living like that...
 1-2	Huŋkhiʔnɨŋta	_	_	_	_	_	_	_	_
-1	Huŋkhiʔnɨŋ	hun	ADV	_	AdvType=Met|Deixis=Med|PronType=Dem	3	advmod	3:advmod	Gloss=MED-METHOD|MSeg=hun-khiʔnɨŋ
+1	Huŋkhiʔnɨŋ	hun	ADV	_	AdvType=Man|Deixis=Med|PronType=Dem	3	advmod	3:advmod	Gloss=MED-METHOD|MSeg=hun-khiʔnɨŋ
 2	ta	ta	PART	FOC	InfStruct=Foc	1	advmod:emph	1:advmod:emph	Gloss=FOC|MSeg=ta
 3	uyuŋsaŋa	yug	VERB	CVB.COORD	Aspect=Imp|ConvType=Coord|Number=Nsing|Person=3|VerbForm=Conv|Voice=Act	4	advcl:coord	4:advcl:coord	Gloss=3[NSG].S/A-live-CVB.COORD|MSeg=u-yug-saŋa
 4	ukhadaktalok	khat	VERB	SIM	Aspect=Imp|Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=3[PL].S-go-PST-IPFV-PST-SIM|MSeg=u-khat-a-yakt-a-lok|SpaceAfter=No
@@ -2331,7 +2331,7 @@
 # text = Baceŋa asessi utiaŋsemopho.
 # english = I heard he said they came to kill me.
 1	Baceŋa	ba	PRON	_	Case=Erg|Deixis=Prox|Number=Nsing|PronType=Dem	2	nsubj	2:nsubj	Gloss=PROX-NSG-ERG|MSeg=ba-ce-ŋa
-2	asessi	set	VERB	PURP	Aspect=Imp|ConvType=Purp|Number[psor]=Sing|Person[psor]=1|VerbForm=Conv|Voice=Act	3	advcl:purp	3:advcl:purp	Gloss=1SG.POSS-kill-PURP|MSeg=a-set-si
+2	asessi	set	VERB	PURP	Aspect=Imp|ConvType=Purp|Number[psor]=Sing|Person=1|VerbForm=Conv|Voice=Act	3	advcl:purp	3:advcl:purp	Gloss=1SG.POSS-kill-PURP|MSeg=a-set-si
 3-5	utiaŋsemopho	_	_	_	_	_	_	_	SpaceAfter=No
 3	utiaŋse	ta	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=3[PL].S-come-PST-PRF-IND.PST|MSeg=u-ta-a-ŋs-e
 4	mo	mo	SCONJ	CIT	_	3	mark	3:mark	Gloss=CIT|MSeg=mo
@@ -2751,7 +2751,7 @@
 # sent_id = grammar_Morphology_132d
 # text = Bakhiʔnɨŋ sulapidanumhaʔ bhaiʔni.
 # english = Fold it toward here like this.
-1	Bakhiʔnɨŋ	ba	ADV	_	AdvType=Met|Deixis=Prox|PronType=Dem	2	advmod	2:advmod	Gloss=PROX-METHOD|MSeg=ba-khiʔnɨŋ
+1	Bakhiʔnɨŋ	ba	ADV	_	AdvType=Man|Deixis=Prox|PronType=Dem	2	advmod	2:advmod	Gloss=PROX-METHOD|MSeg=ba-khiʔnɨŋ
 2	sulapidanumhaʔ	sɨl-pid	VERB	BEN1	Aspect=Perfv|Mood=Imp|Number=Plur|Number[p]=Sing|Person=2|Person[p]=3|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=fold-IMP-GEN-IMP-2PL-3[SG].P-2[PL].A-IMP|MSeg=sul-a-pid-a-nĩ-u-m-a
 3	bhaiʔni	ba	ADV	DIR	AdvType=Loc|Case=Loc|Deixis=Prox|PronType=Dem	2	advmod	2:advmod	Gloss=PROX-DIR|MSeg=ba-ʔni|SpaceAfter=No
 4	.	.	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
@@ -2767,7 +2767,7 @@
 # sent_id = grammar_Morphology_134a
 # text = Anakoce asinda toʔni candumcummehẽ.
 # english = We grazed ours yesterday up there.
-1	Anakoce	anaŋa	PRON	GEN	Case=Abs,Erg|Clusivity=Ex|Number=Nsing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	4	obj	4:obj	Gloss=1PL.EXCL-GEN-NSG|MSeg=anaŋa-ko-ce
+1	Anakoce	anaŋa	PRON	GEN	Case=Abs,Erg|Clusivity[psor]=Ex|Number=Nsing|Number[psor]=Dual|Person=1|Poss=Yes|PronType=Prs	4	obj	4:obj	Gloss=1PL.EXCL-GEN-NSG|MSeg=anaŋa-ko-ce
 2	asinda	asinda	ADV	_	_	4	advmod	4:advmod	Gloss=yesterday|MSeg=asinda
 3	toʔni	to	ADV	DEM.UP-DIR	AdvType=Loc|Case=Loc|Deixis=Remt|PronType=Dem	4	advmod	4:advmod	Gloss=DEM.UP-DIR|MSeg=to-ʔni
 4	candumcummehẽ	cand	VERB	_	Aspect=Perfv|Clusivity=Ex|Mood=Ind|Number=Plur|Number[p]=Nsing|Person=1|Person[p]=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=graze-3[SG].P-1NSG.A-3NSG.P-1NSG.A-EXCL-IND.PST|MSeg=cand-u-m-ci-m-ŋa-e|SpaceAfter=No
@@ -3125,7 +3125,7 @@
 # sent_id = grammar_Morphology_148b
 # text = Esari utacokonɨŋyaŋ hola Indranɨŋ Puspanɨŋ.
 # english = Maybe Indra and Puspa wont reach it like this.
-1	Esari	y	ADV	_	AdvType=Met|Deixis=Prox|PronType=Dem	2	advmod	2:advmod	Gloss=PROX-METHOD|MSeg=y-ʌsʌri
+1	Esari	y	ADV	_	AdvType=Man|Deixis=Prox|PronType=Dem	2	advmod	2:advmod	Gloss=PROX-METHOD|MSeg=y-ʌsʌri
 2-3	utacokonɨŋyaŋ	_	_	_	_	_	_	_	_
 2	utacokonɨŋ	ta	VERB	_	Aspect=Imp|Mood=Ind|Number=Dual|Number[p]=Sing|Person=3|Person[p]=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=3A-reach-du-3[SG].P-IND.NPST-NEG|MSeg=u-ta-ci-u-kV-nɨŋ
 3	yaŋ	yaŋ	PART	ADD	InfStruct=Foc	2	advmod:emph	2:advmod:emph	Gloss=ADD|MSeg=yaŋ
@@ -3218,7 +3218,7 @@
 1-2	Akkata	_	_	_	_	_	_	_	_
 1	Akka	akka	PRON	_	Case=Abs,Erg|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	Gloss=1SG|MSeg=akka
 2	ta	ta	PART	FOC	InfStruct=Foc	1	advmod:emph	1:advmod:emph	Gloss=FOC|MSeg=ta
-3	mokhi	mo	ADV	DEM.DOWN	AdvType=Mod|Deixis=Remt|PronType=Dem	4	advmod	4:advmod	Gloss=DEM.DOWN-MOD|MSeg=mo-khiʔ
+3	mokhi	mo	ADV	DEM.DOWN	AdvType=Man|Deixis=Remt|PronType=Dem	4	advmod	4:advmod	Gloss=DEM.DOWN-MOD|MSeg=mo-khiʔ
 4	mettandukuŋ	mett	VERB	COMPL1	Aspect=ComplImp|Mood=Sub|Number=Sing|Number[p]=Sing|Person=1|Person[p]=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=do_to-3.P-COMPL1-3[SG].P-IND.NPST-1SG[.A]|MSeg=mett-u-dhend-u-kV-ŋ|SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
 
@@ -3228,7 +3228,7 @@
 1	Moʔni	mo	ADV	DEM.DOWN-DIR	AdvType=Loc|Case=Loc|Deixis=Remt|PronType=Dem	2	advmod	2:advmod	Gloss=DEM.DOWN-DIR|MSeg=mo-ʔni
 2	kosaʔ	kos	VERB	_	Aspect=Perfv|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=walk-IMP|MSeg=kos-a|SpaceAfter=No
 3	,	,	PUNCT	_	_	4	punct	4:punct	_
-4	mokhiʔnɨŋ	mo	ADV	DEM.DOWN	AdvType=Met|Deixis=Remt|PronType=Dem	2	advmod	2:advmod	Gloss=DEM.DOWN-METHOD|MSeg=mo-khiʔnɨŋ|SpaceAfter=No
+4	mokhiʔnɨŋ	mo	ADV	DEM.DOWN	AdvType=Man|Deixis=Remt|PronType=Dem	2	advmod	2:advmod	Gloss=DEM.DOWN-METHOD|MSeg=mo-khiʔnɨŋ|SpaceAfter=No
 5	!	!	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
 
 # sent_id = grammar_Morphology_154a
@@ -3391,7 +3391,7 @@
 2	gosaŋa	go	NOUN	NMLZ1-OBL	Case=Erg|Number=Sing	6	nsubj	6:nsubj	Gloss=NMLZ1-OBL-ERG|MSeg=go-sa-ŋa
 3	na	na	PART	TOP	InfStruct=Top	2	advmod:emph	2:advmod:emph	Gloss=TOP|MSeg=na
 4-5	kanimɨksɨlɨkta	_	_	_	_	_	_	_	_
-4	kanimɨksɨlɨk	mɨksɨlɨk	NOUN	_	Case=Abs|Clusivity=In|Number=Sing|Number[psor]=Plur|Person=1	6	obj	6:obj	Gloss=1PL.INCL.POSS-eye|MSeg=kani-mɨksɨlɨk
+4	kanimɨksɨlɨk	mɨksɨlɨk	NOUN	_	Case=Abs|Clusivity[psor]=In|Number=Sing|Number[psor]=Plur|Person=1	6	obj	6:obj	Gloss=1PL.INCL.POSS-eye|MSeg=kani-mɨksɨlɨk
 5	ta	ta	PART	FOC	InfStruct=Foc	4	advmod:emph	4:advmod:emph	Gloss=FOC|MSeg=ta
 6	siptandoko	sipt	VERB	COMPL1	Aspect=ComplImp|Mood=Ind|Number=Sing|Number[p]=Sing|Person=3|Person[p]=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=close-3.P-COMPL1-3[SG].P-IND.NPST[.3SG.A]|MSeg=sipt-u-dhend-u-kV|SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	6:punct	SpacesAfter=\n
@@ -3831,7 +3831,7 @@
 # text = Anikoceŋayaŋ mɨkseĩukhaune.
 # english = Ours should also recognize it.
 1-2	Anikoceŋayaŋ	_	_	_	_	_	_	_	_
-1	Anikoceŋa	ani	PRON	_	Case=Erg|Clusivity=In|Number=Nsing|Number[psor]=Plur|Person=1|PronType=Prs	3	nsubj	3:nsubj	Gloss=1PL.INCL-GEN-NSG-ERG|MSeg=ani-ko-ce-ŋa
+1	Anikoceŋa	ani	PRON	_	Case=Erg|Clusivity[psor]=In|Number=Nsing|Number[psor]=Dual|Person=1|PronType=Prs	3	nsubj	3:nsubj	Gloss=1PL.INCL-GEN-NSG-ERG|MSeg=ani-ko-ce-ŋa
 2	yaŋ	yaŋ	PART	ADD	InfStruct=Foc	1	advmod:emph	1:advmod:emph	Gloss=ADD|MSeg=yaŋ
 3	mɨkseĩukhaune	mɨkseĩ-khag	VERB	_	Aspect=Imp|Mood=OptSub|Number=Plur|Number[p]=Sing|Person=3|Person[p]=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=recognize-3[PL].A-STEM-3[SG].P-OPT[SUBJ.NPST]|MSeg=mɨkseĩ-u-khag-u-ne|SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
@@ -4242,7 +4242,7 @@
 # text = Them aniramma katto?
 # english = What should we be happy about?
 1	Them	them	PRON	_	Case=Abs,Erg|Number=Sing|PronType=Int	3	obj	3:obj	Gloss=what|MSeg=them
-2	aniramma	ramma	NOUN	_	Case=Abs|Clusivity=In|Number=Sing|Number[psor]=Plur|Person=1	3	compound:lvc	3:compound:lvc	Gloss=1PL.INCL.POSS-joy|MSeg=ani-ramma
+2	aniramma	ramma	NOUN	_	Case=Abs|Clusivity[psor]=In|Number=Sing|Number[psor]=Plur|Person=1	3	compound:lvc	3:compound:lvc	Gloss=1PL.INCL.POSS-joy|MSeg=ani-ramma
 3	katto	katt	VERB	_	Aspect=Imp|Mood=Sub|Number=Sing|Number[p]=Sing|Person=3|Person[p]=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=bring_up[SUBJ.NPST.3SG>]3[SG]|MSeg=katt-u|SpaceAfter=No
 4	?	?	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
 
@@ -4481,7 +4481,7 @@
 5	puŋso	puŋs	VERB	_	Aspect=Perfv|Mood=Sub|Number=Sing|Number[p]=Sing|Person=3|Person[p]=3|Tense=Past|VerbForm=Fin|Voice=Act	10	advcl	10:advcl	Gloss=start-[SUBJ.PST.3SG>]3[SG]|MSeg=puŋs-o
 6	kheʔyã	kheiʔyã	ADP	_	_	5	mark	5:mark	Gloss=TMP.ABL|MSeg=kheʔŋa
 7	khalli	khalli	ADV	_	_	10	advmod	10:advmod	Gloss=only|MSeg=khalli
-8	anirɨŋnɨŋ	rɨŋ	NOUN	_	Case=Com|Clusivity=In|Number=Sing|Number[psor]=Plur|Person=1	10	obj	10:obj	Gloss=1PL.INCL.POSS-language-COM|MSeg=ani-rɨŋ-nɨŋ
+8	anirɨŋnɨŋ	rɨŋ	NOUN	_	Case=Com|Clusivity[psor]=In|Number=Sing|Number[psor]=Plur|Person=1	10	obj	10:obj	Gloss=1PL.INCL.POSS-language-COM|MSeg=ani-rɨŋ-nɨŋ
 9	jamma	jammai	PRON	_	Case=Abs,Erg|PronType=Tot	8	nmod	8:nmod	Gloss=all|MSeg=jʌmma
 10	holandoko	hol	VERB	COMPL1	Aspect=ComplImp|Mood=Ind|Number=Sing|Number[p]=Sing|Person=3|Person[p]=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=mix-3.P-COMPL1-3[SG].P-IND.NPST[.3SG.A]|MSeg=hol-u-dhend-u-kV|SpaceAfter=No
 11	.	.	PUNCT	_	_	10	punct	10:punct	SpacesAfter=\n
@@ -5145,8 +5145,8 @@
 # sent_id = grammar_Syntactic_91
 # text = Huŋkhi anakhalampa gari hunta caikiyã.
 # english = That way we take that [medicine] when we catch a cold.
-1	Huŋkhi	hun	ADV	_	AdvType=Mod|Deixis=Med|PronType=Dem	6	advmod	6:advmod	Gloss=MED-MOD|MSeg=hun-khiʔ
-2	anakhalampa	khalampa	NOUN	_	Case=Abs|Clusivity=Ex|Number=Sing|Number[psor]=Plur|Person=1	6	obl	6:obl	Gloss=1PL.EXCL-cold|MSeg=ana-khalampa
+1	Huŋkhi	hun	ADV	_	AdvType=Man|Deixis=Med|PronType=Dem	6	advmod	6:advmod	Gloss=MED-MOD|MSeg=hun-khiʔ
+2	anakhalampa	khalampa	NOUN	_	Case=Abs|Clusivity[psor]=Ex|Number=Sing|Number[psor]=Plur|Person=1	6	obl	6:obl	Gloss=1PL.EXCL-cold|MSeg=ana-khalampa
 3	gari	gari	SCONJ	TMP.LOC1	_	2	case	2:case	Gloss=TMP.LOC1|MSeg=gari
 4-5	hunta	_	_	_	_	_	_	_	_
 4	hun	hun	PRON	_	Case=Abs|Deixis=Med|Number=Sing|PronType=Dem	6	obj	6:obj	Gloss=MED|MSeg=hun
@@ -5303,7 +5303,7 @@
 # english = I drink it with mummy, like this.
 1	Amanɨŋ	ama	NOUN	_	Case=Com|Number=Sing	2	obl	2:obl	Gloss=mother-COM|MSeg=ama-nɨŋ
 2	thuŋcokoŋa	thug	VERB	_	Aspect=Imp|Clusivity=Ex|Mood=Ind|Number=Dual|Number[p]=Sing|Person=1|Person[p]=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	nsubj	3:nsubj	Gloss=drink-[1]DU[.A]-3[SG].P-IND.NPST-EXCL|MSeg=thug-ci-u-kV-ŋa
-3	hakhiʔnɨŋ	ba	ADV	_	AdvType=Met|Deixis=Prox|PronType=Dem	0	root	0:root	Gloss=PROX-METHOD|MSeg=ba-khiʔnɨŋ|SpaceAfter=No
+3	hakhiʔnɨŋ	ba	ADV	_	AdvType=Man|Deixis=Prox|PronType=Dem	0	root	0:root	Gloss=PROX-METHOD|MSeg=ba-khiʔnɨŋ|SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
 
 # sent_id = grammar_Syntactic_99d
@@ -5336,7 +5336,7 @@
 # sent_id = grammar_Syntactic_100b
 # text = Esari utacokonɨŋyaŋ hola Indranɨŋ Puspanɨŋ.
 # english = Maybe Indra and Puspa won't reach it like this.
-1	Esari	y	ADV	_	AdvType=Met|Deixis=Prox|PronType=Dem	2	advmod	2:advmod	Gloss=PROX-METHOD|MSeg=y-ʌsʌri
+1	Esari	y	ADV	_	AdvType=Man|Deixis=Prox|PronType=Dem	2	advmod	2:advmod	Gloss=PROX-METHOD|MSeg=y-ʌsʌri
 2-3	utacokonɨŋyaŋ	_	_	_	_	_	_	_	_
 2	utacokonɨŋ	ta	VERB	_	Aspect=Imp|Mood=Ind|Number=Dual|Number[p]=Sing|Person=3|Person[p]=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=3A-reach-DU-3[SG].P-IND.NPST-NEG|MSeg=u-ta-ci-u-kV-nɨŋ
 3	yaŋ	yaŋ	PART	ADD	InfStruct=Foc	2	advmod:emph	2:advmod:emph	Gloss=ADD|MSeg=yaŋ
@@ -5391,7 +5391,7 @@
 1-2	Akkayaŋ	_	_	_	_	_	_	_	_
 1	Akka	akka	PRON	_	Case=Abs,Erg|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	Gloss=1SG|MSeg=akka
 2	yaŋ	yaŋ	PART	ADD	InfStruct=Foc	1	advmod:emph	1:advmod:emph	Gloss=ADD|MSeg=yaŋ
-3	bakhi	ba	ADV	DEM.DOWN	AdvType=Mod|Deixis=Remt|PronType=Dem	4	advmod	4:advmod	Gloss=PROX-MOD|MSeg=ba-khiʔ
+3	bakhi	ba	ADV	DEM.DOWN	AdvType=Man|Deixis=Remt|PronType=Dem	4	advmod	4:advmod	Gloss=PROX-MOD|MSeg=ba-khiʔ
 4	miʔyãʔã	mitt	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=think-1SG.S-IND.NPST|MSeg=mitt-ŋa-ʔã|SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
 
@@ -5399,7 +5399,7 @@
 # text = Chokuyakkheŋ bakhiʔnɨŋ thukma konno.
 # english = Nettle curry has to be cooked like this.
 1	Chokuyakkheŋ	choku-yakkheŋ	NOUN	_	Case=Abs|Number=Sing	3	obj	3:obj	Gloss=nettle-curry|MSeg=choku-yakkheŋ
-2	bakhiʔnɨŋ	ba	ADV	_	AdvType=Met|Deixis=Prox|PronType=Dem	3	advmod	3:advmod	Gloss=PROX-METHOD|MSeg=ba-khiʔnɨŋ
+2	bakhiʔnɨŋ	ba	ADV	_	AdvType=Man|Deixis=Prox|PronType=Dem	3	advmod	3:advmod	Gloss=PROX-METHOD|MSeg=ba-khiʔnɨŋ
 3	thukma	thukt	VERB	_	Aspect=Imp|Case=Abs|VerbForm=Inf|Voice=Act	4	xcomp	4:xcomp	Gloss=cook-INF|MSeg=thukt-ma
 4	konno	kond	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=must-IND.NPST[.3SG.S]|MSeg=kond-nok|SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
@@ -5510,7 +5510,7 @@
 # sent_id = grammar_Syntactic_109
 # text = Aniteĩ likhikha moliyokha thaũ hokke yuŋnoʔ?
 # english = Where is a fertile place like our village?
-1	Aniteĩ	teĩ	NOUN	_	Case=Abs|Clusivity=In|Number=Sing|Number[psor]=Plur|Person=1	3	nmod:nmlz	3:nmod:nmlz	Gloss=1PL.INCL.POSS-village|MSeg=ani-teĩ
+1	Aniteĩ	teĩ	NOUN	_	Case=Abs|Clusivity[psor]=In|Number=Sing|Number[psor]=Plur|Person=1	3	nmod:nmlz	3:nmod:nmlz	Gloss=1PL.INCL.POSS-village|MSeg=ani-teĩ
 2-3	likhikha	_	_	_	_	_	_	_	_
 2	likhi	likhi	ADP	EQU	_	1	case	1:case	Gloss=EQU|MSeg=likhi
 3	kha	kha	NOUN	NMLZ2	Case=Abs|Number=Sing	6	nmod	6:nmod	Gloss=NMLZ2|MSeg=kha
@@ -5556,7 +5556,7 @@
 # sent_id = grammar_Syntactic_114
 # text = Anako uttata meʔno ni.
 # english = Ours are that long, I tell you.
-1	Anako	anaŋa	PRON	GEN	Case=Abs,Erg|Clusivity=Ex|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	3	nsubj	3:nsubj	Gloss=1PL.EXCL-GEN|MSeg=anaŋa-ko
+1	Anako	anaŋa	PRON	GEN	Case=Abs,Erg|Clusivity[psor]=Ex|Number=Sing|Number[psor]=Dual|Person=1|Poss=Yes|PronType=Prs	3	nsubj	3:nsubj	Gloss=1PL.EXCL-GEN|MSeg=anaŋa-ko
 2	uttata	hun	ADV	INTENS	AdvType=Ext|Deixis=Med|PronType=Dem|Red=Yes	3	advmod	3:advmod	Gloss=MED-EXT~INTENS|MSeg=hu-tta~ta
 3	meʔno	mett	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=be_long-IND.NPST[.3SG.S]|MSeg=mett-nok
 4	ni	ni	PART	ASS	_	3	discourse	3:discourse	Gloss=ASS|MSeg=n̪i|SpaceAfter=No
@@ -5656,7 +5656,7 @@
 # text = Aniŋa bakhi khaum kina khaŋmayaŋ hidumnum.
 # english = When we look at it we cant even see [all of] it.
 1	Aniŋa	ani	PRON	_	Case=Erg|Clusivity=In|Number=Plur|Person=1|PronType=Prs	3	nsubj	3:nsubj	Gloss=1PL.INCL-ERG|MSeg=ani-ŋa
-2	bakhi	ba	ADV	DEM.DOWN	AdvType=Mod|Deixis=Remt|PronType=Dem	3	advmod	3:advmod	Gloss=PROX-MOD|MSeg=ba-khiʔ
+2	bakhi	ba	ADV	DEM.DOWN	AdvType=Man|Deixis=Remt|PronType=Dem	3	advmod	3:advmod	Gloss=PROX-MOD|MSeg=ba-khiʔ
 3	khaum	khag	VERB	_	Aspect=Imp|Clusivity=In|Mood=Sub|Number=Plur|Number[p]=Sing|Person=1|Person[p]=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=look_at-3[SG].P-[SUBJ.]1PL[.INCL].A|MSeg=khag-u-m
 4	kina	kina	CCONJ	SEQ	_	7	cc	7:cc	Gloss=SEQ|MSeg=kina
 5-6	khaŋmayaŋ	_	_	_	_	_	_	_	_
@@ -5957,10 +5957,10 @@
 # text = Abo jaso maichap huŋkhita lisiki.
 # english = Whatever we are destined to, so we become.
 1	Abo	abo	ADV	_	_	3	advmod	3:advmod	Gloss=now|MSeg=abo
-2	jaso	j	ADV	_	AdvType=Mod|PronType=Rel	3	advmod	3:advmod	Gloss=REL-MOD|MSeg=j-ʌso
-3	maichap	chapt	VERB	_	Aspect=Imp|Clusivity=In|Mood=Sub|Number[p]=Nsing|Person=3|Person[p]=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=1NSG.INCL.P-be_destined[.SUBJ.NPST.3.A]|MSeg=mai-chapt
+2	jaso	j	ADV	_	AdvType=Man|PronType=Rel	3	advmod	3:advmod	Gloss=REL-MOD|MSeg=j-ʌso
+3	maichap	chapt	VERB	_	Aspect=Imp|Clusivity[p]=In|Mood=Sub|Number[p]=Nsing|Person=3|Person[p]=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=1NSG.INCL.P-be_destined[.SUBJ.NPST.3.A]|MSeg=mai-chapt
 4-5	huŋkhita	_	_	_	_	_	_	_	_
-4	huŋkhi	hun	ADV	_	AdvType=Mod|Deixis=Med|PronType=Dem	6	advmod	6:advmod	Gloss=MED-MOD|MSeg=hun-khiʔ
+4	huŋkhi	hun	ADV	_	AdvType=Man|Deixis=Med|PronType=Dem	6	advmod	6:advmod	Gloss=MED-MOD|MSeg=hun-khiʔ
 5	ta	ta	PART	FOC	InfStruct=Foc	4	advmod:emph	4:advmod:emph	Gloss=FOC|MSeg=ta
 6	lisiki	lis	VERB	_	Aspect=Imp|Clusivity=In|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	parataxis	3:parataxis	Gloss=become-1PL[.INCL].S-IND.NPST|MSeg=lis-ĩ-kV|SpaceAfter=No
 7	.	.	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
@@ -6353,7 +6353,7 @@
 # english = And in one of our villages, there lived two people.
 1	Ani	ani	CCONJ	_	_	6	cc	6:cc	Gloss=and|MSeg=ʌn̪i
 2	thitta	thitta	NUM	_	Animacy=Nhum|NumType=Card	3	nmod	3:nmod	Gloss=one|MSeg=thitta
-3	anateibe	teĩ	NOUN	LOC2	Case=Loc|Clusivity=Ex|Number=Sing|Number[psor]=Plur|Person=1	6	obl	6:obl	Gloss=1PL.EXCL.POSS-village-LOC2|MSeg=ana-teĩ-beʔ
+3	anateibe	teĩ	NOUN	LOC2	Case=Loc|Clusivity[psor]=Ex|Number=Sing|Number[psor]=Plur|Person=1	6	obl	6:obl	Gloss=1PL.EXCL.POSS-village-LOC2|MSeg=ana-teĩ-beʔ
 4	hiccibaŋ	hicce	NUM	_	Animacy=Hum|NumType=Card	5	nummod	5:nummod	Gloss=two-HUM.CLF|MSeg=hicci-paŋ
 5	maʔmice	maʔmi	NOUN	_	Case=Abs|Number=Nsing	6	obj	6:obj	Gloss=person-NSG|MSeg=maʔmi-ce
 6	uyuaktace	yug	VERB	_	Aspect=Imp|Mood=Ind|Number=Dual|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=3.S-be_there-PST-IPFV1-PST-DU-IND.PST|MSeg=u-yug-a-yakt-a-ci-e|SpaceAfter=No
@@ -6498,7 +6498,7 @@
 # english = We get angry about them.
 1	Aniŋa	ani	PRON	_	Case=Erg|Clusivity=In|Number=Plur|Person=1|PronType=Prs	4	nsubj	4:nsubj	Gloss=1PL.INCL-ERG|MSeg=ani-ŋa
 2	hunce	hun	PRON	_	Case=Abs|Deixis=Med|Number=Nsing|PronType=Dem	4	obj	4:obj	Gloss=MED-NSG|MSeg=hun-ce
-3	anirek	rek	NOUN	_	Case=Abs|Clusivity=In|Number=Sing|Number[psor]=Plur|Person=1	4	compound:lvc	4:compound:lvc	Gloss=1PL.INCL.POSS-anger|MSeg=ani-rek
+3	anirek	rek	NOUN	_	Case=Abs|Clusivity[psor]=In|Number=Sing|Number[psor]=Plur|Person=1	4	compound:lvc	4:compound:lvc	Gloss=1PL.INCL.POSS-anger|MSeg=ani-rek
 4	kattukumcɨm	katt	VERB	_	Aspect=Imp|Mood=Ind|Number=Nsing|Number[p]=Nsing|Person=1|Person[p]=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=bring_up-3.P-IND.NPST-1NSG.A-3NSG.P-1NSG.A|MSeg=katt-u-kV-m-ci-m|SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
 
@@ -6506,7 +6506,7 @@
 # text = Bamna anirek kattinɨŋ.
 # english = Let's not be angry with Brahmins.
 1	Bamna	Bamna	PROPN	_	Case=Abs|Number=Sing	3	obl	3:obl	Gloss=Brahmin|MSeg=bamna
-2	anirek	rek	NOUN	_	Case=Abs|Clusivity=In|Number=Sing|Number[psor]=Plur|Person=1	3	compound:lvc	3:compound:lvc	Gloss=1PL.INCL.POSS-anger|MSeg=ani-rek
+2	anirek	rek	NOUN	_	Case=Abs|Clusivity[psor]=In|Number=Sing|Number[psor]=Plur|Person=1	3	compound:lvc	3:compound:lvc	Gloss=1PL.INCL.POSS-anger|MSeg=ani-rek
 3	kattinɨŋ	katt	VERB	_	Aspect=Imp|Clusivity=In|Mood=Sub|Number=Plur|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=bring_up-1PL[.INCL].S-NEG[.SUBJ].NPST|MSeg=katt-ĩ-nɨŋ|SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
 
@@ -6575,7 +6575,7 @@
 # english = Saĩli, suppose our pig grew as big as this...
 1	Saĩli	saĩli	NOUN	_	Case=Abs|Number=Sing	7	vocative	7:vocative	Gloss=third_daughter|MSeg=saĩli|SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	1:punct	_
-3	kanaphak	phak	NOUN	_	Case=Abs|Clusivity=Ex|Number=Sing|Number[psor]=Plur|Person=1	7	nsubj	7:nsubj	Gloss=1PL.EXCL.POSS-pig|MSeg=kana-phak
+3	kanaphak	phak	NOUN	_	Case=Abs|Clusivity[psor]=Ex|Number=Sing|Number[psor]=Plur|Person=1	7	nsubj	7:nsubj	Gloss=1PL.EXCL.POSS-pig|MSeg=kana-phak
 4	na	na	PART	TOP	InfStruct=Top	3	advmod:emph	3:advmod:emph	Gloss=TOP|MSeg=na
 5-6	battakha	_	_	_	_	_	_	_	_
 5	batta	ba	ADV	_	AdvType=Ext|Deixis=Prox|PronType=Dem	6	advmod:nmlz	6:advmod:nmlz	Gloss=PROX-EXT|MSeg=ba-tta-kha
@@ -6786,7 +6786,7 @@
 8	hana	hana	PRON	_	Case=Abs,Erg|Number=Sing|Person=2|PronType=Prs	9	iobj	9:iobj	Gloss=2SG|MSeg=hana
 9	puʔnabinanɨŋ	putt-pid	VERB	BEN1	Aspect=Imp|Mood=Sub|Number=Sing|Number[p]=Sing|Person=1|Person[p]=2|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	5:conj	Gloss=pluck-1SG>2-BEN1-1SG>2[SG]-NEG.[SUBJ.]NPST|MSeg=putt-nã-pid-nã-nɨŋ
 10	hana	hana	PRON	_	Case=Abs,Erg|Number=Sing|Person=2|PronType=Prs	12	nsubj	12:nsubj	Gloss=2SG|MSeg=hana
-11	huŋkhi	hun	ADV	_	AdvType=Mod|Deixis=Med|PronType=Dem	12	advmod	12:advmod	Gloss=MED-MOD|MSeg=hun-khiʔ
+11	huŋkhi	hun	ADV	_	AdvType=Man|Deixis=Med|PronType=Dem	12	advmod	12:advmod	Gloss=MED-MOD|MSeg=hun-khiʔ
 12	anumnoʔ	numd	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	5	advcl	5:advcl	Gloss=2[SG].S-do-IND.NPST|MSeg=a-numd-nok
 13	para	para	SCONJ	COND1	_	12	mark	12:mark	Gloss=COND|MSeg=para|SpaceAfter=No
 14	!	!	PUNCT	_	_	5	punct	5:punct	SpacesAfter=\n
@@ -7007,7 +7007,7 @@
 1	Kalpanaŋa	Kalpana	PROPN	_	Case=Erg|Number=Sing	5	nsubj	5:nsubj	Gloss=a_name-ERG|MSeg=kʌlpʌn̪a-ŋa
 2	na	na	PART	TOP	InfStruct=Top	1	advmod:emph	1:advmod:emph	Gloss=TOP|MSeg=na
 3-4	anitamphuʔwalo	_	_	_	_	_	_	_	_
-3	anitamphuʔwa	taŋphukwa	NOUN	_	Case=Abs|Clusivity=In|Number=Sing|Number[psor]=Plur|Person=1	5	obj	5:obj	Gloss=1PL.INCL.POSS-hair|MSeg=ani-taŋphukwa
+3	anitamphuʔwa	taŋphukwa	NOUN	_	Case=Abs|Clusivity[psor]=In|Number=Sing|Number[psor]=Plur|Person=1	5	obj	5:obj	Gloss=1PL.INCL.POSS-hair|MSeg=ani-taŋphukwa
 4	lo	lo	PART	SURP	InfStruct=Foc	3	advmod:emph	3:advmod:emph	Gloss=SURP|MSeg=lo
 5	theloko	thel	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Number[p]=Sing|Person=3|Person[p]=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=pull_out-3[SG]P-IND.NPST[.3SG.A]|MSeg=thel-u-kV|SpaceAfter=No
 6	!	!	PUNCT	_	_	5	punct	5:punct	SpacesAfter=\n
@@ -7158,7 +7158,7 @@
 3-4	thuprota	_	_	_	_	_	_	_	_
 3	thupro	thupro	ADV	_	_	5	advmod	5:advmod	Gloss=a_lot|MSeg=t̪hupro
 4	ta	ta	PART	FOC	InfStruct=Foc	3	advmod:emph	3:advmod:emph	Gloss=FOC|MSeg=ta
-5	khaŋmameʔte	khag	VERB	_	Aspect=Perfv|Clusivity=Ex|Mood=Ind|Number[p]=Nsing|Person=3|Person[p]=1|Tense=Past|VerbForm=Fin|Voice=Cau	0	root	0:root	Gloss=see-3>1NSG.EXCL-CAUS-IND.PST|MSeg=khag-ma-mett-e|SpaceAfter=No
+5	khaŋmameʔte	khag	VERB	_	Aspect=Perfv|Clusivity[p]=Ex|Mood=Ind|Number[p]=Nsing|Person=3|Person[p]=1|Tense=Past|VerbForm=Fin|Voice=Cau	0	root	0:root	Gloss=see-3>1NSG.EXCL-CAUS-IND.PST|MSeg=khag-ma-mett-e|SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	5:punct	SpacesAfter=\n
 
 # sent_id = grammar_Syntactic_211
@@ -7322,7 +7322,7 @@
 1-2	Anaŋayaŋ	_	_	_	_	_	_	_	_
 1	Anaŋa	anaŋa	PRON	_	Case=Abs,Erg|Clusivity=Ex|Number=Plur|Person=1|PronType=Prs	3	iobj	3:iobj	Gloss=1PL.EXCL|MSeg=anaŋa
 2	yaŋ	yaŋ	PART	ADD	InfStruct=Foc	1	advmod:emph	1:advmod:emph	Gloss=ADD|MSeg=yaŋ
-3	mapidadisaʔ	pid-tis	VERB	IN	Aspect=Perfv|Clusivity=Ex|Mood=Imp|Number=Sing|Number[p]=Nsing|Person=2|Person[p]=1|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=1NSG.EXCL.P-give-IMP-IN-IMP[.2SG.A]|MSeg=ma-pid-a-tis-a|SpaceAfter=No
+3	mapidadisaʔ	pid-tis	VERB	IN	Aspect=Perfv|Clusivity[p]=Ex|Mood=Imp|Number=Sing|Number[p]=Nsing|Person=2|Person[p]=1|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=1NSG.EXCL.P-give-IMP-IN-IMP[.2SG.A]|MSeg=ma-pid-a-tis-a|SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
 
 # sent_id = grammar_Syntactic_222b
@@ -7468,7 +7468,7 @@
 # sent_id = grammar_Syntactic_231a
 # text = Bakhiʔnɨŋ yuŋmayaŋgo arkha wareĩ somma thuŋma yaŋsoko.
 # english = One can drink alcohol stored in this way later.
-1	Bakhiʔnɨŋ	ba	ADV	_	AdvType=Met|Deixis=Prox|PronType=Dem	2	advmod	2:advmod	Gloss=PROX-METHOD|MSeg=ba-khiʔnɨŋ
+1	Bakhiʔnɨŋ	ba	ADV	_	AdvType=Man|Deixis=Prox|PronType=Dem	2	advmod	2:advmod	Gloss=PROX-METHOD|MSeg=ba-khiʔnɨŋ
 2-3	yuŋmayaŋgo	_	_	_	_	_	_	_	_
 2	yuŋmayaŋ	yuŋs	VERB	PASS.PTCP	Aspect=Imp|VerbForm=Part|Voice=Act	3	acl:nmlz	3:acl:nmlz	Gloss=put-PASS.PTCP|MSeg=yuŋs-mayaŋ
 3	go	go	NOUN	NMLZ1	Case=Abs|Number=Sing	4	nmod	4:nmod	Gloss=NMLZ1|MSeg=go
@@ -7517,7 +7517,7 @@
 # english = One could hear [this story] in that way.
 1	Khemma	khems	VERB	_	Aspect=Imp|Case=Abs|VerbForm=Inf|Voice=Act	2	csubj	2:csubj	Gloss=hear-INF|MSeg=khems-ma
 2	lisakte	lis	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=happen-PST-IPFV-IND.PST[.3SG.S]|MSeg=lis-a-yakt-e
-3	huŋkhiʔni	hun	ADV	_	AdvType=Met|Deixis=Med|PronType=Dem	2	advmod	2:advmod	Gloss=MED-METHOD|MSeg=hun-khiʔni|SpaceAfter=No
+3	huŋkhiʔni	hun	ADV	_	AdvType=Man|Deixis=Med|PronType=Dem	2	advmod	2:advmod	Gloss=MED-METHOD|MSeg=hun-khiʔni|SpaceAfter=No
 4	.	.	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
 
 # sent_id = grammar_Syntactic_232c
@@ -7589,7 +7589,7 @@
 3	numdoko	numd	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Number[p]=Sing|Person=3|Person[p]=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	acl:nmlz	5:acl:nmlz	Gloss=do-3[SG].P-IND.NPST[.3SG.A]|MSeg=numd-u-kV
 4	mo	mo	SCONJ	CIT	_	3	mark	3:mark	Gloss=CIT|MSeg=mo
 5	go	go	NOUN	NMLZ1	Case=Abs|Number=Sing	6	nsubj	6:nsubj	Gloss=NMLZ1|MSeg=go
-6	hokhiʔ	hok	ADV	QST	AdvType=Mod|PronType=Int	0	root	0:root	Gloss=Q-MOD|MSeg=ho-khiʔ|SpaceAfter=No
+6	hokhiʔ	hok	ADV	QST	AdvType=Man|PronType=Int	0	root	0:root	Gloss=Q-MOD|MSeg=ho-khiʔ|SpaceAfter=No
 7	?	?	PUNCT	_	_	6	punct	6:punct	SpacesAfter=\n
 
 # sent_id = grammar_Syntactic_235a
@@ -7726,7 +7726,7 @@
 4	dhanna	dhanna	ADV	_	_	7	advmod	7:advmod	Gloss=fortunately|MSeg=d̪hʌn̪n̪ʌ
 5	lo	lo	PART	SURP	InfStruct=Foc	4	advmod:emph	4:advmod:emph	Gloss=SURP|MSeg=lo
 6	podhe	pad	VERB	V.NTVZ	VerbForm=Inf	7	xcomp	7:xcomp	Gloss=study-V.NTVZ|MSeg=pʌɖ-e
-7	nummaimette	numd	VERB	_	Aspect=Perfv|Clusivity=In|Mood=Ind|Number[p]=Plur|Person=3|Person[p]=1|Tense=Past|VerbForm=Fin|Voice=Cau	0	root	0:root	Gloss=do-[3>]1PL[.INCL]-CAUS-IND.PST|MSeg=numd-mai-mett-e
+7	nummaimette	numd	VERB	_	Aspect=Perfv|Clusivity[p]=In|Mood=Ind|Number[p]=Plur|Person=3|Person[p]=1|Tense=Past|VerbForm=Fin|Voice=Cau	0	root	0:root	Gloss=do-[3>]1PL[.INCL]-CAUS-IND.PST|MSeg=numd-mai-mett-e
 8	naŋ	naŋ	CCONJ	_	_	7	cc	7:cc	Gloss=but|MSeg=naŋ|SpaceAfter=No
 9	.	.	PUNCT	_	_	7	punct	7:punct	SpacesAfter=\n
 
@@ -8045,7 +8045,7 @@
 # sent_id = grammar_Syntactic_254a
 # text = Anicuwakhamce pheri miʔmuŋ-miʔmuŋ lisaŋa ukhaʔno.
 # english = Our springs are becoming fewer and fewer once again.
-1	Anicuwakhamce	cuwakham	NOUN	_	Case=Abs|Clusivity=In|Number=Nsing|Number[psor]=Plur|Person=1	5	nsubj	5:nsubj	Gloss=1PL.INCL.POSS-spring-NSG|MSeg=ani-cuwakham-ce
+1	Anicuwakhamce	cuwakham	NOUN	_	Case=Abs|Clusivity[psor]=In|Number=Nsing|Number[psor]=Plur|Person=1	5	nsubj	5:nsubj	Gloss=1PL.INCL.POSS-spring-NSG|MSeg=ani-cuwakham-ce
 2	pheri	pheri	ADV	_	_	5	advmod	5:advmod	Gloss=again|MSeg=pheri
 3	miʔmuŋ-miʔmuŋ	miʔmuŋ	ADV	INTENS	PronType=Ind|Red=Yes	5	advmod	5:advmod	Gloss=little~INTENS|MSeg=miʔmuŋ~miʔmuŋ
 4	lisaŋa	lis	VERB	CVB.COORD	Aspect=Imp|ConvType=Purp|VerbForm=Conv|Voice=Act	5	advcl:purp	5:advcl:purp	Gloss=become-CVB.COORD|MSeg=lis-saŋa
@@ -8660,7 +8660,7 @@
 # sent_id = grammar_Syntactic_280d
 # text = Anathurum na khali mayuŋyaktakte ni.
 # english = Our mouth was never empty.
-1	Anathurum	thurum	NOUN	_	Case=Abs|Clusivity=Ex|Number=Sing|Number[psor]=Plur|Person=1	4	nsubj	3:nsubj:xsubj|4:nsubj	Gloss=1PL.EXCL.POSS-mouth|MSeg=ana-thurum
+1	Anathurum	thurum	NOUN	_	Case=Abs|Clusivity[psor]=Ex|Number=Sing|Number[psor]=Plur|Person=1	4	nsubj	3:nsubj:xsubj|4:nsubj	Gloss=1PL.EXCL.POSS-mouth|MSeg=ana-thurum
 2	na	na	PART	TOP	InfStruct=Top	1	advmod:emph	1:advmod:emph	Gloss=TOP|MSeg=na
 3	khali	khalli	ADJ	_	_	4	xcomp	4:xcomp	Gloss=empty|MSeg=khali
 4	mayuŋyaktakte	yug	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=NEG-be_there-NEG-PST-IPFV-IND.PST[.3SG.S]|MSeg=mai-yug-yakt-a-yakt-e
@@ -8944,7 +8944,7 @@
 8	na	na	PART	TOP	InfStruct=Top	7	advmod:emph	7:advmod:emph	Gloss=TOP|MSeg=na|SpaceAfter=No
 9	,	,	PUNCT	_	_	7	punct	7:punct	_
 10-11	aniteĩbeko	_	_	_	_	_	_	_	_
-10	aniteĩbe	teĩ	NOUN	LOC2	Case=Loc|Clusivity=In|Number=Sing|Number[psor]=Plur|Person=1	11	nmod:nmlz	11:nmod:nmlz	Gloss=1PL.INCL.POSS-village-LOC2|MSeg=ani-teĩ-beʔ
+10	aniteĩbe	teĩ	NOUN	LOC2	Case=Loc|Clusivity[psor]=In|Number=Sing|Number[psor]=Plur|Person=1	11	nmod:nmlz	11:nmod:nmlz	Gloss=1PL.INCL.POSS-village-LOC2|MSeg=ani-teĩ-beʔ
 11	ko	go	NOUN	NMLZ1	Case=Abs|Number=Sing	14	obl	14:obl	Gloss=NMLZ1|MSeg=go
 12-13	likhita	_	_	_	_	_	_	_	_
 12	likhi	likhi	ADP	EQU	_	11	case	11:case	Gloss=EQU|MSeg=likhi
@@ -9742,7 +9742,7 @@
 1-2	Huŋgo	_	_	_	_	_	_	_	_
 1	Huŋ	hun	DET	_	Deixis=Med|PronType=Dem	2	det:nmlz	2:det:nmlz	Gloss=MED|MSeg=hun
 2	go	go	NOUN	NMLZ1	Case=Abs|Number=Sing	5	nmod	5:nmod	Gloss=NMLZ1|MSeg=go
-3	hokhi	hok	ADV	QST	AdvType=Mod|PronType=Int	4	advmod	4:advmod	Gloss=Q-MOD|MSeg=ho-khiʔ
+3	hokhi	hok	ADV	QST	AdvType=Man|PronType=Int	4	advmod	4:advmod	Gloss=Q-MOD|MSeg=ho-khiʔ
 4	nɨŋno	nɨŋs	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=seem-IND.NPST[.3SG.S]|MSeg=nɨŋs-nok
 5	gilen	gilen	NOUN	_	Case=Abs|Number=Sing	4	nsubj	4:nsubj	Gloss=jerrycan|MSeg=gilen|SpaceAfter=No
 6	?	?	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
@@ -10306,7 +10306,7 @@
 1-2	Bago	_	_	_	_	_	_	_	_
 1	Ba	ba	DET	_	Deixis=Prox|PronType=Dem	2	det:nmlz	2:det:nmlz	Gloss=PROX|MSeg=ba
 2	go	go	NOUN	NMLZ1	Case=Abs|Number=Sing	3	nmod	3:nmod	Gloss=NMLZ1|MSeg=go
-3	aniteĩ	teĩ	NOUN	_	Case=Abs|Clusivity=In|Number=Sing|Number[psor]=Plur|Person=1	8	nsubj	8:nsubj	Gloss=1PL.INCL.POSS-village|MSeg=ani-teĩ
+3	aniteĩ	teĩ	NOUN	_	Case=Abs|Clusivity[psor]=In|Number=Sing|Number[psor]=Plur|Person=1	8	nsubj	8:nsubj	Gloss=1PL.INCL.POSS-village|MSeg=ani-teĩ
 4-5	sontoloŋyaŋ	_	_	_	_	_	_	_	_
 4	sontoloŋ	sontoloŋ	NOUN	_	Case=Abs|Number=Sing	6	obj	6:obj	Gloss=tangerine|MSeg=sontoloŋ
 5	yaŋ	yaŋ	PART	ADD	InfStruct=Foc	4	advmod:emph	4:advmod:emph	Gloss=ADD|MSeg=yaŋ
@@ -10417,7 +10417,7 @@
 # english = Plus now THAT's our big festival, right?
 1	Plas	plas	CCONJ	_	_	6	cc	6:cc	Gloss=plus|MSeg=plʌs|OrigLang=en
 2	abo	abo	ADV	_	_	6	advmod	6:advmod	Gloss=now|MSeg=abo
-3	aniko	ani	PRON	GEN	Case=Abs,Erg|Clusivity=In|Number=Plur|Person=1|Poss=Yes|PronType=Prs	6	nmod:poss	6:nmod:poss	Gloss=1PL.INCL-GEN|MSeg=ani-ko
+3	aniko	ani	PRON	GEN	Case=Abs,Erg|Clusivity[psor]=In|Number=Plur|Person=1|Poss=Yes|PronType=Prs	6	nmod:poss	6:nmod:poss	Gloss=1PL.INCL-GEN|MSeg=ani-ko
 4-5	thego	_	_	_	_	_	_	_	_
 4	the	the	ADJ	_	_	5	amod:nmlz	5:amod:nmlz	Gloss=big|MSeg=the
 5	go	go	NOUN	NMLZ1	Case=Abs|Number=Sing	6	nmod	6:nmod	Gloss=NMLZ1|MSeg=go
@@ -10776,7 +10776,7 @@
 # text = Anirɨŋyaŋ cektoko Parboteyaŋ.
 # english = He speaks both our language and Nepali.
 1-2	Anirɨŋyaŋ	_	_	_	_	_	_	_	_
-1	Anirɨŋ	ani	NOUN	_	Case=Abs|Clusivity=In|Number=Sing|Number[psor]=Plur|Person=1	3	obj	3:obj	Gloss=1PL.INCL.POSS-language|MSeg=ani-rɨŋ
+1	Anirɨŋ	ani	NOUN	_	Case=Abs|Clusivity[psor]=In|Number=Sing|Number[psor]=Plur|Person=1	3	obj	3:obj	Gloss=1PL.INCL.POSS-language|MSeg=ani-rɨŋ
 2	yaŋ	yaŋ	PART	ADD	InfStruct=Foc	1	advmod:emph	1:advmod:emph	Gloss=ADD|MSeg=yaŋ
 3	cektoko	cekt	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Number[p]=Sing|Person=3|Person[p]=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=speak-3[SG].P-IND.NPST[.3SG.A]|MSeg=cekt-u-kV
 4-5	Parboteyaŋ	_	_	_	_	_	_	_	SpaceAfter=No
@@ -11339,7 +11339,7 @@
 # text = Anapaubeko urɨŋ oma mahiyoktummakha ni anaŋa.
 # english = We couldn't ignore our father's word.
 1-2	Anapaubeko	_	_	_	_	_	_	_	_
-1	Anapaube	pa	NOUN	LOC2	Case=Loc|Clusivity=Ex|Number=Sing|Number[psor]=Plur|Person=1	2	nmod:nmlz	2:nmod:nmlz	Gloss=1PL.EXCL.POSS-father-LOC2|MSeg=ana-pau-beʔ
+1	Anapaube	pa	NOUN	LOC2	Case=Loc|Clusivity[psor]=Ex|Number=Sing|Number[psor]=Plur|Person=1	2	nmod:nmlz	2:nmod:nmlz	Gloss=1PL.EXCL.POSS-father-LOC2|MSeg=ana-pau-beʔ
 2	ko	go	NOUN	NMLZ1	Case=Abs|Number=Sing	3	nmod	3:nmod	Gloss=NMLZ1|MSeg=go
 3	urɨŋ	rɨŋ	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person=3	4	obj	4:obj	Gloss=3SG.POSS-speech|MSeg=u-rɨŋ
 4	oma	os	VERB	_	Aspect=Imp|Case=Abs|VerbForm=Inf|Voice=Act	5	xcomp	5:xcomp	Gloss=throw-INF|MSeg=os-ma
@@ -11392,7 +11392,7 @@
 # text = Anakoyaŋ usarakta manchi khalo.
 # english = Ours does not have any flesh to it, either/We do not have any flesh, either.
 1-2	Anakoyaŋ	_	_	_	_	_	_	_	_
-1	Anako	anaŋa	PRON	GEN	Case=Abs,Erg|Clusivity=Ex|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	Gloss=1PL.EXCL-GEN|MSeg=anaŋa-ko
+1	Anako	anaŋa	PRON	GEN	Case=Abs,Erg|Clusivity[psor]=Ex|Number=Sing|Number[psor]=Dual|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	Gloss=1PL.EXCL-GEN|MSeg=anaŋa-ko
 2	yaŋ	yaŋ	PART	ADD	InfStruct=Foc	1	advmod:emph	1:advmod:emph	Gloss=ADD|MSeg=yaŋ
 3-4	usarakta	_	_	_	_	_	_	_	_
 3	usarak	sarak	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person=3	6	acl:nmlz	6:acl:nmlz	Gloss=3SG.POSS-flesh|MSeg=u-sarak
@@ -11410,7 +11410,7 @@
 2	ummaŋa	ma	NOUN	_	Case=Erg|Number=Sing|Number[psor]=Sing|Person=3	4	nsubj	4:nsubj	Gloss=3SG.POSS-woman-ERG|MSeg=u-ma-ŋa
 3	na	na	PART	TOP	InfStruct=Top	2	advmod:emph	2:advmod:emph	Gloss=TOP|MSeg=na
 4-6	maineknokhalo	_	_	_	_	_	_	_	_
-4	mainekno	ŋek	VERB	_	Aspect=Imp|Clusivity=In|Mood=Ind|Number[p]=Nsing|Person=3|Person[p]=1|Tense=Pres|VerbForm=Fin|Voice=Act	5	acl:nmlz	5:acl:nmlz	Gloss=[3>]1NSG.INCL-bite-IND.NPST|MSeg=mai-ŋek-no
+4	mainekno	ŋek	VERB	_	Aspect=Imp|Clusivity[p]=In|Mood=Ind|Number[p]=Nsing|Person=3|Person[p]=1|Tense=Pres|VerbForm=Fin|Voice=Act	5	acl:nmlz	5:acl:nmlz	Gloss=[3>]1NSG.INCL-bite-IND.NPST|MSeg=mai-ŋek-no
 5	kha	go	NOUN	NMLZ2	Case=Abs|Number=Sing	0	root	0:root	Gloss=NMZL2|MSeg=kha
 6	lo	lo	PART	SURP	InfStruct=Foc	5	advmod:emph	5:advmod:emph	Gloss=SURP|MSeg=lo
 7	naŋ	naŋ	CCONJ	_	_	5	cc	5:cc	Gloss=but|MSeg=naŋ|SpaceAfter=No
@@ -11503,7 +11503,7 @@
 # english = But even our grandmother (= the Jalpa Devī)...
 1	Ba	ba	DET	_	Deixis=Prox|PronType=Dem	2	det	2:det	Gloss=PROX|MSeg=ba
 2-3	anithɨgumyaŋ	_	_	_	_	_	_	_	SpaceAfter=No
-2	anithɨgum	thigum	NOUN	_	Case=Abs|Clusivity=In|Number=Sing|Number[psor]=Plur|Person=1	0	root	0:root	Gloss=1PL.INCL.POSS-grandmother|MSeg=ani-thigum
+2	anithɨgum	thigum	NOUN	_	Case=Abs|Clusivity[psor]=In|Number=Sing|Number[psor]=Plur|Person=1	0	root	0:root	Gloss=1PL.INCL.POSS-grandmother|MSeg=ani-thigum
 3	yaŋ	yaŋ	PART	ADD	InfStruct=Foc	2	advmod:emph	2:advmod:emph	Gloss=ADD|MSeg=yaŋ
 4	...	...	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
 
@@ -11539,7 +11539,7 @@
 # text = Khapattaŋsakha ukhimbhandu.
 # english = She had called us up to her house.
 1-2	Khapattaŋsakha	_	_	_	_	_	_	_	_
-1	Khapattaŋsa	patt	VERB	_	Aspect=Perf|Clusivity=In|Mood=Sub|Number=Sing|Number[p]=Nsing|Person=3|Person[p]=1|Tense=Past|VerbForm=Fin|Voice=Act	2	acl:nmlz	2:acl:nmlz	Gloss=[3SG>]1NSG-call-PST-PRF-[SUBJ.]PST|MSeg=kha-patt-a-ŋs-a
+1	Khapattaŋsa	patt	VERB	_	Aspect=Perf|Clusivity[p]=In|Mood=Sub|Number=Sing|Number[p]=Nsing|Person=3|Person[p]=1|Tense=Past|VerbForm=Fin|Voice=Act	2	acl:nmlz	2:acl:nmlz	Gloss=[3SG>]1NSG-call-PST-PRF-[SUBJ.]PST|MSeg=kha-patt-a-ŋs-a
 2	kha	kha	NOUN	NMLZ2	Case=Abs|Number=Sing	0	root	0:root	Gloss=NMLZ2|MSeg=kha
 3	ukhimbhandu	khim	NOUN	LOC.UP	Case=Loc|Number=Sing|Number[psor]=Sing|Person=3	1	obl	1:obl	Gloss=3SG.POSS-house-LOC.UP|MSeg=u-khim-banduk|SpaceAfter=No
 4	.	.	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
@@ -11617,7 +11617,7 @@
 2-3	bago	_	_	_	_	_	_	_	_
 2	ba	ba	DET	_	Deixis=Prox|PronType=Dem	3	det:nmlz	3:det:nmlz	Gloss=PROX|MSeg=ba
 3	go	go	NOUN	NMLZ1	Case=Abs|Number=Sing	4	nmod	4:nmod	Gloss=NMLZ1|MSeg=go
-4	aniteibe	teĩ	NOUN	LOC2	Case=Loc|Clusivity=In|Number=Sing|Number[psor]=Plur|Person=1	6	obl	6:obl	Gloss=1PL.INCL.POSS-village-LOC2|MSeg=ani-teĩ-beʔ
+4	aniteibe	teĩ	NOUN	LOC2	Case=Loc|Clusivity[psor]=In|Number=Sing|Number[psor]=Plur|Person=1	6	obl	6:obl	Gloss=1PL.INCL.POSS-village-LOC2|MSeg=ani-teĩ-beʔ
 5	them	them	PRON	_	Case=Abs,Erg|Number=Sing|PronType=Int	6	obj	6:obj	Gloss=what|MSeg=them
 6	puktokonɨŋ	pukt	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Number[p]=Sing|Person=3|Person[p]=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=grow-3[SG].P-IND.NPST[.3SG.A]-NEG|MSeg=pukt-u-kV-nɨŋ|SpaceAfter=No
 7	?	?	PUNCT	_	_	6	punct	6:punct	SpacesAfter=\n
@@ -11840,7 +11840,7 @@
 # text = Sontolok maipinɨʔnɨŋ.
 # english = He doesn't give us tangerines.
 1	Sontolok	sontoloŋ	NOUN	_	Case=Abs|Number=Sing	2	obj	2:obj	Gloss=tangerine|MSeg=sontoloŋ
-2	maipinɨʔnɨŋ	pid	VERB	_	Aspect=Imp|Clusivity=In|Mood=Ind|Number[p]=Plur|Person=3|Person[p]=1|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=[3>]1.INCL-give-PL-IND.NPST.NEG|MSeg=mai-pid-nok-nɨŋ|SpaceAfter=No
+2	maipinɨʔnɨŋ	pid	VERB	_	Aspect=Imp|Clusivity[p]=In|Mood=Ind|Number[p]=Plur|Person=3|Person[p]=1|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=[3>]1.INCL-give-PL-IND.NPST.NEG|MSeg=mai-pid-nok-nɨŋ|SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
 
 # sent_id = grammar_Reference_111d
@@ -11896,7 +11896,7 @@
 # english = The cattle eat us out of house and home!
 1	Bastuŋa	bostu	NOUN	_	Case=Erg|Number=Sing	2	nsubj	2:nsubj	Gloss=cattle-ERG|MSeg=bostu-ŋa
 2-3	maicakha	_	_	_	_	_	_	_	_
-2	maica	ca	VERB	_	Aspect=Imp|Clusivity=In|Mood=Sub|Number[p]=Plur|Person=3|Person[p]=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl:nmlz	3:acl:nmlz	Gloss=[3>]1NSG.INCL-eat[.SUBJ.NPST]|MSeg=mai-ca
+2	maica	ca	VERB	_	Aspect=Imp|Clusivity[p]=In|Mood=Sub|Number[p]=Plur|Person=3|Person[p]=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl:nmlz	3:acl:nmlz	Gloss=[3>]1NSG.INCL-eat[.SUBJ.NPST]|MSeg=mai-ca
 3	kha	kha	NOUN	NMLZ2	Case=Abs|Number=Sing	0	root	0:root	Gloss=NMLZ2|MSeg=kha
 4	rahicha	raicha	PART	MIR	_	3	discourse	3:discourse	Gloss=MIR|MSeg=rʌ(h)ichʌ|SpaceAfter=No
 5	!	!	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
@@ -12013,7 +12013,7 @@
 # sent_id = grammar_Reference_118b
 # text = Anidoŋdumma [...] bago heŋkhama meĩ, tiptattomo para na, jhan hokhi hola naŋ!
 # english = But how [strange] would it be if our language covered this earth!
-1	Anidoŋdumma	doŋdum	NOUN	_	Case=Erg|Clusivity=In|Number=Sing|Number[psor]=Plur|Person=1	8	nsubj	8:nsubj	Gloss=1PL.INCL.POSS-speech-ERG|MSeg=ani-doŋdum-ŋa
+1	Anidoŋdumma	doŋdum	NOUN	_	Case=Erg|Clusivity[psor]=In|Number=Sing|Number[psor]=Plur|Person=1	8	nsubj	8:nsubj	Gloss=1PL.INCL.POSS-speech-ERG|MSeg=ani-doŋdum-ŋa
 2	[...]	[...]	PUNCT	_	_	1	punct	1:punct	_
 3-4	bago	_	_	_	_	_	_	_	_
 3	ba	ba	DET	_	Deixis=Prox|PronType=Dem	4	det:nmlz	4:det:nmlz	Gloss=PROX|MSeg=ba
@@ -12028,7 +12028,7 @@
 11	na	na	PART	TOP	InfStruct=Top	8	advmod:emph	8:advmod:emph	Gloss=TOP|MSeg=na|SpaceAfter=No
 12	,	,	PUNCT	_	_	8	punct	8:punct	_
 13	jhan	jhan	ADV	_	_	14	advmod	14:advmod	Gloss=even_more|MSeg=jhʌn̪
-14	hokhi	hok	ADV	QST	AdvType=Mod|PronType=Int	0	root	0:root	Gloss=Q-MOD|MSeg=ho-khiʔ
+14	hokhi	hok	ADV	QST	AdvType=Man|PronType=Int	0	root	0:root	Gloss=Q-MOD|MSeg=ho-khiʔ
 15	hola	hola	PART	PRESUM	_	14	discourse	14:discourse	Gloss=PRESUM|MSeg=hola
 16	naŋ	naŋ	CCONJ	_	_	14	cc	14:cc	Gloss=but|MSeg=naŋ|SpaceAfter=No
 17	!	!	PUNCT	_	_	14	punct	14:punct	SpacesAfter=\n
@@ -12303,7 +12303,7 @@
 # sent_id = grammar_Reference_131e
 # text = Anamailace utiaktalok panjana – hiccibaŋ maobadice, sumbhaŋ armice – usiaŋsemo ucektaktepho.
 # english = When our son and the others came, they were saying that five people died, two maoists and three guys from the army.
-1	Anamailace	maĩla	NOUN	_	Case=Abs|Clusivity=Ex|Number=Nsing|Number[psor]=Plur|Person=1	2	nsubj	2:nsubj	Gloss=1PL.EXCL.POSS-second_son-NSG|MSeg=ana-maĩla-ce
+1	Anamailace	maĩla	NOUN	_	Case=Abs|Clusivity[psor]=Ex|Number=Nsing|Number[psor]=Plur|Person=1	2	nsubj	2:nsubj	Gloss=1PL.EXCL.POSS-second_son-NSG|MSeg=ana-maĩla-ce
 2	utiaktalok	ta	VERB	SIM	Aspect=Imp|Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	13	advcl	13:advcl	Gloss=3[PL].S-come-PST-IPFV1-[SUBJ.]PST-SIM|MSeg=u-ta-a-yakt-a-lok
 3	panjana	pãc	NUM	_	Animacy=Hum|NumType=Card	11	nsubj	11:nsubj	Gloss=five-HUM.CLF|MSeg=pan̪-jʌn̪a
 4	–	–	PUNCT	_	_	6	punct	6:punct	_
@@ -13222,7 +13222,7 @@
 4	wanda	wanda	ADV	_	_	5	orphan	5:orphan	Gloss=tomorrow|MSeg=wandak
 5	thɨkpaŋ	thitta	NUM	_	Animacy=Hum|NumType=Card	2	conj	2:conj	Gloss=one-HUM.CLF|MSeg=thitta-paŋ|SpaceAfter=No
 6	,	,	PUNCT	_	_	9	punct	9:punct	_
-7	huŋkhi	hun	ADV	_	AdvType=Mod|Deixis=Med|PronType=Dem	9	advmod	9:advmod	Gloss=MED-MOD|MSeg=hun-khiʔ
+7	huŋkhi	hun	ADV	_	AdvType=Man|Deixis=Med|PronType=Dem	9	advmod	9:advmod	Gloss=MED-MOD|MSeg=hun-khiʔ
 8	gari	gari	SCONJ	TMP.LOC1	_	7	case	7:case	Gloss=TMP.LOC1|MSeg=gari
 9	miade	ma	VERB	COMPL3.ITR	Aspect=ComplPerfv|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	2:parataxis	Gloss=get_lost-PST-COMPL3.ITR-IND.PST[.3SG.S]|MSeg=ma-a-hat-e|SpaceAfter=No
 10	.	.	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
@@ -13236,14 +13236,14 @@
 4	lisacehẽ	lis	VERB	_	Aspect=Perfv|Clusivity=Ex|Mood=Ind|Number=Dual|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=become-PST-[1]DU-EXCL[.S]-IND.PST|MSeg=lis-a-ci-ŋa-e
 5	kina	kina	CCONJ	SEQ	_	8	cc	8:cc	Gloss=SEQ|MSeg=kina
 6	abo	abo	ADV	_	_	8	advmod	8:advmod	Gloss=now|MSeg=abo
-7	bakhiʔnɨŋ	ba	ADV	_	AdvType=Met|Deixis=Prox|PronType=Dem	8	advmod	8:advmod	Gloss=PROX-METHOD|MSeg=ba-khiʔnɨŋ
+7	bakhiʔnɨŋ	ba	ADV	_	AdvType=Man|Deixis=Prox|PronType=Dem	8	advmod	8:advmod	Gloss=PROX-METHOD|MSeg=ba-khiʔnɨŋ
 8	cekŋaʔã	cekt	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	4:conj	Gloss=speak-1SG.S-IND.NPST|MSeg=cekt-ŋa-ʔã|SpaceAfter=No
 9	.	.	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
 
 # sent_id = grammar_Reference_175c
 # text = Aniteĩbe toŋi kina thittasaŋa “Huŋgo saŋcep akka tiŋaʔã” mo pachi khadi kina chembi, upheʔwa teiʔmathama.
 # english = When we come together in our village and somebody/anybody says “I'm contributing to this saŋcep,” we all go and should give some money.
-1	Aniteĩbe	teĩ	NOUN	LOC2	Case=Loc|Clusivity=In|Number=Sing|Number[psor]=Plur|Person=1	2	obl	2:obl	Gloss=1PL.INCL.POSS-village-LOC2|MSeg=ani-teĩ-beʔ
+1	Aniteĩbe	teĩ	NOUN	LOC2	Case=Loc|Clusivity[psor]=In|Number=Sing|Number[psor]=Plur|Person=1	2	obl	2:obl	Gloss=1PL.INCL.POSS-village-LOC2|MSeg=ani-teĩ-beʔ
 2	toŋi	toŋ	VERB	_	Aspect=Imp|Clusivity=In|Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	14	advcl	14:advcl	Gloss=match-[SUBJ.NPST.]1PL[.INCL].S|MSeg=toŋ-ĩ
 3	kina	kina	CCONJ	SEQ	_	4	cc	4:cc	Gloss=SEQ|MSeg=kina
 4	thittasaŋa	thitta	NUM	OBL	Animacy=Nhum|Case=Erg|NumType=Card	2	conj	2:conj	Gloss=one-OBL-ERG|MSeg=thitta-sa-ŋa
@@ -13441,7 +13441,7 @@
 2	teibe	teĩ	NOUN	LOC2	Case=Loc|Number=Sing	3	nmod:nmlz	3:nmod:nmlz	Gloss=village-LOC2|MSeg=teĩ-beʔ
 3	koce	go	NOUN	NMLZ1	Case=Abs|Number=Nsing	6	nsubj	6:nsubj	Gloss=NMLZ1-NSG|MSeg=go-ce
 4	na	na	PART	TOP	InfStruct=Top	3	advmod:emph	3:advmod:emph	Gloss=TOP|MSeg=na
-5	hokhi-hokhi	hok	ADV	Q-INDF	AdvType=Mod|PronType=Int|Red=Yes	6	advmod	6:advmod	Gloss=Q-MOD~INDF|MSeg=ho-khiʔ~hokhiʔ
+5	hokhi-hokhi	hok	ADV	Q-INDF	AdvType=Man|PronType=Int|Red=Yes	6	advmod	6:advmod	Gloss=Q-MOD~INDF|MSeg=ho-khiʔ~hokhiʔ
 6-7	umiʔnolo	_	_	_	_	_	_	_	_
 6	umiʔno	mitt	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=3[PL].S-think-IND.NPST|MSeg=u-mitt-nok
 7	lo	lo	PART	SURP	InfStruct=Foc	6	advmod:emph	6:advmod:emph	Gloss=SURP|MSeg=lo
@@ -13583,7 +13583,7 @@
 8-9	lɨkmamo	_	_	_	_	_	_	_	_
 8	lɨkma	lɨk	VERB	_	Aspect=Imp|Case=Abs|VerbForm=Inf|Voice=Act	11	advcl	11:advcl	Gloss=go_in-INF|MSeg=lɨk-ma
 9	mo	mo	SCONJ	CIT	_	8	mark	8:mark	Gloss=CIT|MSeg=mo
-10	hokhi	hok	ADV	QST	AdvType=Mod|PronType=Int	11	advmod	11:advmod	Gloss=Q-MOD|MSeg=ho-khiʔ
+10	hokhi	hok	ADV	QST	AdvType=Man|PronType=Int	11	advmod	11:advmod	Gloss=Q-MOD|MSeg=ho-khiʔ
 11	amiʔno	mitt	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=2[SG].S-think-IND.NPST|MSeg=a-mitt-nok|SpaceAfter=No
 12	?	?	PUNCT	_	_	11	punct	11:punct	SpacesAfter=\n
 
@@ -14203,20 +14203,20 @@
 # english = When it gets hot one gets lazy.
 1	Namphaĩ	nam	VERB	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	advcl	4:advcl	Gloss=be_hot-STEM[.SUBJ.NPST.3SG.S]|MSeg=nam-phan
 2	gari	gari	SCONJ	TMP.LOC1	_	1	mark	1:mark	Gloss=TMP.LOC1|MSeg=gari
-3	anisuma	suma	NOUN	_	Case=Abs|Clusivity=In|Number=Sing|Number[psor]=Plur|Person=1	4	nsubj	4:nsubj	Gloss=1PL.INCL.POSS-laziness|MSeg=ani-suma
+3	anisuma	suma	NOUN	_	Case=Abs|Clusivity[psor]=In|Number=Sing|Number[psor]=Plur|Person=1	4	nsubj	4:nsubj	Gloss=1PL.INCL.POSS-laziness|MSeg=ani-suma
 4	katno	kat	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=come_up-IND.NPST[.3SG.S]|MSeg=kat-nok|SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
 
 # sent_id = grammar_Reference_208b
 # text = Hokhi budi lisi kina, jhanna maipinɨʔnɨŋ, jhanna!
 # english = How [is it supposed to work] once one gets older, they give you even less [then], even less!
-1	Hokhi	hok	ADV	QST	AdvType=Mod|PronType=Int	3	advmod	3:advmod	Gloss=Q-MOD|MSeg=ho-khiʔ
+1	Hokhi	hok	ADV	QST	AdvType=Man|PronType=Int	3	advmod	3:advmod	Gloss=Q-MOD|MSeg=ho-khiʔ
 2	budi	budhi	NOUN	_	Case=Abs|Number=Sing	3	obj	3:obj	Gloss=old_woman|MSeg=buɖi
 3	lisi	lis	VERB	_	Aspect=Imp|Clusivity=In|Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=become-[SUBJ.NPST.]1PL[.INCL].S|MSeg=lis-ĩ
 4	kina	kina	CCONJ	SEQ	_	3	cc	3:cc	Gloss=SEQ|MSeg=kina|SpaceAfter=No
 5	,	,	PUNCT	_	_	7	punct	7:punct	_
 6	jhanna	jhan	ADV	NTVZ	_	7	advmod	7:advmod	Gloss=even_more|MSeg=jhʌn̪-a
-7	maipinɨʔnɨŋ	pid	VERB	_	Aspect=Imp|Clusivity=In|Mood=Ind|Number[p]=Plur|Person=3|Person[p]=1|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	3	parataxis	3:parataxis	Gloss=[3>]1PL.INCL.P-give-IND.NPST-NEG|MSeg=mai-pid-nok-nɨŋ|SpaceAfter=No
+7	maipinɨʔnɨŋ	pid	VERB	_	Aspect=Imp|Clusivity[p]=In|Mood=Ind|Number[p]=Plur|Person=3|Person[p]=1|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	3	parataxis	3:parataxis	Gloss=[3>]1PL.INCL.P-give-IND.NPST-NEG|MSeg=mai-pid-nok-nɨŋ|SpaceAfter=No
 8	,	,	PUNCT	_	_	9	punct	9:punct	_
 9	jhanna	jhan	ADV	NTVZ	_	7	advmod	7:advmod	Gloss=even_more|MSeg=jhʌn̪-a|SpaceAfter=No
 10	!	!	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
@@ -14260,11 +14260,11 @@
 # sent_id = grammar_Reference_211
 # text = Huŋkhiʔnɨŋ caikha Anichintaŋbe.
 # english = That's how we ate in our Chintang.
-1	Huŋkhiʔnɨŋ	hun	ADV	_	AdvType=Met|Deixis=Med|PronType=Dem	2	advmod	2:advmod	Gloss=MED-METHOD|MSeg=hun-khiʔnɨŋ
+1	Huŋkhiʔnɨŋ	hun	ADV	_	AdvType=Man|Deixis=Med|PronType=Dem	2	advmod	2:advmod	Gloss=MED-METHOD|MSeg=hun-khiʔnɨŋ
 2-3	caikha	_	_	_	_	_	_	_	_
 2	cai	ca	VERB	_	Aspect=Perfv|Clusivity=In|Mood=Sub|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	3	acl:nmlz	3:acl:nmlz	Gloss=eat-[SUBJ.PST.]1PL[.INCL].S|MSeg=ca-ĩ
 3	kha	kha	NOUN	NMLZ2	Case=Abs|Number=Sing	0	root	0:root	Gloss=NMLZ2|MSeg=kha
-4	Anichintaŋbe	chintaŋ	NOUN	LOC2	Case=Loc|Clusivity=In|Number=Sing|Number[psor]=Plur|Person=1	2	obl	2:obl	Gloss=1PL.INCL.POSS-a_place-LOC2|MSeg=ani-chintaŋ-beʔ|SpaceAfter=No
+4	Anichintaŋbe	chintaŋ	NOUN	LOC2	Case=Loc|Clusivity[psor]=In|Number=Sing|Number[psor]=Plur|Person=1	2	obl	2:obl	Gloss=1PL.INCL.POSS-a_place-LOC2|MSeg=ani-chintaŋ-beʔ|SpaceAfter=No
 5	.	.	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
 
 # sent_id = grammar_Reference_212
@@ -14286,7 +14286,7 @@
 1	Ek	ek	NUM	_	NumType=Card	2	nummod	2:nummod	Gloss=one|MSeg=ek
 2	pathi	pathi	NOUN	_	Case=Abs|Number=Sing	3	nmod	3:nmod	Gloss=a_measure|MSeg=pat̪hi
 3	camaca	camaca	NOUN	_	Case=Abs|Number=Sing	4	obj	4:obj	Gloss=rice|MSeg=camaca
-4	mapide	pid	VERB	_	Aspect=Perfv|Clusivity=Ex|Mood=Ind|Number[p]=Plur|Person=3|Person[p]=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=[3>]1NSG.EXCL-give-IND.PST|MSeg=ma-pid-e
+4	mapide	pid	VERB	_	Aspect=Perfv|Clusivity[p]=Ex|Mood=Ind|Number[p]=Plur|Person=3|Person[p]=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=[3>]1NSG.EXCL-give-IND.PST|MSeg=ma-pid-e
 5	kina	kina	CCONJ	SEQ	_	7	cc	7:cc	Gloss=SEQ|MSeg=kina
 6	anaŋa	anaŋa	PRON	_	Case=Abs,Erg|Clusivity=Ex|Number=Plur|Person=1|PronType=Prs	7	nsubj	7:nsubj	Gloss=1PL.EXCL|MSeg=anaŋa
 7	thoktumma	thokt	VERB	_	Aspect=Imp|Clusivity=Ex|Mood=Sub|Number=Plur|Number[p]=Sing|Person=1|Person[p]=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	acl:nmlz	8:acl:nmlz	Gloss=build-3[SG].P-1PL.A-EXCL|MSeg=thokt-u-m-ŋa
@@ -14299,7 +14299,7 @@
 # sent_id = grammar_Reference_214
 # text = Anirɨŋ anisikonchi?
 # english = Do you know our language or not?
-1	Anirɨŋ	rɨŋ	NOUN	_	Case=Abs|Clusivity=In|Number=Sing|Number[psor]=Plur|Person=1	2	obj	2:obj	Gloss=1PL.INCL.POSS-language|MSeg=ani-rɨŋ
+1	Anirɨŋ	rɨŋ	NOUN	_	Case=Abs|Clusivity[psor]=In|Number=Sing|Number[psor]=Plur|Person=1	2	obj	2:obj	Gloss=1PL.INCL.POSS-language|MSeg=ani-rɨŋ
 2-3	anisikonchi	_	_	_	_	_	_	_	SpaceAfter=No
 2	anisiko	ŋis	VERB	_	Aspect=Imp|Mood=Sub|Number=Sing|Number[p]=Sing|Person=2|Person[p]=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=2[SG].A-know-3[SG].P|MSeg=a-ŋis-u-kV
 3	nchi	manchi	PART	QST.NEUTR	_	2	discourse	2:discourse	Gloss=QST.NEUTR|MSeg=nchi
@@ -14323,10 +14323,10 @@
 4	pacche	pache	SCONJ	POST	_	3	mark	3:mark	Gloss=POST|MSeg=pache
 5	lɨkma	lɨk	VERB	_	Aspect=Imp|Case=Abs|VerbForm=Inf|Voice=Act	6	xcomp	6:xcomp	Gloss=go_in-INF|MSeg=lɨk-ma
 6-7	maipinɨknɨŋmo	_	_	_	_	_	_	_	_
-6	maipinɨknɨŋ	pid	VERB	_	Aspect=Imp|Clusivity=In|Mood=Ind|Number[p]=Plur|Person=3|Person[p]=1|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=[3>]1NSG.INCL-give-IND.NPST-NEG|MSeg=mai-pid-nɨk-nɨŋ
+6	maipinɨknɨŋ	pid	VERB	_	Aspect=Imp|Clusivity[p]=In|Mood=Ind|Number[p]=Plur|Person=3|Person[p]=1|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=[3>]1NSG.INCL-give-IND.NPST-NEG|MSeg=mai-pid-nɨk-nɨŋ
 7	mo	mo	SCONJ	CIT	_	6	mark	6:mark	Gloss=CIT|MSeg=mo
 8	kina	kina	CCONJ	SEQ	_	9	cc	9:cc	Gloss=SEQ|MSeg=kina
-9	maapaŋsakteʔ	paŋs	VERB	_	Aspect=Imp|Clusivity=Ex|Mood=Ind|Number[p]=Plur|Person=3|Person[p]=1|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	6:conj	Gloss=[3>]1NSG.EXCL-send-PST-IPFV-IND.PST|MSeg=ma-paŋs-a-yakt-e
+9	maapaŋsakteʔ	paŋs	VERB	_	Aspect=Imp|Clusivity[p]=Ex|Mood=Ind|Number[p]=Plur|Person=3|Person[p]=1|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	6:conj	Gloss=[3>]1NSG.EXCL-send-PST-IPFV-IND.PST|MSeg=ma-paŋs-a-yakt-e
 10	ni	ni	PART	ASS	_	9	discourse	9:discourse	Gloss=ASS|MSeg=n̪i|SpaceAfter=No
 11	.	.	PUNCT	_	_	6	punct	6:punct	SpacesAfter=\n
 
@@ -14346,7 +14346,7 @@
 2	sɨŋsaʔwa	sɨŋsaʔwa	NOUN	_	Case=Abs|Number=Sing	3	obj	3:obj	Gloss=hunger|MSeg=sɨŋsaʔwa
 3	sii	si	VERB	_	Aspect=Imp|Clusivity=In|Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl	6:advcl	Gloss=feel-[SUBJ.NPST.]1PL[.INCL].S|MSeg=si-ĩ
 4	pacche	pache	SCONJ	POST	_	3	mark	3:mark	Gloss=POST|MSeg=pache
-5	anirek	rek	NOUN	_	Case=Abs|Clusivity=In|Number=Sing|Number[psor]=Plur|Person=1	6	nsubj	6:nsubj	Gloss=1PL.INCL.POSS-anger|MSeg=ani-rek
+5	anirek	rek	NOUN	_	Case=Abs|Clusivity[psor]=In|Number=Sing|Number[psor]=Plur|Person=1	6	nsubj	6:nsubj	Gloss=1PL.INCL.POSS-anger|MSeg=ani-rek
 6	kaʔno	kat	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=come_up-IND.NPST[.3SG.S]|MSeg=kat-nok
 7	ni	ni	PART	ASS	_	6	discourse	6:discourse	Gloss=ASS|MSeg=n̪i
 8-9	aniyaŋ	_	_	_	_	_	_	_	SpaceAfter=No
@@ -14946,7 +14946,7 @@
 1	Khetaiʔ	khet	NOUN	NTVZ-LOC1	Case=Loc|Number=Sing	2	obl	2:obl	Gloss=field-NTVZ-LOC1|MSeg=khet̪-a-iʔ
 2	khatte	khatt	VERB	_	Aspect=Perfv|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	advcl	5:advcl	Gloss=take-IND.PST[.3SG.S/A]|MSeg=khatt-e
 3	pachi	pache	SCONJ	POST	_	2	mark	2:mark	Gloss=POST|MSeg=pache
-4	bakhiʔ	ba	ADV	_	AdvType=Mod|Deixis=Prox|PronType=Dem	5	advmod	5:advmod	Gloss=PROX-MOD|MSeg=ba-khiʔ
+4	bakhiʔ	ba	ADV	_	AdvType=Man|Deixis=Prox|PronType=Dem	5	advmod	5:advmod	Gloss=PROX-MOD|MSeg=ba-khiʔ
 5-6	mittepho	_	_	_	_	_	_	_	SpaceAfter=No
 5	mitte	mitt	VERB	_	Aspect=Perfv|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=think-IND.PST[.3SG.S/A]|MSeg=mitt-e
 6	pho	pho	AUX	REP	Evident=Nfh	5	aux	5:aux	Gloss=REP|MSeg=pho
@@ -14968,14 +14968,14 @@
 1	Paile	pahile	ADV	_	_	5	advmod	5:advmod	Gloss=first|MSeg=pʌ(h)ile
 2	na	na	PART	TOP	InfStruct=Top	1	advmod:emph	1:advmod:emph	Gloss=TOP|MSeg=na
 3	akka	akka	PRON	_	Case=Abs,Erg|Number=Sing|Person=1|PronType=Prs	5	nsubj	5:nsubj	Gloss=1SG|MSeg=akka
-4	hokhi	hok	ADV	QST	AdvType=Mod|PronType=Int	5	advmod	5:advmod	Gloss=Q-MOD|MSeg=ho-khiʔ
+4	hokhi	hok	ADV	QST	AdvType=Man|PronType=Int	5	advmod	5:advmod	Gloss=Q-MOD|MSeg=ho-khiʔ
 5	mittehẽ	mitt	VERB	_	Aspect=Perfv|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=think-PST-1SG[.S]-IND.PST|MSeg=mitt-a-ŋ-e
 6	bhone	na	PART	TOP	InfStruct=Top	5	advmod:emph	5:advmod:emph	Gloss=TOP|MSeg=bhʌn̪e
 7	ni	ni	PART	ASS	_	5	discourse	5:discourse	Gloss=ASS|MSeg=n̪i|SpaceAfter=No
 8	,	,	PUNCT	_	_	12	punct	12:punct	_
 9	“	“	PUNCT	_	_	12	punct	12:punct	SpaceAfter=No
 10-11	Bakhilo	_	_	_	_	_	_	_	_
-10	Bakhi	ba	ADV	_	AdvType=Mod|Deixis=Prox|PronType=Dem	12	advmod	12:advmod	Gloss=PROX-MOD|MSeg=ba-khiʔ
+10	Bakhi	ba	ADV	_	AdvType=Man|Deixis=Prox|PronType=Dem	12	advmod	12:advmod	Gloss=PROX-MOD|MSeg=ba-khiʔ
 11	lo	lo	PART	SURP	InfStruct=Foc	10	advmod:emph	10:advmod:emph	Gloss=SURP|MSeg=lo
 12-13	numdinei	_	_	_	_	_	_	_	SpaceAfter=No
 12	numdin	numd	VERB	_	Aspect=Imp|Clusivity=In|Mood=OptSub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	5	ccomp	5:ccomp	Gloss=do-[SUBJ.NPST.]1PL[.INCL].S-OPT|MSeg=numd-ĩ-ne
@@ -15202,7 +15202,7 @@
 # english = Others of our friends had come over, too; at least I saw them.
 1	Aru	aru	ADJ	_	_	2	amod	2:amod	Gloss=other|MSeg=ʌru
 2-3	anikamceyaŋ	_	_	_	_	_	_	_	_
-2	anikamce	kam	NOUN	_	Case=Abs|Clusivity=In|Number=Nsing|Number[psor]=Plur|Person=1	4	nsubj	4:nsubj	Gloss=1PL.INCL.POSS-friend-NSG|MSeg=ani-kam-ce
+2	anikamce	kam	NOUN	_	Case=Abs|Clusivity[psor]=In|Number=Nsing|Number[psor]=Plur|Person=1	4	nsubj	4:nsubj	Gloss=1PL.INCL.POSS-friend-NSG|MSeg=ani-kam-ce
 3	yaŋ	yaŋ	PART	ADD	InfStruct=Foc	2	advmod:emph	2:advmod:emph	Gloss=ADD|MSeg=yaŋ
 4	uthabaŋse	thap	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=3[PL].S-come_across-PST-PRF-IND.PST|MSeg=u-thap-a-ŋs-e|SpaceAfter=No
 5	,	,	PUNCT	_	_	6	punct	6:punct	_
@@ -15551,7 +15551,7 @@
 # sent_id = grammar_Reference_276
 # text = Anikhim tin nambarbeʔŋa baiʔ soiʔyãancɨŋ.
 # english = I'm moving our house from ward three over here.
-1	Anikhim	khim	NOUN	_	Case=Abs|Clusivity=In|Number=Sing|Number[psor]=Plur|Person=1	5	obj	5:obj	Gloss=1PL.INCL.POSS-house|MSeg=ani-khim
+1	Anikhim	khim	NOUN	_	Case=Abs|Clusivity[psor]=In|Number=Sing|Number[psor]=Plur|Person=1	5	obj	5:obj	Gloss=1PL.INCL.POSS-house|MSeg=ani-khim
 2	tin	tin	NUM	_	NumType=Card	3	nmod	3:nmod	Gloss=three|MSeg=t̪in
 3	nambarbeʔŋa	nambar	NOUN	_	Case=LocErg|Number=Sing	5	obl	5:obl	Gloss=number-LOC-ERG|MSeg=n̪ʌmbʌr-beʔ-ŋa
 4	baiʔ	ba	ADV	_	AdvType=Loc|Case=Loc|Deixis=Prox|PronType=Dem	5	advmod	5:advmod	Gloss=PROX-LOC|MSeg=ba-iʔ
@@ -15701,7 +15701,7 @@
 # sent_id = grammar_Reference_284
 # text = Hokhi chintaŋge bhasa huniummaiʔyã ucinnaʔancĩmo kina them chace.
 # english = [They also want to know] how the children learn (lit. “teach themselves”) the Chintang language from their mother.
-1	Hokhi	hok	ADV	QST	AdvType=Mod|PronType=Int	5	advmod	5:advmod	Gloss=Q-MOD|MSeg=ho-khiʔ
+1	Hokhi	hok	ADV	QST	AdvType=Man|PronType=Int	5	advmod	5:advmod	Gloss=Q-MOD|MSeg=ho-khiʔ
 2	chintaŋge	chintaŋ	ADJ	ADJZ	_	3	amod	3:amod	Gloss=a_place-ADJZ|MSeg=chintaŋ-e
 3	bhasa	bhasa	NOUN	_	Case=Abs|Number=Sing	5	obj	5:obj	Gloss=language|MSeg=bhasa
 4	huniummaiʔyã	umma	NOUN	LOC1	Case=LocErg|Number=Sing|Number[psor]=Plur|Person=3	5	obl	5:obl	Gloss=3PL.POSS-mother-LOC1-ERG|MSeg=huni-umma-iʔ-ŋa
@@ -15959,7 +15959,7 @@
 2-3	toʔnigosaŋa	_	_	_	_	_	_	_	_
 2	toʔni	to	ADV	DEM.UP-DIR	AdvType=Loc|Case=Loc|Deixis=Remt|PronType=Dem	3	advmod:nmlz	3:advmod:nmlz	Gloss=DEM.UP-DIR|MSeg=to-ʔni
 3	gosaŋa	go	NOUN	NMLZ1-OBL	Case=Erg|Number=Sing	4	nsubj	4:nsubj	Gloss=NMLZ1-OBL-ERG|MSeg=go-sa-ŋa
-4	mailu	lud	VERB	_	Aspect=Imp|Clusivity=In|Mood=Sub|Number[p]=Plur|Person=3|Person[p]=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=[3>]1PL.INCL-tell[.SUBJ.NPST]|MSeg=mai-lud
+4	mailu	lud	VERB	_	Aspect=Imp|Clusivity[p]=In|Mood=Sub|Number[p]=Plur|Person=3|Person[p]=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=[3>]1PL.INCL-tell[.SUBJ.NPST]|MSeg=mai-lud
 5	kina	kina	CCONJ	SEQ	_	7	cc	7:cc	Gloss=SEQ|MSeg=kina
 6	waiʔwaiʔ	waiʔwaiʔ	ADV	_	_	7	advmod	7:advmod	Gloss=silently|MSeg=waiʔwaiʔ
 7	yuinɨŋ	yug	VERB	_	Aspect=Imp|Clusivity=In|Mood=Sub|Number=Plur|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	4:conj	Gloss=sit-1PL[.INCL].S-[SUBJ.]NPST.NEG|MSeg=yug-ĩ-nɨŋ
@@ -16451,7 +16451,7 @@
 # english = They said they're recording us, what we're saying.
 1	Khice	khic	VERB	V.NTVZ	VerbForm=Inf	2	xcomp	2:xcomp	Gloss=record-NTVZ|MSeg=khic-e
 2-4	mainumnokhapho	_	_	_	_	_	_	_	SpaceAfter=No
-2	mainumno	numd	VERB	_	Aspect=Imp|Clusivity=In|Mood=Ind|Number[p]=Plur|Person=3|Person[p]=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl:nmlz	3:acl:nmlz	Gloss=[3>]1PL.INCL-do-IND.NPST|MSeg=mai-numd-nok
+2	mainumno	numd	VERB	_	Aspect=Imp|Clusivity[p]=In|Mood=Ind|Number[p]=Plur|Person=3|Person[p]=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl:nmlz	3:acl:nmlz	Gloss=[3>]1PL.INCL-do-IND.NPST|MSeg=mai-numd-nok
 3	kha	kha	NOUN	NMLZ2	Case=Abs|Number=Sing	0	root	0:root	Gloss=NMLZ2|MSeg=kha
 4	pho	pho	AUX	REP	Evident=Nfh	3	aux	3:aux	Gloss=REP|MSeg=pho
 5	,	,	PUNCT	_	_	7	punct	7:punct	_
@@ -16540,7 +16540,7 @@
 12	Tobanduk	to	ADV	DEM.UP-LOC.UP	AdvType=Loc|Case=Loc|Deixis=Remt|PronType=Dem	15	ccomp	15:ccomp	Gloss=DEM.UP-LOC.UP|MSeg=to-banduk|SpaceAfter=No
 13	”	”	PUNCT	_	_	12	punct	12:punct	_
 14	mo	mo	SCONJ	CIT	_	12	mark	12:mark	Gloss=CIT|MSeg=mo
-15	mailunoʔ	lud	VERB	_	Aspect=Imp|Clusivity=In|Mood=Ind|Number[p]=Plur|Person=3|Person[p]=1|Tense=Pres|VerbForm=Fin|Voice=Act	9	conj	9:conj	Gloss=[3>]1PL.INCL-tell-IND.NPST|MSeg=mai-lud-nok|SpaceAfter=No
+15	mailunoʔ	lud	VERB	_	Aspect=Imp|Clusivity[p]=In|Mood=Ind|Number[p]=Plur|Person=3|Person[p]=1|Tense=Pres|VerbForm=Fin|Voice=Act	9	conj	9:conj	Gloss=[3>]1PL.INCL-tell-IND.NPST|MSeg=mai-lud-nok|SpaceAfter=No
 16	.	.	PUNCT	_	_	9	punct	9:punct	SpacesAfter=\n
 
 # sent_id = grammar_Reference_330a
@@ -16597,7 +16597,7 @@
 # text = Abo aniphusrukbe bakhiyace, temma-temmakhace utano.
 # english = Now ahead of us, such things, very fine things will come.
 1	Abo	abo	ADV	_	_	7	advmod	7:advmod	Gloss=now|MSeg=abo
-2	aniphusrukbe	phusruk	NOUN	LOC2	Case=Loc|Clusivity=In|Number=Sing|Number[psor]=Plur|Person=1	7	obl	7:obl	Gloss=1PL.INCL.POSS-front-LOC2|MSeg=ani-phusruk-beʔ
+2	aniphusrukbe	phusruk	NOUN	LOC2	Case=Loc|Clusivity[psor]=In|Number=Sing|Number[psor]=Plur|Person=1	7	obl	7:obl	Gloss=1PL.INCL.POSS-front-LOC2|MSeg=ani-phusruk-beʔ
 3	bakhiyace	ba	PRON	SORT	Deixis=Prox|Number=Nsing|PronType=Dem	6	reparandum	6:reparandum	Gloss=PROX-SORT-NSG|MSeg=ba-khiʔya-ce|SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	3:punct	_
 5-6	temma-temmakhace	_	_	_	_	_	_	_	_
@@ -16881,7 +16881,7 @@
 # english = He does something on his right-hand side.
 1	Ba	ba	PRON	_	Case=Abs|Deixis=Prox|Number=Sing|PronType=Dem	4	nsubj	4:nsubj	Gloss=PROX|MSeg=ba
 2	cuptaŋpatti	cup	NOUN	LOC.APPR	Case=Loc|Number=Sing	4	obl	4:obl	Gloss=righthand-LOC.APPR|MSeg=cuptaŋ-patti
-3	hakhi-hakhi	ba	ADV	INDF	AdvType=Mod|Deixis=Prox|PronType=Dem|Red=Yes	4	advmod	4:advmod	Gloss=PROX-MOD~INDF|MSeg=ba-khiʔ~bakhiʔ
+3	hakhi-hakhi	ba	ADV	INDF	AdvType=Man|Deixis=Prox|PronType=Dem|Red=Yes	4	advmod	4:advmod	Gloss=PROX-MOD~INDF|MSeg=ba-khiʔ~bakhiʔ
 4	mettoko	mett	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Number[p]=Sing|Person=3|Person[p]=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=do_to-3[SG].P-IND.NPST[.3SG.A]|MSeg=mett-u-kV
 5	gonei	gonei	PART	ATTN	_	4	discourse	4:discourse	Gloss=ATTN|MSeg=gonei|SpaceAfter=No
 6	.	.	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
@@ -17182,7 +17182,7 @@
 1	Aya	aiya	INTJ	_	_	5	discourse	5:discourse	Gloss=ouch|MSeg=aya|SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	1:punct	_
 3-4	anilaŋlo	_	_	_	_	_	_	_	_
-3	anilaŋ	laŋ	NOUN	_	Case=Abs|Clusivity=In|Number=Sing|Number[psor]=Plur|Person=1	5	nsubj	5:nsubj	Gloss=1PL.INCL.POSS-leg|MSeg=ani-laŋ
+3	anilaŋ	laŋ	NOUN	_	Case=Abs|Clusivity[psor]=In|Number=Sing|Number[psor]=Plur|Person=1	5	nsubj	5:nsubj	Gloss=1PL.INCL.POSS-leg|MSeg=ani-laŋ
 4	lo	lo	PART	SURP	InfStruct=Foc	3	advmod:emph	3:advmod:emph	Gloss=SURP|MSeg=lo
 5	sɨknadino	sɨkt-tis	VERB	LNK	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=squeeze-LNK-in-IND.NPST[.3SG.S]|MSeg=sɨkt-na-tis-nok|SpaceAfter=No
 6	!	!	PUNCT	_	_	5	punct	5:punct	SpacesAfter=\n
@@ -17394,7 +17394,7 @@
 # text = Pacche bakhi imsiyaktilok anikolo ba ghuccukŋa mo ambu gundri noboko ni.
 # english = And when we're sleeping like this, it's OUR nape that touches the mat down there.
 1	Pacche	pache	ADV	_	_	3	advmod	3:advmod	Gloss=POST|MSeg=pache
-2	bakhi	ba	ADV	_	AdvType=Mod|Deixis=Prox|PronType=Dem	3	advmod	3:advmod	Gloss=PROX-MOD|MSeg=ba-khiʔ
+2	bakhi	ba	ADV	_	AdvType=Man|Deixis=Prox|PronType=Dem	3	advmod	3:advmod	Gloss=PROX-MOD|MSeg=ba-khiʔ
 3	imsiyaktilok	ims	VERB	SIM	Aspect=Imp|Clusivity=In|Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	advcl:sim	4:advcl:sim	Gloss=sleep-1PL.S-IPF-[SUBJ.NPST.]1PL[.INCL].S-SIM|MSeg=ims-ĩ-yakt-ĩ-lok
 4-5	anikolo	_	_	_	_	_	_	_	_
 4	aniko	ani	PRON	GEN	Case=Abs,Erg|Clusivity=In|Number=Plur|Person=1|Poss=Yes|PronType=Prs	7	nmod:poss	7:nmod:poss	Gloss=1PL.INCL-GEN|MSeg=ani-ko
@@ -17604,7 +17604,7 @@
 # english = However many were coming here in this way, he gave it to them.
 1	Jatti	j	ADV	_	AdvType=Qua|PronType=Ind	4	advmod	4:advmod	Gloss=REL-QUANT|MSeg=j-ʌt̪i
 2	bai	ba	ADV	LOC1	AdvType=Loc|Case=Loc|Deixis=Prox|PronType=Dem	4	advmod	4:advmod	Gloss=PROX-LOC1|MSeg=ba-iʔ
-3	bakhi	ba	ADV	_	AdvType=Mod|Deixis=Prox|PronType=Dem	4	advmod	4:advmod	Gloss=PROX-MOD|MSeg=ba-khiʔ
+3	bakhi	ba	ADV	_	AdvType=Man|Deixis=Prox|PronType=Dem	4	advmod	4:advmod	Gloss=PROX-MOD|MSeg=ba-khiʔ
 4	utiakte	ta	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=3[PL].S-come-IPFV-IND.PST|MSeg=u-ta-yakt-e|SpaceAfter=No
 5	,	,	PUNCT	_	_	6	punct	6:punct	_
 6	piduwaktuce	pid	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Number[p]=Nsing|Person=3|Person[p]=3|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	4:conj	Gloss=give-3.P-IPFV-3.P-3NSG.P-IND.PST[.3SG.A]|MSeg=pid-u-yakt-u-ci-e
@@ -17740,7 +17740,7 @@
 2	,	,	PUNCT	_	_	1	punct	1:punct	_
 3	ancaŋa	anaŋa	PRON	_	Case=Abs,Erg|Clusivity=Ex|Number=Plur|Person=1|PronType=Prs	4	obj	4:obj	Gloss=1PL.EXCL|MSeg=ancaŋa
 4-5	mahiceketa	_	_	_	_	_	_	_	SpaceAfter=No
-4	mahiceke	hid	VERB	_	Aspect=Imp|Clusivity=Ex|Mood=Ind|Number[p]=Dual|Person=3|Person[p]=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=[3>]1NSG.EXCL-finish-[1]DU-IND.NPST|MSeg=ma-hid-ci-kV
+4	mahiceke	hid	VERB	_	Aspect=Imp|Clusivity[p]=Ex|Mood=Ind|Number[p]=Dual|Person=3|Person[p]=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=[3>]1NSG.EXCL-finish-[1]DU-IND.NPST|MSeg=ma-hid-ci-kV
 5	ta	ta	PART	FOC	InfStruct=Foc	4	advmod:emph	4:advmod:emph	Gloss=FOC|MSeg=ta
 6	!	!	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
 
@@ -17876,7 +17876,7 @@
 # text = Mailorecceke aŋ!
 # english = They're laughing at US, right?
 1-2	Mailorecceke	_	_	_	_	_	_	_	_
-1	Mairecceke	rett	VERB	_	Aspect=Imp|Clusivity=In|Mood=Ind|Number[p]=Dual|Person=3|Person[p]=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=[3>]1NSG.INCL-laugh-[1]DU-IND.NPST|MSeg=mai-rett-ci-kV
+1	Mairecceke	rett	VERB	_	Aspect=Imp|Clusivity[p]=In|Mood=Ind|Number[p]=Dual|Person=3|Person[p]=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=[3>]1NSG.INCL-laugh-[1]DU-IND.NPST|MSeg=mai-rett-ci-kV
 2	lo	lo	PART	SURP	InfStruct=Foc	1	advmod:emph	1:advmod:emph	Gloss=SURP|MSeg=lo
 3	aŋ	aŋ	PART	COLLAB	_	1	discourse	1:discourse	Gloss=COLLAB|MSeg=aŋ|SpaceAfter=No
 4	!	!	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
@@ -18098,7 +18098,7 @@
 # text = Huŋkhiyaŋta maisiyaktisihẽ.
 # english = We haven't died like THAT, either.
 1-3	Huŋkhiyaŋta	_	_	_	_	_	_	_	_
-1	Huŋkhi	hun	ADV	_	AdvType=Mod|Deixis=Med|PronType=Dem	4	advmod	4:advmod	Gloss=DEM-MOD|MSeg=hun-khiʔ
+1	Huŋkhi	hun	ADV	_	AdvType=Man|Deixis=Med|PronType=Dem	4	advmod	4:advmod	Gloss=DEM-MOD|MSeg=hun-khiʔ
 2	yaŋ	yaŋ	PART	ADD	InfStruct=Foc	1	advmod:emph	1:advmod:emph	Gloss=ADD|MSeg=yaŋ
 3	ta	ta	PART	FOC	InfStruct=Foc	1	advmod:emph	1:advmod:emph	Gloss=FOC|MSeg=ta
 4	maisiyaktisihẽ	si	VERB	_	Aspect=Perf|Clusivity=In|Mood=Ind|Number=Plur|Person=1|Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=NEG-die-NEG-1PL.S-PRF-1PL[.INCL].S-IND.PST|MSeg=mai-si-yakt-ĩ-ŋs-ĩ-e|SpaceAfter=No
@@ -18364,7 +18364,7 @@
 # english = That [rooster] pecks at us!
 1	Huĩsaŋa	hun	PRON	OBL	Case=Erg|Deixis=Med|Number=Sing|PronType=Dem	3	nsubj	3:nsubj	Gloss=MED-OBL-ERG|MSeg=hun-sa-ŋa
 2	na	na	PART	TOP	InfStruct=Top	1	advmod:emph	1:advmod:emph	Gloss=TOP|MSeg=na
-3	mathokno	thokt	VERB	_	Aspect=Imp|Clusivity=Ex|Mood=Ind|Number[p]=Plur|Person=3|Person[p]=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	acl:nmlz	4:acl:nmlz	Gloss=[3>]1PL.EXCL-peck-IND.NPST|MSeg=ma-thokt-nok
+3	mathokno	thokt	VERB	_	Aspect=Imp|Clusivity[p]=Ex|Mood=Ind|Number[p]=Plur|Person=3|Person[p]=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	acl:nmlz	4:acl:nmlz	Gloss=[3>]1PL.EXCL-peck-IND.NPST|MSeg=ma-thokt-nok
 4-5	khalo	_	_	_	_	_	_	_	SpaceAfter=No
 4	kha	kha	NOUN	NMLZ2	Case=Abs|Number=Sing	0	root	0:root	Gloss=NMLZ2|MSeg=kha
 5	lo	lo	PART	SURP	InfStruct=Foc	4	advmod:emph	4:advmod:emph	Gloss=SURP|MSeg=lo
@@ -18586,9 +18586,9 @@
 # sent_id = grammar_Information_43
 # text = Anapauŋa mapondaciago anaŋa.
 # english = We are [of the generation] who were married off by their fathers.
-1	Anapauŋa	pa	NOUN	_	Case=Erg|Clusivity=Ex|Number=Sing|Number[psor]=Plur|Person=1	2	nsubj	2:nsubj	Gloss=1PL.EXCL.POSS-father-ERG|MSeg=ana-pau-ŋa
+1	Anapauŋa	pa	NOUN	_	Case=Erg|Clusivity[psor]=Ex|Number=Sing|Number[psor]=Plur|Person=1	2	nsubj	2:nsubj	Gloss=1PL.EXCL.POSS-father-ERG|MSeg=ana-pau-ŋa
 2-3	mapondaciago	_	_	_	_	_	_	_	_
-2	mapondacia	pond-ca	VERB	AUTOBEN	Aspect=Perfv|Clusivity=Ex|Mood=Sub|Number[p]=Plur|Person=3|Person[p]=1|Tense=Past|VerbForm=Fin|Voice=Act	3	acl:nmlz	3:acl:nmlz	Gloss=[3>]1PL.EXCL-bestow-PST-AUTOBEN-[SBJV.]PST|MSeg=ma-pond-a-ca-a
+2	mapondacia	pond-ca	VERB	AUTOBEN	Aspect=Perfv|Clusivity[p]=Ex|Mood=Sub|Number[p]=Plur|Person=3|Person[p]=1|Tense=Past|VerbForm=Fin|Voice=Act	3	acl:nmlz	3:acl:nmlz	Gloss=[3>]1PL.EXCL-bestow-PST-AUTOBEN-[SBJV.]PST|MSeg=ma-pond-a-ca-a
 3	go	go	NOUN	NMLZ1	Case=Abs|Number=Sing	0	root	0:root	Gloss=NMLZ1|MSeg=go
 4	anaŋa	anaŋa	PRON	_	Case=Abs,Erg|Clusivity=Ex|Number=Plur|Person=1|PronType=Prs	3	nsubj	3:nsubj	Gloss=1PL.EXCL|MSeg=anaŋa|SpaceAfter=No
 5	.	.	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
@@ -18768,7 +18768,7 @@
 # sent_id = grammar_Complex_6a
 # text = Anidoŋdumce temma numsaŋa khattumcum haŋ toŋnokha ni.
 # english = If only we keep on managing our affairs well, it will be alright.
-1	Anidoŋdumce	doŋdum	NOUN	_	Case=Abs|Clusivity=In|Number=Nsing|Number[psor]=Plur|Person=1	4	obj	4:obj	Gloss=1PL.INCL.POSS-matter-NSG|MSeg=ani-doŋdum-ce
+1	Anidoŋdumce	doŋdum	NOUN	_	Case=Abs|Clusivity[psor]=In|Number=Nsing|Number[psor]=Plur|Person=1	4	obj	4:obj	Gloss=1PL.INCL.POSS-matter-NSG|MSeg=ani-doŋdum-ce
 2	temma	temma	ADJ	_	_	3	xcomp	3:xcomp	Gloss=fine|MSeg=temma
 3	numsaŋa	numd	VERB	CVB.COORD	Aspect=Imp|ConvType=Coord|VerbForm=Conv|Voice=Act	4	advcl:coord	4:advcl:coord	Gloss=do-CVB.COORD|MSeg=numd-saŋa
 4	khattumcum	khatt	VERB	_	Aspect=Imp|Clusivity=Ex|Mood=Sub|Number=Plur|Number[p]=Nsing|Person=1|Person[p]=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl	6:advcl	Gloss=take-3.P-1PL.A-3NSG.P-[SBJV.NPST.]1PL[.EXCL].A|MSeg=khatt-u-m-ci-m
@@ -18809,7 +18809,7 @@
 1	Saikil	saikal	NOUN	_	Case=Abs|Number=Sing	2	obj	2:obj	Gloss=bicycle|MSeg=saikil
 2	kakɨpa	kɨr	VERB	ACT.PTCP-REF	Aspect=Imp|Case=Abs|Number=Sing|VerbForm=Part|Voice=Act	3	acl:relcl	3:acl:relcl	Gloss=ACT.PTCP-ride-REF|MSeg=ka-kɨr-pa
 3	chaŋa	cha	NOUN	_	Case=Erg|Number=Sing	5	nsubj	2:nsubj|5:nsubj	Gloss=child-ERG|MSeg=cha-ŋa
-4	bakhiʔnɨŋ	ba	ADV	_	AdvType=Met|Deixis=Prox|PronType=Dem	5	advmod	5:advmod	Gloss=PROX-METHOD|MSeg=ba-khiʔnɨŋ
+4	bakhiʔnɨŋ	ba	ADV	_	AdvType=Man|Deixis=Prox|PronType=Dem	5	advmod	5:advmod	Gloss=PROX-METHOD|MSeg=ba-khiʔnɨŋ
 5	copte	copt	VERB	_	Aspect=Perfv|Mood=Ind|Number=Sing|Number[p]=Sing|Person=3|Person[p]=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=look_at-IND.PST[.3SG>3SG]|MSeg=copt-e|SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	5:punct	SpacesAfter=\n
 
@@ -18865,7 +18865,7 @@
 # text = Thitta-thitta animɨk siptum ki thaʔno.
 # english = Every single time we blink our eyes, it appears [on the video].
 1	Thitta-thitta	thitta	ADV	DISTR	Animacy=Nhum|NumType=Card|Red=Yes	3	advmod	3:advmod	Gloss=one~DISTR|MSeg=thitta~thitta
-2	animɨk	mɨk	NOUN	_	Case=Abs|Clusivity=In|Number=Sing|Number[psor]=Plur|Person=1	3	obj	3:obj	Gloss=1PL.INCL.POSS-eye|MSeg=ani-mɨk
+2	animɨk	mɨk	NOUN	_	Case=Abs|Clusivity[psor]=In|Number=Sing|Number[psor]=Plur|Person=1	3	obj	3:obj	Gloss=1PL.INCL.POSS-eye|MSeg=ani-mɨk
 3	siptum	sipt	VERB	_	Aspect=Imp|Clusivity=In|Mood=Sub|Number=Plur|Number[p]=Sing|Person=1|Person[p]=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=shut-[SBJV.NPST.]3[SG].P-1PL[.INCL].A|MSeg=sipt-u-m
 4	ki	kina	CCONJ	SEQ	_	5	cc	5:cc	Gloss=SEQ|MSeg=kina
 5	thaʔno	that	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	3:conj	Gloss=appear-IND.NPST[.3SG.S]|MSeg=that-nok|SpaceAfter=No
@@ -19086,7 +19086,7 @@
 # sent_id = grammar_Complex_26a
 # text = Anisakma sondumgota muknota ni.
 # english = One can even hear it when we breathe.
-1	Anisakma	sakma	NOUN	_	Case=Abs|Clusivity=In|Number=Sing|Number[psor]=Plur|Person=1	2	obj	2:obj	Gloss=1PL.INCL.POSS-breath|MSeg=ani-sakma
+1	Anisakma	sakma	NOUN	_	Case=Abs|Clusivity[psor]=In|Number=Sing|Number[psor]=Plur|Person=1	2	obj	2:obj	Gloss=1PL.INCL.POSS-breath|MSeg=ani-sakma
 2-4	sondumgota	_	_	_	_	_	_	_	_
 2	sondum	sond	VERB	_	Aspect=Imp|Clusivity=In|Mood=Sub|Number=Plur|Number[p]=Sing|Person=1|Person[p]=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl:nmlz	3:acl:nmlz	Gloss=slip-3[SG].P-1PL[.INCL].A|MSeg=sond-u-m
 3	go	go	NOUN	NMLZ1	Case=Abs|Number=Sing	5	nsubj	5:nsubj	Gloss=NMLZ1|MSeg=go
@@ -19289,7 +19289,7 @@
 # english = This one tells us [things] while walking around.
 1	Lamthumsaŋa	lam-thum	VERB	CVB.COORD	Aspect=Imp|ConvType=Coord|VerbForm=Conv|Voice=Act	2	advcl:coord	2:advcl:coord	Gloss=walk-STEM-CVB.COORD|MSeg=lam-thum-saŋa
 2-4	mailunokhalo	_	_	_	_	_	_	_	_
-2	mailuno	lud	VERB	_	Aspect=Imp|Clusivity=In|Mood=Ind|Number[p]=Plur|Person=3|Person[p]=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl:nmlz	3:acl:nmlz	Gloss=1NSG.INCL.P-tell-IND.NPST[.3.A]|MSeg=mai-lud-no
+2	mailuno	lud	VERB	_	Aspect=Imp|Clusivity[p]=In|Mood=Ind|Number[p]=Plur|Person=3|Person[p]=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl:nmlz	3:acl:nmlz	Gloss=1NSG.INCL.P-tell-IND.NPST[.3.A]|MSeg=mai-lud-no
 3	kha	kha	NOUN	NMLZ2	Case=Abs|Number=Sing	0	root	0:root	Gloss=NMLZ2|MSeg=kha
 4	lo	lo	PART	SURP	InfStruct=Foc	3	advmod:emph	3:advmod:emph	Gloss=SURP|MSeg=lo
 5	basaŋa	ba	PRON	OBL	Case=Erg|Deixis=Prox|Number=Sing|PronType=Dem	2	nsubj	2:nsubj	Gloss=PROX-OBL-ERG|MSeg=ba-sa-ŋa|SpaceAfter=No
@@ -19451,7 +19451,7 @@
 # sent_id = grammar_Complex_46a
 # text = Kanikam na tɨŋsaŋalo yuŋno, aŋ.
 # english = Our friend sits there kicking it.
-1	Kanikam	kam	NOUN	_	Case=Abs|Clusivity=In|Number=Sing|Number[psor]=Plur|Person=1	5	nsubj	5:nsubj	Gloss=1PL.INCL.POSS-friend|MSeg=kani-kam
+1	Kanikam	kam	NOUN	_	Case=Abs|Clusivity[psor]=In|Number=Sing|Number[psor]=Plur|Person=1	5	nsubj	5:nsubj	Gloss=1PL.INCL.POSS-friend|MSeg=kani-kam
 2	na	na	PART	TOP	InfStruct=Top	1	advmod:emph	1:advmod:emph	Gloss=TOP|MSeg=na
 3-4	tɨŋsaŋalo	_	_	_	_	_	_	_	_
 3	tɨŋsaŋa	tɨŋ	VERB	CVB.COORD	Aspect=Imp|ConvType=Coord|VerbForm=Conv|Voice=Act	5	advcl:coord	5:advcl:coord	Gloss=kick-CVB.COORD|MSeg=tɨŋ-saŋa
@@ -19809,7 +19809,7 @@
 2	go	go	NOUN	NMLZ1	Case=Abs|Number=Sing	6	obj	6:obj	Gloss=NMLZ1|MSeg=go
 3	yaŋ	yaŋ	PART	ADD	InfStruct=Foc	2	advmod:emph	2:advmod:emph	Gloss=ADD|MSeg=yaŋ
 4	chaceŋa	cha	NOUN	_	Case=Erg|Number=Nsing	6	nsubj	6:nsubj	Gloss=child-NSG-ERG|MSeg=cha-ce-ŋa
-5	hokhi	hok	ADV	QST	AdvType=Mod|PronType=Int	6	advmod	6:advmod	Gloss=QST-MOD|MSeg=ho-khiʔ
+5	hokhi	hok	ADV	QST	AdvType=Man|PronType=Int	6	advmod	6:advmod	Gloss=QST-MOD|MSeg=ho-khiʔ
 6	ukhauce	khag	VERB	_	Aspect=Perfv|Mood=Ind|Number=Plur|Number[p]=Nsing|Person=3|Person[p]=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=3[PL].A-see-3.P-3NSG.P-IND.PST|MSeg=u-khag-u-ci-e|SpaceAfter=No
 7	?	?	PUNCT	_	_	6	punct	6:punct	SpacesAfter=\n
 
@@ -19954,7 +19954,7 @@
 # sent_id = grammar_Complex_63d
 # text = Aninɨŋwa hinnokha jaŋgala khaŋnumsakte.
 # english = It was showing some forest where one feels all alone.
-1	Aninɨŋwa	nɨŋwa	NOUN	_	Case=Abs|Clusivity=In|Number=Sing|Number[psor]=Plur|Person=1	2	nsubj	2:nsubj	Gloss=1PL.INCL.POSS-happiness|MSeg=ani-nɨŋwa
+1	Aninɨŋwa	nɨŋwa	NOUN	_	Case=Abs|Clusivity[psor]=In|Number=Sing|Number[psor]=Plur|Person=1	2	nsubj	2:nsubj	Gloss=1PL.INCL.POSS-happiness|MSeg=ani-nɨŋwa
 2-3	hinnokha	_	_	_	_	_	_	_	_
 2	hinno	hind	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl:nmlz	3:acl:nmlz	Gloss=be_dimmed-IND.NPST[.3SG.S]|MSeg=hind-nok
 3	kha	kha	NOUN	NMLZ2	Case=Abs|Number=Sing	5	nmod	5:nmod	Gloss=NMLZ2|MSeg=kha
@@ -20003,7 +20003,7 @@
 1	Wathĩ	wathĩ	NOUN	_	Case=Abs|Number=Sing	2	obj	2:obj	Gloss=egg|MSeg=wathĩ
 2	kakhuce	khur	VERB	ACT.PTCP	Aspect=Imp|Case=Abs|Number=Nsing|VerbForm=Part|Voice=Act	5	csubj	5:csubj	Gloss=ACT.PTCP-carry-NSG|MSeg=ka-khur-ce
 3	na	na	PART	TOP	InfStruct=Top	2	advmod:emph	2:advmod:emph	Gloss=TOP|MSeg=na
-4	anapauce	pa	NOUN	_	Case=Abs|Clusivity=Ex|Number=Nsing|Number[psor]=Plur|Person=1	5	obj	5:obj	Gloss=1PL.EXCL.POSS-father-NSG|MSeg=ana-pau-ce
+4	anapauce	pa	NOUN	_	Case=Abs|Clusivity[psor]=Ex|Number=Nsing|Number[psor]=Plur|Person=1	5	obj	5:obj	Gloss=1PL.EXCL.POSS-father-NSG|MSeg=ana-pau-ce
 5	uyuwakte	yug	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=3[PL].S-be-PST-IPFV-IND.PST|MSeg=u-yug-a-yakt-e|SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	5:punct	SpacesAfter=\n
 
@@ -20032,7 +20032,7 @@
 5	saikil	saikal	NOUN	_	Case=Abs|Number=Sing	6	obj	6:obj	Gloss=bicycle|MSeg=saikʌl
 6	kakɨpa	kɨr	VERB	ACT.PTCP-REF	Aspect=Imp|Case=Abs|Number=Sing|VerbForm=Part|Voice=Act	7	acl:relcl	7:acl:relcl	Gloss=ACT.PTCP-roll-REF|MSeg=ka-kɨr-pa
 7	chaŋa	cha	NOUN	_	Case=Erg|Number=Sing	9	nsubj	6:nsubj|9:nsubj	Gloss=child-ERG|MSeg=cha-ŋa
-8	bakhiʔnɨŋ	ba	ADV	_	AdvType=Met|Deixis=Prox|PronType=Dem	9	advmod	9:advmod	Gloss=PROX-METHOD|MSeg=ba-khiʔnɨŋ
+8	bakhiʔnɨŋ	ba	ADV	_	AdvType=Man|Deixis=Prox|PronType=Dem	9	advmod	9:advmod	Gloss=PROX-METHOD|MSeg=ba-khiʔnɨŋ
 9	copte	copt	VERB	_	Aspect=Perfv|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=look-IND.PST[.3SG.S/A]|MSeg=copt-e|SpaceAfter=No
 10	,	,	PUNCT	_	_	11	punct	11:punct	_
 11	pachi	pache	ADV	POST	_	9	parataxis	9:parataxis	Gloss=POST|MSeg=pʌchi
@@ -20282,7 +20282,7 @@
 3	acek	cekt	VERB	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	7	csubj	7:csubj	Gloss=2[SG].S-speak[.SBJV.NPST]|MSeg=a-cekt
 4	ni	ni	PART	ASS	_	3	discourse	3:discourse	Gloss=ASS|MSeg=n̪i
 5-6	huŋkhiʔta	_	_	_	_	_	_	_	_
-5	huŋkhiʔ	hun	ADV	_	AdvType=Mod|Deixis=Med|PronType=Dem	7	advmod	7:advmod	Gloss=MED-MOD|MSeg=hun-khiʔ
+5	huŋkhiʔ	hun	ADV	_	AdvType=Man|Deixis=Med|PronType=Dem	7	advmod	7:advmod	Gloss=MED-MOD|MSeg=hun-khiʔ
 6	ta	ta	PART	FOC	InfStruct=Foc	5	advmod:emph	5:advmod:emph	Gloss=FOC|MSeg=ta
 7	lonno	lond	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=come_out-IND.NPST|MSeg=lond-nok|SpaceAfter=No
 8	.	.	PUNCT	_	_	7	punct	7:punct	SpacesAfter=\n
@@ -20374,13 +20374,13 @@
 # text = Huŋkhita jasari ukhadaŋsace, huŋkhita ulasatiace.
 # english = And so they came back just after they had gone.
 1-2	Huŋkhita	_	_	_	_	_	_	_	_
-1	Huŋkhi	hun	ADV	_	AdvType=Mod|Deixis=Med|PronType=Dem	4	advmod	4:advmod	Gloss=MED-MOD|MSeg=hun-khiʔ
+1	Huŋkhi	hun	ADV	_	AdvType=Man|Deixis=Med|PronType=Dem	4	advmod	4:advmod	Gloss=MED-MOD|MSeg=hun-khiʔ
 2	ta	ta	PART	FOC	InfStruct=Foc	1	advmod:emph	1:advmod:emph	Gloss=FOC|MSeg=ta
-3	jasari	j	ADV	_	AdvType=Met|PronType=Ind	4	advmod	4:advmod	Gloss=REL-METHOD|MSeg=j-ʌsʌri
+3	jasari	j	ADV	_	AdvType=Man|PronType=Ind	4	advmod	4:advmod	Gloss=REL-METHOD|MSeg=j-ʌsʌri
 4	ukhadaŋsace	khat	VERB	_	Aspect=Perf|Mood=Ind|Number=Dual|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=3.S-go-PST-PRF-PST-DU-IND.PST|MSeg=u-khat-a-ŋs-a-ci-e|SpaceAfter=No
 5	,	,	PUNCT	_	_	8	punct	8:punct	_
 6-7	huŋkhita	_	_	_	_	_	_	_	_
-6	huŋkhi	hun	ADV	_	AdvType=Mod|Deixis=Med|PronType=Dem	8	advmod	8:advmod	Gloss=MED-MOD|MSeg=hun-khiʔ
+6	huŋkhi	hun	ADV	_	AdvType=Man|Deixis=Med|PronType=Dem	8	advmod	8:advmod	Gloss=MED-MOD|MSeg=hun-khiʔ
 7	ta	ta	PART	FOC	InfStruct=Foc	6	advmod:emph	6:advmod:emph	Gloss=FOC|MSeg=ta
 8	ulasatiace	las-ta	VERB	_	Aspect=Perfv|Mood=Ind|Number=Dual|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	4:conj	Gloss=3.S-return-PST-come-PST-DU-IND.PST|MSeg=u-las-a-ti-a-ci-e|SpaceAfter=No
 9	.	.	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
@@ -20411,9 +20411,9 @@
 # english = So whatever that Brahmin from Sikkim says happens or what?
 1	Sikkhimko	Sikkim	PROPN	GEN	Case=Abs|Number=Sing|Poss=Yes	2	nmod:poss	2:nmod:poss	Gloss=a_place-GEN|MSeg=sikkim-ko
 2	bamna	Bamna	PROPN	_	Case=Abs|Number=Sing|Poss=Yes	4	nsubj	4:nsubj	Gloss=Brahmin|MSeg=bamna
-3	joso	j	ADV	_	AdvType=Mod|PronType=Ind	4	advmod	4:advmod	Gloss=REL-MOD|MSeg=j-ʌso
+3	joso	j	ADV	_	AdvType=Man|PronType=Ind	4	advmod	4:advmod	Gloss=REL-MOD|MSeg=j-ʌso
 4	cek	cekt	VERB	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	csubj	6:csubj	Gloss=say|MSeg=cekt
-5	huŋkhi	hun	ADV	_	AdvType=Mod|Deixis=Med|PronType=Dem	6	advmod	6:advmod	Gloss=MED-MOD|MSeg=hun-khi
+5	huŋkhi	hun	ADV	_	AdvType=Man|Deixis=Med|PronType=Dem	6	advmod	6:advmod	Gloss=MED-MOD|MSeg=hun-khi
 6-7	linokha	_	_	_	_	_	_	_	_
 6	lino	lis	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	acl:nmlz	7:acl:nmlz	Gloss=happen-IND.NPST|MSeg=lis-nok
 7	kha	kha	NOUN	NMLZ2	Case=Abs|Number=Sing	0	root	0:root	Gloss=NMLZ2|MSeg=kha
@@ -20509,7 +20509,7 @@
 1-2	Jattigo	_	_	_	_	_	_	_	_
 1	Jatti	j	ADV	_	AdvType=Qua|PronType=Ind	2	advmod:nmlz	2:advmod:nmlz	Gloss=REL-QUANT|MSeg=j-ʌt̪i
 2	go	go	NOUN	NMLZ1	Case=Abs|Number=Sing	3	nmod	3:nmod	Gloss=NMLZ1|MSeg=go
-3	anipaisa	paisa	NOUN	_	Case=Abs,Erg|Clusivity=In|Number=Sing|Number[psor]=Plur|Person=1	4	obj	4:obj	Gloss=1PL.INCL.POSS-money|MSeg=ani-pʌisa
+3	anipaisa	paisa	NOUN	_	Case=Abs,Erg|Clusivity[psor]=In|Number=Sing|Number[psor]=Plur|Person=1	4	obj	4:obj	Gloss=1PL.INCL.POSS-money|MSeg=ani-pʌisa
 4	cemmadheĩma	cems	VERB	COMPL1	Aspect=ComplImp|Case=Abs|VerbForm=Inf|Voice=Act	0	root	0:root	Gloss=spend-INF-CHANGE-INF|MSeg=cems-ma-dhend-ma|SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
 
@@ -20643,7 +20643,7 @@
 4	unumdeʔ	numd	VERB	_	Aspect=Perfv|Mood=Ind|Number=Plur|Number[p]=Sing|Person=3|Person[p]=3|Tense=Past|VerbForm=Fin|Voice=Act	7	ccomp	7:ccomp	Gloss=3[PL].A-do-IND.PST[.3SG.P]|MSeg=u-numd-e|SpaceAfter=No
 5	”	”	PUNCT	_	_	4	punct	4:punct	_
 6	mo	mo	SCONJ	CIT	_	4	mark	4:mark	Gloss=CIT|MSeg=mo
-7	maimiʔnɨŋ	mitt	VERB	_	Aspect=Imp|Clusivity=In|Mood=Sub|Number=Sing|Number[p]=Nsing|Person=3|Person[p]=1|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=1PL.INCL.P-think-[SBJV.]NPST.NEG[.3SG.A]|MSeg=mai-mitt-nɨŋ|SpaceAfter=No
+7	maimiʔnɨŋ	mitt	VERB	_	Aspect=Imp|Clusivity[p]=In|Mood=Sub|Number=Sing|Number[p]=Nsing|Person=3|Person[p]=1|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=1PL.INCL.P-think-[SBJV.]NPST.NEG[.3SG.A]|MSeg=mai-mitt-nɨŋ|SpaceAfter=No
 8	.	.	PUNCT	_	_	7	punct	7:punct	SpacesAfter=\n
 
 # sent_id = grammar_Complex_86c
@@ -20888,7 +20888,7 @@
 # text = Animaŋthanata joge numdumnummo para naʔ, aniyaŋ, eʔ ni, jogeta mailiyoktie.
 # english = If we don't save our Mangthana, we too, aye, we won't be saved. (lit. If [one assumes that] “We won't save our Mangthana”, ...)
 1-2	Animaŋthanata	_	_	_	_	_	_	_	_
-1	Animaŋthana	maŋthana	NOUN	_	Case=Abs|Clusivity=In|Number=Sing|Number[psor]=Plur|Person=1	3	obj	3:obj	Gloss=1PL.INCL.POSS-a_place|MSeg=ani-maŋthana
+1	Animaŋthana	maŋthana	NOUN	_	Case=Abs|Clusivity[psor]=In|Number=Sing|Number[psor]=Plur|Person=1	3	obj	3:obj	Gloss=1PL.INCL.POSS-a_place|MSeg=ani-maŋthana
 2	ta	ta	PART	FOC	InfStruct=Foc	1	advmod:emph	1:advmod:emph	Gloss=FOC|MSeg=ta
 3	joge	jogau	VERB	V.NTVZ	VerbForm=Inf	4	xcomp	4:xcomp	Gloss=save-V.NTVZ|MSeg=jogau-e
 4-5	numdumnummo	_	_	_	_	_	_	_	_
@@ -21315,7 +21315,7 @@
 # sent_id = grammar_Complex_111b
 # text = Bakhi weiʔ tanaklok [...] mogo pairo na hokhi numno?
 # english = What is the landslide doing while it's raining like this?
-1	Bakhi	ba	ADV	_	AdvType=Mod|Deixis=Prox|PronType=Dem	3	advmod	3:advmod	Gloss=PROX-MOD|MSeg=ba-khiʔ
+1	Bakhi	ba	ADV	_	AdvType=Man|Deixis=Prox|PronType=Dem	3	advmod	3:advmod	Gloss=PROX-MOD|MSeg=ba-khiʔ
 2	weiʔ	weiʔ	NOUN	_	Case=Abs|Number=Sing	3	nsubj	3:nsubj	Gloss=rain|MSeg=weiʔ
 3	tanaklok	ta	VERB	LNK-SIM	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	advcl:sim	10:advcl:sim	Gloss=come-LNK-[SBJV.NPST.]IPFV[.3SG.S]-SIM|MSeg=ta-na-yakt-lok
 4	[...]	[...]	PUNCT	_	_	3	punct	3:punct	_
@@ -21324,7 +21324,7 @@
 6	go	go	NOUN	NMLZ1	Case=Abs|Number=Sing	7	nmod	7:nmod	Gloss=NMLZ1|MSeg=go
 7	pairo	pairo	NOUN	_	Case=Abs|Number=Sing	10	nsubj	10:nsubj	Gloss=landslide|MSeg=pʌ(h)iro
 8	na	na	PART	TOP	InfStruct=Top	7	advmod:emph	7:advmod:emph	Gloss=TOP|MSeg=na
-9	hokhi	hok	ADV	QST	AdvType=Mod|PronType=Int	10	advmod	10:advmod	Gloss=QST-MOD|MSeg=ho-khiʔ
+9	hokhi	hok	ADV	QST	AdvType=Man|PronType=Int	10	advmod	10:advmod	Gloss=QST-MOD|MSeg=ho-khiʔ
 10	numno	numd	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=do-IND.NPST[.3SG.S]|MSeg=numd-nok|SpaceAfter=No
 11	?	?	PUNCT	_	_	10	punct	10:punct	SpacesAfter=\n
 
@@ -21719,7 +21719,7 @@
 5-6	chatata	_	_	_	_	_	_	_	_
 5	chata	chata	NOUN	_	Case=Abs|Number=Sing	8	obj	8:obj	Gloss=umbrella|MSeg=chat̪a
 6	ta	ta	PART	FOC	InfStruct=Foc	5	advmod:emph	5:advmod:emph	Gloss=FOC|MSeg=ta
-7	hakhinɨŋ	ba	ADV	_	AdvType=Met|Deixis=Prox|PronType=Dem	8	advmod	8:advmod	Gloss=PROX-METHOD|MSeg=ba-khiʔnɨŋ
+7	hakhinɨŋ	ba	ADV	_	AdvType=Man|Deixis=Prox|PronType=Dem	8	advmod	8:advmod	Gloss=PROX-METHOD|MSeg=ba-khiʔnɨŋ
 8	khumsi	khums	VERB	_	Aspect=Imp|Clusivity=In|Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=put_on-[SBJV.NPST.]1PL[.INCL].S|MSeg=khums-ĩ|SpaceAfter=No
 9	.	.	PUNCT	_	_	8	punct	8:punct	SpacesAfter=\n
 
@@ -21755,7 +21755,7 @@
 1	Janme	janmau	VERB	V.NTVZ	VerbForm=Inf	2	xcomp	2:xcomp	Gloss=give_birth-V.NTVZ|MSeg=jʌn̪mau-e
 2	numma	numd	VERB	_	Aspect=Imp|Case=Abs|VerbForm=Inf|Voice=Act	5	advcl	5:advcl	Gloss=do-INF|MSeg=numd-ma
 3	gari	gari	SCONJ	TMP.LOC1	_	2	mark	2:mark	Gloss=TMP.LOC1|MSeg=gari
-4	hokhi	hok	ADV	QST	AdvType=Mod|PronType=Int	5	advmod	5:advmod	Gloss=QST-MOD|MSeg=ho-khiʔ
+4	hokhi	hok	ADV	QST	AdvType=Man|PronType=Int	5	advmod	5:advmod	Gloss=QST-MOD|MSeg=ho-khiʔ
 5	lusaŋse	lus	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=be_felt-PST-PRF-IND.PST[.3SG.S]|MSeg=lus-a-ŋs-e|SpaceAfter=No
 6	,	,	PUNCT	_	_	7	punct	7:punct	_
 7	aŋ	aŋ	PART	COLLAB	_	5	discourse	5:discourse	Gloss=COLLAB|MSeg=aŋ|SpaceAfter=No
@@ -21769,7 +21769,7 @@
 3	gari	gari	SCONJ	TMP.LOC1	_	2	mark	2:mark	Gloss=TMP.LOC1|MSeg=gari
 4	cahi	caĩ	PART	CTOP	InfStruct=Top	2	advmod:emph	2:advmod:emph	Gloss=CTOP|MSeg=ca(h)ĩ
 5-6	aniteĩbeko	_	_	_	_	_	_	_	_
-5	aniteĩbe	teĩ	NOUN	LOC2	Case=Loc|Clusivity=In|Number=Sing|Number[psor]=Plur|Person=1	6	nmod:nmlz	6:nmod:nmlz	Gloss=1PL.INCL.POSS-village-LOC2|MSeg=ani-teĩ-beʔ
+5	aniteĩbe	teĩ	NOUN	LOC2	Case=Loc|Clusivity[psor]=In|Number=Sing|Number[psor]=Plur|Person=1	6	nmod:nmlz	6:nmod:nmlz	Gloss=1PL.INCL.POSS-village-LOC2|MSeg=ani-teĩ-beʔ
 6	ko	go	NOUN	NMLZ1	Case=Abs|Number=Sing	8	obl	8:obl	Gloss=NMLZ1|MSeg=go
 7	likhi	likhi	ADP	EQU	_	6	case	6:case	Gloss=EQU|MSeg=likhi
 8	nɨŋno	nɨŋs	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=look-IND.NPST[.3SG.S]|MSeg=nɨŋs-nok
@@ -21790,7 +21790,7 @@
 8	yoʔni	yo	ADV	DEM.LVL-DIR	AdvType=Loc|Case=Loc|Deixis=Remt|PronType=Dem	9	advmod	9:advmod	Gloss=DEM.LVL-DIR|MSeg=yo-ʔni
 9	bhaiʔni	ba	ADV	DIR	AdvType=Loc|Case=Loc|Deixis=Prox|PronType=Dem	10	advmod	10:advmod	Gloss=PROX-DIR|MSeg=ba-ʔni
 10-12	nutamaimeʔnomo	_	_	_	_	_	_	_	_
-10	numaimeʔno	nud	VERB	_	Aspect=Imp|Clusivity=In|Mood=Ind|Number[p]=Plur|Person=3|Person[p]=1|Tense=Pres|VerbForm=Fin|Voice=Cau	0	root	0:root	Gloss=be_well-1PL.INCL.P-CAUS-IND.NPST[.3SG.A]|MSeg=nud-mai-mett-nok
+10	numaimeʔno	nud	VERB	_	Aspect=Imp|Clusivity[p]=In|Mood=Ind|Number[p]=Plur|Person=3|Person[p]=1|Tense=Pres|VerbForm=Fin|Voice=Cau	0	root	0:root	Gloss=be_well-1PL.INCL.P-CAUS-IND.NPST[.3SG.A]|MSeg=nud-mai-mett-nok
 11	ta	ta	PART	FOC	InfStruct=Foc	10	advmod:emph	10:advmod:emph	Gloss=FOC|MSeg=ta
 12	mo	mo	SCONJ	CIT	_	10	mark	10:mark	Gloss=CIT|MSeg=mo
 13	kiŋa	kina	CCONJ	SEQ	_	16	cc	16:cc	Gloss=SEQ|MSeg=kina
@@ -21915,7 +21915,7 @@
 # text = Yoba anichekkuma sinahaiʔ bela ani yoŋsukumnɨm.
 # english = We don't fast when a female relative of ours dies over there.
 1	Yoba	yo	ADV	DEM.LVL-LOC2	AdvType=Loc|Case=Loc|Deixis=Remt|PronType=Dem	3	advmod	3:advmod	Gloss=DEM.LVL-LOC2|MSeg=yo-beʔ
-2	anichekkuma	chekuma	NOUN	_	Case=Abs|Clusivity=In|Number=Sing|Number[psor]=Plur|Person=1	3	nsubj	3:nsubj	Gloss=1PL.INCL.POSS-female_relative|MSeg=ani-chekuma
+2	anichekkuma	chekuma	NOUN	_	Case=Abs|Clusivity[psor]=In|Number=Sing|Number[psor]=Plur|Person=1	3	nsubj	3:nsubj	Gloss=1PL.INCL.POSS-female_relative|MSeg=ani-chekuma
 3	sinahaiʔ	si	VERB	LNK-COMPL3.ITR	Aspect=ComplImp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl	6:advcl	Gloss=die-LNK-COMPL3.ITR[.SBJV.NPST.3SG.S]|MSeg=si-na-hat
 4	bela	bela	SCONJ	TMP.LOC3	_	3	mark	3:mark	Gloss=TMP.LOC3|MSeg=bela
 5	ani	ani	PRON	_	Case=Abs,Erg|Clusivity=In|Number=Plur|Person=1|PronType=Prs	6	nsubj	6:nsubj	Gloss=1PL.INCL|MSeg=ani
@@ -22002,7 +22002,7 @@
 6	lo	lo	PART	SURP	InfStruct=Foc	4	advmod:emph	4:advmod:emph	Gloss=SURP|MSeg=lo
 7	khalli	khalli	ADV	_	_	8	advmod	8:advmod	Gloss=only|MSeg=khali
 8-9	anirɨŋta	_	_	_	_	_	_	_	_
-8	anirɨŋ	rɨŋ	NOUN	_	Case=Abs|Clusivity=In|Number=Sing|Number[psor]=Plur|Person=1	10	obj	10:obj	Gloss=1PL.INCL.POSS-language|MSeg=ani-rɨŋ
+8	anirɨŋ	rɨŋ	NOUN	_	Case=Abs|Clusivity[psor]=In|Number=Sing|Number[psor]=Plur|Person=1	10	obj	10:obj	Gloss=1PL.INCL.POSS-language|MSeg=ani-rɨŋ
 9	ta	ta	PART	FOC	InfStruct=Foc	8	advmod:emph	8:advmod:emph	Gloss=FOC|MSeg=ta
 10	lottukumma	lott	VERB	_	Aspect=Imp|Clusivity=Ex|Mood=Ind|Number=Plur|Number[p]=Sing|Person=1|Person[p]=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=bring_out_for-3[SG].P-IND.NPST-1PL.A-EXCL|MSeg=lott-u-kV-m-ŋa
 11	naŋ	naŋ	CCONJ	CNTR	_	10	cc	10:cc	Gloss=CNTR|MSeg=nahaŋ|SpaceAfter=No
@@ -22259,7 +22259,7 @@
 5-6	likhita	_	_	_	_	_	_	_	_
 5	likhi	likhi	ADP	EQU	_	4	mark	4:mark	Gloss=EQU|MSeg=likhi
 6	ta	ta	PART	FOC	InfStruct=Foc	4	advmod:emph	4:advmod:emph	Gloss=FOC|MSeg=ta
-7	mapi	pid	VERB	_	Aspect=Imp|Clusivity=Ex|Mood=Sub|Number[p]=Nsing|Person=3|Person[p]=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=[3>]1NSG.EXCL-give[.SBJV.NPST]|MSeg=ma-pid
+7	mapi	pid	VERB	_	Aspect=Imp|Clusivity[p]=Ex|Mood=Sub|Number[p]=Nsing|Person=3|Person[p]=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=[3>]1NSG.EXCL-give[.SBJV.NPST]|MSeg=ma-pid
 8	ena	e	CCONJ	DISJ1	_	7	cc	7:cc	Gloss=DISJ1|MSeg=ena
 9	cuwa	cuwa	NOUN	_	Case=Abs|Number=Sing	7	obj	7:obj	Gloss=water|MSeg=cuwa|SpaceAfter=No
 10	.	.	PUNCT	_	_	7	punct	7:punct	SpacesAfter=\n
@@ -22337,7 +22337,7 @@
 # sent_id = grammar_Complex_154b
 # text = Khaumaikhaŋyaktaŋseʔ likhiyaŋ lusiki.
 # english = We feel like they haven't even seen us.
-1	Khaumaikhaŋyaktaŋseʔ	khag	VERB	_	Aspect=Perf|Clusivity=In|Mood=Ind|Number=Plur|Number[p]=Plur|Person=3|Person[p]=1|Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Act	4	advcl	4:advcl	Gloss=1NSG.P-3[PL].A-NEG-see-NEG-PST-PRF-IND.PST|MSeg=kha-u-mai-khag-yakt-a-ŋs-e
+1	Khaumaikhaŋyaktaŋseʔ	khag	VERB	_	Aspect=Perf|Clusivity[p]=In|Mood=Ind|Number=Plur|Number[p]=Plur|Person=3|Person[p]=1|Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Act	4	advcl	4:advcl	Gloss=1NSG.P-3[PL].A-NEG-see-NEG-PST-PRF-IND.PST|MSeg=kha-u-mai-khag-yakt-a-ŋs-e
 2-3	likhiyaŋ	_	_	_	_	_	_	_	_
 2	likhi	likhi	ADP	EQU	_	1	mark	1:mark	Gloss=EQU|MSeg=likhi
 3	yaŋ	yaŋ	PART	ADD	InfStruct=Foc	1	advmod:emph	1:advmod:emph	Gloss=ADD|MSeg=yaŋ
@@ -22541,7 +22541,7 @@
 # text = Maipidemo para hidum.
 # english = If they give us [money] we might be able to do it.
 1-2	Maipidemo	_	_	_	_	_	_	_	_
-1	Maipide	pid	VERB	_	Aspect=Perfv|Clusivity=In|Mood=Ind|Number[p]=Nsing|Person=3|Person[p]=1|Tense=Past|VerbForm=Fin|Voice=Act	4	advcl	4:advcl	Gloss=[3>]1NSG.INCL-give-IND.PST|MSeg=mai-pid-e
+1	Maipide	pid	VERB	_	Aspect=Perfv|Clusivity[p]=In|Mood=Ind|Number[p]=Nsing|Person=3|Person[p]=1|Tense=Past|VerbForm=Fin|Voice=Act	4	advcl	4:advcl	Gloss=[3>]1NSG.INCL-give-IND.PST|MSeg=mai-pid-e
 2	mo	mo	SCONJ	CIT	_	1	mark	1:mark	Gloss=CIT|MSeg=mo
 3	para	para	SCONJ	COND1	_	1	mark	1:mark	Gloss=COND1|MSeg=para
 4	hidum	hid	VERB	_	Aspect=Imp|Clusivity=In|Mood=Sub|Number=Plur|Number[p]=Sing|Person=1|Person[p]=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=can-3[SG].P-[SBJV.NPST.]1PL[.INCL].A|MSeg=hid-u-m|SpaceAfter=No
@@ -22741,7 +22741,7 @@
 # english = After he hits it it'll be our turn, you see.
 1	Catto	catt	VERB	_	Aspect=Imp|Mood=Sub|Number=Sing|Number[p]=Sing|Person=3|Person[p]=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	advcl	4:advcl	Gloss=hit-[SBJV.NPST.3SG>]3[SG]|MSeg=catt-u
 2	pache	pache	SCONJ	POST	_	1	mark	1:mark	Gloss=POST|MSeg=pache
-3	anipalo	palo	NOUN	_	Case=Abs|Clusivity=In|Number=Sing|Number[psor]=Plur|Person=1	4	nsubj	4:nsubj	Gloss=1PL.INCL.POSS-turn|MSeg=ani-palo
+3	anipalo	palo	NOUN	_	Case=Abs|Clusivity[psor]=In|Number=Sing|Number[psor]=Plur|Person=1	4	nsubj	4:nsubj	Gloss=1PL.INCL.POSS-turn|MSeg=ani-palo
 4	tanoʔ	ta	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=come-IND.NPST[.3SG.S]|MSeg=ta-nok|SpaceAfter=No
 5	,	,	PUNCT	_	_	6	punct	6:punct	_
 6	them	them	PART	INFORM	_	4	discourse	4:discourse	Gloss=INFORM|MSeg=them|SpaceAfter=No
@@ -23160,7 +23160,7 @@
 2	upheʔwa	phekwa	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person=3	0	root	0:root	Gloss=3SG.POSS-money|MSeg=u-phekwa
 3	mancheʔ	manchi	PART	NEG.EXIST	Polarity=Neg	2	advmod:cop	2:advmod:cop	Gloss=NEG.EXIST|MSeg=manchiʔ|SpaceAfter=No
 4	,	,	PUNCT	_	_	5	punct	5:punct	_
-5	maipinɨʔnɨŋ	pid	VERB	_	Aspect=Imp|Clusivity=In|Mood=Ind|Number[p]=Plur|Person=3|Person[p]=1|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	2	parataxis	2:parataxis	Gloss=[3>]1PL.INCL-give-IND.NPST-NEG|MSeg=mai-pid-nok-nɨŋ|SpaceAfter=No
+5	maipinɨʔnɨŋ	pid	VERB	_	Aspect=Imp|Clusivity[p]=In|Mood=Ind|Number[p]=Plur|Person=3|Person[p]=1|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	2	parataxis	2:parataxis	Gloss=[3>]1PL.INCL-give-IND.NPST-NEG|MSeg=mai-pid-nok-nɨŋ|SpaceAfter=No
 6	.	.	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
 
 # sent_id = grammar_Complex_187f
@@ -23241,7 +23241,7 @@
 3	kupma	kop	VERB	_	Aspect=Imp|Case=Abs|VerbForm=Inf|Voice=Act	13	xcomp	13:xcomp	Gloss=pick-INF|MSeg=kop-ma
 4	“	“	PUNCT	_	_	5	punct	5:punct	SpaceAfter=No
 5-6	Bakhita	_	_	_	_	_	_	_	_
-5	Bakhi	ba	ADV	_	AdvType=Mod|Deixis=Prox|PronType=Dem	13	advmod	13:advmod	Gloss=PROX-MOD|MSeg=ba-khiʔ
+5	Bakhi	ba	ADV	_	AdvType=Man|Deixis=Prox|PronType=Dem	13	advmod	13:advmod	Gloss=PROX-MOD|MSeg=ba-khiʔ
 6	ta	ta	PART	FOC	InfStruct=Foc	5	advmod:emph	5:advmod:emph	Gloss=FOC|MSeg=ta
 7	o	o	PART	RECNF	_	5	discourse	5:discourse	Gloss=RECNF|MSeg=o|SpaceAfter=No
 8	!	!	PUNCT	_	_	5	punct	5:punct	SpaceAfter=No
@@ -23293,7 +23293,7 @@
 # sent_id = grammar_Complex_190a
 # text = Anacamace hakma uhidanduce jamma.
 # english = They completely finished weighing all our foodstuffs.
-1	Anacamace	cama	NOUN	_	Case=Abs|Clusivity=Ex|Number=Nsing|Number[psor]=Plur|Person=1	2	obj	2:obj	Gloss=1PL.EXCL.POSS-food-NSG|MSeg=ana-cama-ce
+1	Anacamace	cama	NOUN	_	Case=Abs|Clusivity[psor]=Ex|Number=Nsing|Number[psor]=Plur|Person=1	2	obj	2:obj	Gloss=1PL.EXCL.POSS-food-NSG|MSeg=ana-cama-ce
 2	hakma	hakt	VERB	_	Aspect=Imp|Case=Abs|VerbForm=Inf|Voice=Act	3	xcomp	3:xcomp	Gloss=weigh-INF|MSeg=hakt-ma
 3	uhidanduce	hid	VERB	COMPL1	Aspect=ComplPerfv|Mood=Ind|Number=Plur|Number[p]=Nsing|Person=3|Person[p]=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=3[PL].A-finish-3.P-COMPL-3.P-3NSG.P-IND.PST|MSeg=u-hid-u-dhend-u-ci-e
 4	jamma	jammai	PRON	_	Case=Abs,Erg|PronType=Tot	3	parataxis	3:parataxis	Gloss=all|MSeg=jʌmma|SpaceAfter=No
@@ -23870,7 +23870,7 @@
 # text = Nekma maikonno elo?
 # english = Do [dogs] really try to bite people?
 1	Nekma	ŋekt	VERB	_	Aspect=Imp|Case=Abs|VerbForm=Inf|Voice=Act	2	xcomp	2:xcomp	Gloss=bite-INF|MSeg=ŋekt-ma
-2	maikonno	kond	VERB	_	Aspect=Imp|Clusivity=In|Mood=Ind|Number[p]=Nsing|Person=3|Person[p]=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=[3>]1NSG.INCL-search-IND.NPST|MSeg=mai-kond-nok
+2	maikonno	kond	VERB	_	Aspect=Imp|Clusivity[p]=In|Mood=Ind|Number[p]=Nsing|Person=3|Person[p]=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=[3>]1NSG.INCL-search-IND.NPST|MSeg=mai-kond-nok
 3	elo	elo	CCONJ	DISJ2	_	2	conj	2:conj	Gloss=DISJ2|MSeg=elo|SpaceAfter=No
 4	?	?	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
 
@@ -23917,7 +23917,7 @@
 2	anaŋa	anaŋa	PRON	_	Case=Abs,Erg|Clusivity=Ex|Number=Plur|Person=1|PronType=Prs	4	iobj	4:iobj	Gloss=1PL.EXCL|MSeg=anaŋa
 3	namaste	namaste	NOUN	_	Case=Abs|Number=Sing	4	obj	4:obj	Gloss=greeting|MSeg=n̪ʌmʌst̪e
 4	meʔma	mett	VERB	_	Aspect=Imp|Case=Abs|VerbForm=Inf|Voice=Act	5	xcomp	5:xcomp	Gloss=do_to-INF|MSeg=mett-ma
-5	maledase	let	VERB	_	Aspect=Perf|Clusivity=Ex|Mood=Ind|Number[p]=Dual|Person=3|Person[p]=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=[3>]1NSG.EXCL-give_up-PST-PRF-IND.PST|MSeg=ma-let-a-ŋs-e|SpaceAfter=No
+5	maledase	let	VERB	_	Aspect=Perf|Clusivity[p]=Ex|Mood=Ind|Number[p]=Dual|Person=3|Person[p]=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=[3>]1NSG.EXCL-give_up-PST-PRF-IND.PST|MSeg=ma-let-a-ŋs-e|SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	5:punct	SpacesAfter=\n
 
 # sent_id = grammar_Complex_219
@@ -23991,7 +23991,7 @@
 2	yaŋ	yaŋ	PART	ADD	InfStruct=Foc	1	advmod:emph	1:advmod:emph	Gloss=ADD|MSeg=yaŋ
 3	khice	khic	VERB	V.NTVZ	VerbForm=Inf	4	xcomp	4:xcomp	Gloss=record-V.NTVZ|MSeg=khic-e
 4	numma	numd	VERB	_	Aspect=Imp|Case=Abs|VerbForm=Inf|Voice=Act	5	xcomp	5:xcomp	Gloss=do-INF|MSeg=numd-ma
-5	maipuŋ	puŋs	VERB	_	Aspect=Imp|Clusivity=In|Mood=Sub|Number[p]=Plur|Person=3|Person[p]=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=[3>]1PL.INCL-start[.SBJV.NPST]|MSeg=mai-puŋs|SpaceAfter=No
+5	maipuŋ	puŋs	VERB	_	Aspect=Imp|Clusivity[p]=In|Mood=Sub|Number[p]=Plur|Person=3|Person[p]=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=[3>]1PL.INCL-start[.SBJV.NPST]|MSeg=mai-puŋs|SpaceAfter=No
 6	,	,	PUNCT	_	_	7	punct	7:punct	_
 7	aŋ	aŋ	PART	COLLAB	_	5	discourse	5:discourse	Gloss=COLLAB|MSeg=aŋ|SpaceAfter=No
 8	.	.	PUNCT	_	_	5	punct	5:punct	SpacesAfter=\n
@@ -24448,7 +24448,7 @@
 4	na	na	PART	TOP	InfStruct=Top	3	advmod:emph	3:advmod:emph	Gloss=TOP|MSeg=na
 5	yaŋ	yaŋ	PART	ADD	InfStruct=Foc	3	advmod:emph	3:advmod:emph	Gloss=ADD|MSeg=yaŋ
 6	miʔmaŋa	mitt	VERB	_	Aspect=Imp|Case=Erg|VerbForm=Inf|Voice=Act	7	csubj	7:csubj	Gloss=think-INF-ERG|MSeg=mitt-ma-ŋa
-7	mailaʔnɨknɨŋ	latt	VERB	_	Aspect=Imp|Clusivity=In|Mood=Ind|Number[p]=Plur|Person=3|Person[p]=1|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	2:conj	Gloss=3>1PL.INCL-suffice-IND.NPST-NEG|MSeg=mai-latt-nok-nɨŋ|SpaceAfter=No
+7	mailaʔnɨknɨŋ	latt	VERB	_	Aspect=Imp|Clusivity[p]=In|Mood=Ind|Number[p]=Plur|Person=3|Person[p]=1|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	2:conj	Gloss=3>1PL.INCL-suffice-IND.NPST-NEG|MSeg=mai-latt-nok-nɨŋ|SpaceAfter=No
 8	.	.	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
 
 # sent_id = grammar_Complex_247c
@@ -24528,7 +24528,7 @@
 2	yoŋ	yaŋ	PART	ADD	InfStruct=Foc	1	advmod:emph	1:advmod:emph	Gloss=ADD|MSeg=yaŋ
 3	kondinɨŋ	kond	VERB	_	Aspect=Imp|Clusivity=In|Mood=Sub|Number=Plur|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=search-1PL[.INCL].S-NEG[.SBJV]NPST|MSeg=kond-ĩ-nɨŋ
 4	ni	ni	PART	ASS	_	3	discourse	3:discourse	Gloss=ASS|MSeg=n̪i
-5	huŋkhi	hun	ADV	_	AdvType=Mod|Deixis=Med|PronType=Dem	3	advmod	3:advmod	Gloss=MED-MOD|MSeg=hun-khiʔ
+5	huŋkhi	hun	ADV	_	AdvType=Man|Deixis=Med|PronType=Dem	3	advmod	3:advmod	Gloss=MED-MOD|MSeg=hun-khiʔ
 6	na	na	PART	TOP	InfStruct=Top	5	advmod:emph	5:advmod:emph	Gloss=TOP|MSeg=na|SpaceAfter=No
 7	.	.	PUNCT	_	_	5	punct	5:punct	SpacesAfter=\n
 
@@ -24672,7 +24672,7 @@
 3	kamchace	kamcha	NOUN	_	Case=Abs|Number=Nsing	1	iobj	1:iobj	Gloss=friend-NSG|MSeg=kamcha-ce
 4	na	na	PART	TOP	InfStruct=Top	3	advmod:emph	3:advmod:emph	Gloss=TOP|MSeg=na
 5-6	khamaisɨŋgo	_	_	_	_	_	_	_	SpaceAfter=No
-5	khamaisɨŋ	kha-sɨŋ	VERB	_	Aspect=Imp|Clusivity=In|Mood=Sub|Number[p]=Plur|Person=3|Person[p]=1|Tense=Pres|VerbForm=Fin|Voice=Act	6	acl:nmlz	6:acl:nmlz	Gloss=STEM-[3>]1PL.INCL-ask[SBJV.NPST]|MSeg=kha-mai-sɨŋs
+5	khamaisɨŋ	kha-sɨŋ	VERB	_	Aspect=Imp|Clusivity[p]=In|Mood=Sub|Number[p]=Plur|Person=3|Person[p]=1|Tense=Pres|VerbForm=Fin|Voice=Act	6	acl:nmlz	6:acl:nmlz	Gloss=STEM-[3>]1PL.INCL-ask[SBJV.NPST]|MSeg=kha-mai-sɨŋs
 6	go	go	NOUN	NMLZ1	Case=Abs|Number=Sing	1	obj	1:obj	Gloss=NMLZ1|MSeg=go
 7	.	.	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
 
@@ -24853,7 +24853,7 @@
 # english = I'm just wondering how these should be worn.
 1	“	“	PUNCT	_	_	6	punct	6:punct	SpaceAfter=No
 2	Bace	ba	PRON	_	Case=Abs|Deixis=Prox|Number=Nsing|PronType=Dem	4	obj	4:obj	Gloss=PROX-NSG|MSeg=ba-ce
-3	hokhinnɨŋ	hok	ADV	QST	AdvType=Met|PronType=Int	4	advmod	4:advmod	Gloss=QST-METHOD|MSeg=ho-khiʔnɨŋ
+3	hokhinnɨŋ	hok	ADV	QST	AdvType=Man|PronType=Int	4	advmod	4:advmod	Gloss=QST-METHOD|MSeg=ho-khiʔnɨŋ
 4	waiʔma	wat	VERB	_	Aspect=Imp|Case=Abs|VerbForm=Inf|Voice=Act	5	csubj	5:csubj	Gloss=wear-INF|MSeg=wat-ma
 5	ulino	lis	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	acl:nmlz	6:acl:nmlz	Gloss=3[PL].S-happen-IND.NPST|MSeg=u-lis-nok
 6	kha	kha	NOUN	NMLZ2	Case=Abs|Number=Sing	0	root	0:root	Gloss=NMLZ2|MSeg=kha|SpaceAfter=No
@@ -24987,7 +24987,7 @@
 # text = Abo hunikoma bela.
 # english = Now is the time for them to walk around. / Now is their walking time.
 1	Abo	abo	ADV	_	_	3	advmod	3:advmod	Gloss=now|MSeg=abo
-2	hunikoma	kos	VERB	_	Aspect=Imp|Case=Abs|Number[psor]=Plur|Person=3|VerbForm=Inf|Voice=Act	3	acl	3:acl	Gloss=3PL.POSS-roam-INF|MSeg=huni-kos-ma
+2	hunikoma	kos	VERB	_	Aspect=Imp|Case=Abs|Number[psor]=Dual|Person=3|VerbForm=Inf|Voice=Act	3	acl	3:acl	Gloss=3PL.POSS-roam-INF|MSeg=huni-kos-ma
 3	bela	bela	NOUN	_	Case=Abs|Number=Sing	0	root	0:root	Gloss=time|MSeg=bela|SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
 
@@ -25223,7 +25223,7 @@
 # sent_id = grammar_Complex_278b
 # text = Kanicekmahaĩmace paila-paila nikkaita luksaŋa ukhade.
 # english = Our ways of speaking started to disappear more and more a long time ago.
-1	Kanicekmahaĩmace	cekmahaĩma	NOUN	_	Case=Abs|Clusivity=In|Number=Nsing|Number[psor]=Plur|Person=1	6	nsubj	6:nsubj	Gloss=1PL.INCL.POSS-conversation-NSG|MSeg=kani-cekmahaĩma-ce
+1	Kanicekmahaĩmace	cekmahaĩma	NOUN	_	Case=Abs|Clusivity[psor]=In|Number=Nsing|Number[psor]=Plur|Person=1	6	nsubj	6:nsubj	Gloss=1PL.INCL.POSS-conversation-NSG|MSeg=kani-cekmahaĩma-ce
 2	paila-paila	pahila	ADV	INTENS	Red=Yes	6	advmod	6:advmod	Gloss=early~INTENS|MSeg=pʌ(h)ila~pʌ(h)ila
 3-4	nikkaita	_	_	_	_	_	_	_	_
 3	nikkai	nikkai	ADV	_	_	5	advmod	5:advmod	Gloss=very|MSeg=n̪ikʌi
@@ -25370,7 +25370,7 @@
 1	Abo	abo	ADV	_	_	9	advmod	9:advmod	Gloss=now|MSeg=abo
 2	pahila	pahila	ADV	_	_	9	advmod	9:advmod	Gloss=early|MSeg=pʌ(h)ila
 3	bhonda	bhanda	ADP	_	_	2	case	2:case	Gloss=COMP|MSeg=bhʌn̪d̪a
-4	aniteĩbe	teĩ	NOUN	LOC2	Case=Loc|Clusivity=In|Number=Sing|Number[psor]=Plur|Person=1	8	obl	8:obl	Gloss=1PL.INCL.POSS-village-LOC2|MSeg=ani-teĩ-beʔ
+4	aniteĩbe	teĩ	NOUN	LOC2	Case=Loc|Clusivity[psor]=In|Number=Sing|Number[psor]=Plur|Person=1	8	obl	8:obl	Gloss=1PL.INCL.POSS-village-LOC2|MSeg=ani-teĩ-beʔ
 5-6	nikkaita	_	_	_	_	_	_	_	_
 5	nikkai	nikkai	ADV	_	_	8	advmod	8:advmod	Gloss=very|MSeg=nikʌi
 6	ta	ta	PART	FOC	InfStruct=Foc	5	advmod:emph	5:advmod:emph	Gloss=FOC|MSeg=ta
@@ -25391,7 +25391,7 @@
 # english = Okay, [let's] join our hands!
 1	Lo	lo	INTJ	_	_	4	discourse	4:discourse	Gloss=okay|MSeg=lo|SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	1:punct	_
-3	ancimuk	muk	NOUN	_	Case=Abs|Clusivity=In|Number=Sing|Number[psor]=Dual|Person=1	4	obj	4:obj	Gloss=1DU.INCL.POSS-hand|MSeg=anci-muk
+3	ancimuk	muk	NOUN	_	Case=Abs|Clusivity[psor]=In|Number=Sing|Number[psor]=Dual|Person=1	4	obj	4:obj	Gloss=1DU.INCL.POSS-hand|MSeg=anci-muk
 4	lapkalap	lap	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Rcp	0	root	0:root	Gloss=seize-RECP~STEM|MSeg=lap-ka~lap|SpaceAfter=No
 5	!	!	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
 
