@@ -3288,10 +3288,10 @@
 # sent_id = grammar_Morphology_156b
 # text = Tokŋa kalla, mokŋa kalla ni naŋ.
 # english = But [there is] the upper terrace field and the lower terrace field, you know.
-1	Tokŋa	tokŋa	ADV	DEM.UP-PERM	AdvType=Per|Deixis=Remt|PronType=Dem	2	advmod	2:advmod	Gloss=DEM.UP-PERM|MSeg=to-kŋa
+1	Tokŋa	tokŋa	ADV	DEM.UP-PERM	AdvType=Loc|Deixis=Remt|PronType=Dem	2	advmod	2:advmod	Gloss=DEM.UP-PERM|MSeg=to-kŋa
 2	kalla	kalla	NOUN	_	Case=Abs|Number=Sing	0	root	0:root	Gloss=terrace_field|MSeg=kalla|SpaceAfter=No
 3	,	,	PUNCT	_	_	5	punct	5:punct	_
-4	mokŋa	mokŋa	ADV	DEM.DOWN-PERM	AdvType=Per|Deixis=Remt|PronType=Dem	5	advmod	5:advmod	Gloss=DEM.DOWN-PERM|MSeg=mo-kŋa
+4	mokŋa	mokŋa	ADV	DEM.DOWN-PERM	AdvType=Loc|Deixis=Remt|PronType=Dem	5	advmod	5:advmod	Gloss=DEM.DOWN-PERM|MSeg=mo-kŋa
 5	kalla	kalla	NOUN	_	Case=Abs|Number=Sing	2	conj	2:conj	Gloss=terrace_field|MSeg=kalla
 6	ni	ni	PART	ASS	_	2	discourse	2:discourse	Gloss=ASS|MSeg=n̪i
 7	naŋ	naŋ	CCONJ	_	_	2	cc	2:cc	Gloss=but|MSeg=naŋ|SpaceAfter=No
