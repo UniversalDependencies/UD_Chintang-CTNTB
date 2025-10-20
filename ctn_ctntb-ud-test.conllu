@@ -2242,7 +2242,7 @@
 # sent_id = grammar_Morphology_109a
 # text = Waiʔmameiʔpa sinuʔnɨŋ.
 # english = He doesn't want to wear it.
-1	Waiʔmameiʔpa	wat	VERB	DESID	Aspect=Imp|Case=Abs|VerbForm=Inf|Voice=Act	2	advcl:desid	2:advcl:desid	Gloss=wear-INF-DESID|MSeg=wat-ma-meiʔpa
+1	Waiʔmameiʔpa	wat	VERB	DESID	Aspect=Imp|Case=Abs|VerbForm=Inf|Voice=Act	2	xcomp:desid	2:xcomp:desid	Gloss=wear-INF-DESID|MSeg=wat-ma-meiʔpa
 2	sinuʔnɨŋ	si	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=feel-IND.NPST[.3SG.S]-NEG|MSeg=si-nok-nɨŋ|SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
 
@@ -2256,7 +2256,7 @@
 5-6	mogo	_	_	_	_	_	_	_	_
 5	mo	mo	SCONJ	CIT	_	4	mark	4:mark	Gloss=CIT|MSeg=mo
 6	go	go	NOUN	NMLZ1	Case=Abs|Number=Sing	7	obj	7:obj	Gloss=NMLZ1|MSeg=go
-7	tupmeiʔpa	tupt	VERB	DESID	VerbForm=Inf	8	advcl:desid	8:advcl:desid	Gloss=understand-DESID|MSeg=tupt-meiʔpa
+7	tupmeiʔpa	tupt	VERB	DESID	VerbForm=Inf	8	xcomp:desid	8:xcomp:desid	Gloss=understand-DESID|MSeg=tupt-meiʔpa
 8	siaŋsehẽ	si	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=feel-PST-PRF-PST-1SG[.S]-IND.PST|MSeg=si-a-ŋs-a-ŋ-e|SpaceAfter=No
 9	.	.	PUNCT	_	_	8	punct	8:punct	SpacesAfter=\n
 
@@ -2331,7 +2331,7 @@
 # text = Baceŋa asessi utiaŋsemopho.
 # english = I heard he said they came to kill me.
 1	Baceŋa	ba	PRON	_	Case=Erg|Deixis=Prox|Number=Plur|PronType=Dem	2	nsubj	2:nsubj	Gloss=PROX-NSG-ERG|MSeg=ba-ce-ŋa
-2	asessi	set	VERB	PURP	Aspect=Imp|ConvType=Purp|Number[psor]=Sing|Person=1|VerbForm=Conv|Voice=Act	3	advcl:purp	3:advcl:purp	Gloss=1SG.POSS-kill-PURP|MSeg=a-set-si
+2	asessi	set	VERB	PURP	Aspect=Imp|ConvType=Purp|Number=Sing|Person=1|VerbForm=Conv|Voice=Act	3	advcl:purp	3:advcl:purp	Gloss=1SG.POSS-kill-PURP|MSeg=a-set-si
 3-5	utiaŋsemopho	_	_	_	_	_	_	_	SpaceAfter=No
 3	utiaŋse	ta	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=3[PL].S-come-PST-PRF-IND.PST|MSeg=u-ta-a-ŋs-e
 4	mo	mo	SCONJ	CIT	_	3	mark	3:mark	Gloss=CIT|MSeg=mo
@@ -2341,7 +2341,7 @@
 # sent_id = grammar_Morphology_115b
 # text = Icopsi utiaŋse naŋ.
 # english = But they've come to see you.
-1	Icopsi	copt	VERB	PURP	Aspect=Imp|ConvType=Purp|Number[psor]=Sing|Person=2|VerbForm=Conv|Voice=Act	2	advcl:purp	2:advcl:purp	Gloss=2SG.POSS-see-PURP|MSeg=i-copt-si
+1	Icopsi	copt	VERB	PURP	Aspect=Imp|ConvType=Purp|Number=Sing|Person=2|VerbForm=Conv|Voice=Act	2	advcl:purp	2:advcl:purp	Gloss=2SG.POSS-see-PURP|MSeg=i-copt-si
 2	utiaŋse	ta	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=3[PL].S-come-PST-PRF-IND.PST|MSeg=u-ta-a-ŋs-e
 3	naŋ	naŋ	CCONJ	_	_	2	cc	2:cc	Gloss=BUT|MSeg=naŋ|SpaceAfter=No
 4	.	.	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
@@ -2349,7 +2349,7 @@
 # sent_id = grammar_Morphology_115c
 # text = Ulasi akhade?
 # english = Did you go to fetch him?
-1	Ulasi	la	VERB	PURP	Aspect=Imp|ConvType=Purp|Number[psor]=Sing|Person=3|VerbForm=Conv|Voice=Act	2	advcl:purp	2:advcl:purp	Gloss=3SG.POSS-fetch-PURP|MSeg=u-la-si
+1	Ulasi	la	VERB	PURP	Aspect=Imp|ConvType=Purp|Number=Sing|Person=3|VerbForm=Conv|Voice=Act	2	advcl:purp	2:advcl:purp	Gloss=3SG.POSS-fetch-PURP|MSeg=u-la-si
 2	akhade	khat	VERB	_	Aspect=Perfv|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=2[SG].S-go-IND.PST|MSeg=a-khat-e|SpaceAfter=No
 3	?	?	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
 
@@ -6105,7 +6105,7 @@
 4	,	,	PUNCT	_	_	3	punct	3:punct	_
 5	kuŋseʔ	kuŋs	VERB	_	Aspect=Perfv|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=come_down-IND.PST[.3SG.S]|MSeg=kuŋs-e
 6	konei	gonei	PART	ATTN	_	5	discourse	5:discourse	Gloss=ATTN|MSeg=gonei
-7	ilasi	las	VERB	PURP	Aspect=Imp|ConvType=Purp|Number[psor]=Sing|Person=2|VerbForm=Conv|Voice=Act	5	advcl:purp	5:advcl:purp	Gloss=2SG.POSS-bring_back-PURP|MSeg=i-las-si|SpaceAfter=No
+7	ilasi	las	VERB	PURP	Aspect=Imp|ConvType=Purp|Number=Sing|Person=2|VerbForm=Conv|Voice=Act	5	advcl:purp	5:advcl:purp	Gloss=2SG.POSS-bring_back-PURP|MSeg=i-las-si|SpaceAfter=No
 8	!	!	PUNCT	_	_	5	punct	5:punct	SpacesAfter=\n
 
 # sent_id = grammar_Syntactic_158
@@ -7867,8 +7867,8 @@
 2	gadi	gadi	NOUN	_	Case=Abs|Number=Sing	3	obj	3:obj	Gloss=car|MSeg=gaɖi
 3	ukedande	ket	VERB	COMPL1	Aspect=ComplPerfv|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=3[PL].S/A-break-PST-COMPL1-IND.PST|MSeg=u-ket-a-dhend-e
 4	kina	kina	CCONJ	SEQ	_	8	cc	8:cc	Gloss=SEQ|MSeg=kina
-5	pac	pac	NUM	_	NumType=Card	8	iobj	8:iobj	Gloss=five|MSeg=pãc
-6	sai	saye	NUM	_	NumType=Card	5	flat:num	5:flat:num	Gloss=hundred|MSeg=sʌe
+5	pac	pac	NUM	_	NumType=Card	6	nummod	6:nummod	Gloss=five|MSeg=pãc
+6	sai	saye	NUM	_	NumType=Card	8	iobj	8:iobj	Gloss=hundred|MSeg=sʌe
 7	chere	cher	VERB	V.NTVZ	VerbForm=Inf	8	xcomp	8:xcomp	Gloss=have_diarrhea-V.NTVZ|MSeg=cher-e
 8-9	umettucepho	_	_	_	_	_	_	_	SpaceAfter=No
 8	umettuce	mett	VERB	_	Aspect=Perfv|Mood=Ind|Number=Plur|Number[p]=Plur|Person=3|Person[p]=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	3:conj	Gloss=3[PL].A-do_to-3.P-3NSG.P-IND.PST|MSeg=u-mett-u-ci-e
@@ -16158,7 +16158,7 @@
 1	Kamala	Kamala	PROPN	_	Case=Abs|Number=Sing	6	vocative	6:vocative	Gloss=a_name|MSeg=kʌmʌla|SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	1:punct	_
 3	hana	hana	PRON	_	Case=Abs,Erg|Number=Sing|Person=2|PronType=Prs	6	obj	6:obj	Gloss=2SG|MSeg=hana
-4	itapparaŋ	tapparaŋ	ADV	_	Number[psor]=Sing|Person=2	6	advmod	6:advmod	Gloss=2SG.POSS-alone|MSeg=i-tapparaŋ
+4	itapparaŋ	tapparaŋ	ADV	_	Number=Sing|Person=2	6	advmod	6:advmod	Gloss=2SG.POSS-alone|MSeg=i-tapparaŋ
 5	ammu	mo	ADV	DEM.DOWN-LOC1	AdvType=Loc|Case=Loc|Deixis=Remt|PronType=Dem|Reach=Remote	6	advmod	6:advmod	Gloss=REMOTE-DEM.DOWN-LOC1|MSeg=a-mo-iʔ
 6	ayuŋno	yug	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=2[SG].S-be_there-IND.NPST|MSeg=a-yug-nok|SpaceAfter=No
 7	?	?	PUNCT	_	_	6	punct	6:punct	SpacesAfter=\n
@@ -19479,7 +19479,7 @@
 1-2	Jitelo	_	_	_	_	_	_	_	_
 1	Jite	Jitenra	PROPN	NICK	Case=Abs|Number=Sing	4	nsubj	4:nsubj	Gloss=a_name-NICK|MSeg=jit̪en̪d̪ra-e
 2	lo	lo	PART	SURP	InfStruct=Foc	1	advmod:emph	1:advmod:emph	Gloss=SURP|MSeg=lo
-3	ilasi	las	VERB	PURP	Aspect=Imp|ConvType=Purp|Number[psor]=Sing|Person=2|VerbForm=Conv|Voice=Act	4	advcl:purp	4:advcl:purp	Gloss=2SG.POSS-get_back-PURP|MSeg=i-las-si
+3	ilasi	las	VERB	PURP	Aspect=Imp|ConvType=Purp|Number=Sing|Person=2|VerbForm=Conv|Voice=Act	4	advcl:purp	4:advcl:purp	Gloss=2SG.POSS-get_back-PURP|MSeg=i-las-si
 4	kadaŋse	kat	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=come_up-PST-PRF-IND.PST[.3SG.S]|MSeg=kat-a-ŋs-e
 5	yo	yo	ADV	DEM.LVL	AdvType=Loc|Deixis=Remt|PronType=Dem	4	advmod	4:advmod	Gloss=DEM.LVL|MSeg=yo|SpaceAfter=No
 6	.	.	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
@@ -19488,7 +19488,7 @@
 # text = Baceŋa asessi utiaŋsemopho.
 # english = I heard he said they came to kill me.
 1	Baceŋa	ba	PRON	_	Case=Erg|Deixis=Prox|Number=Plur|PronType=Dem	3	nsubj	3:nsubj	Gloss=PROX-NSG-ERG|MSeg=ba-ce-ŋa
-2	asessi	set	VERB	PURP	Aspect=Imp|ConvType=Purp|Number[psor]=Sing|Person=1|VerbForm=Conv|Voice=Act	3	advcl:purp	3:advcl:purp	Gloss=1SG.POSS-kill-PURP|MSeg=a-set-si
+2	asessi	set	VERB	PURP	Aspect=Imp|ConvType=Purp|Number=Sing|Person=1|VerbForm=Conv|Voice=Act	3	advcl:purp	3:advcl:purp	Gloss=1SG.POSS-kill-PURP|MSeg=a-set-si
 3-5	utiaŋsemopho	_	_	_	_	_	_	_	SpaceAfter=No
 3	utiaŋse	ta	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=3[PL].S-come-PST-PRF-IND.PST|MSeg=u-ta-a-ŋs-e
 4	mo	mo	SCONJ	CIT	_	3	mark	3:mark	Gloss=CIT|MSeg=mo
@@ -19914,7 +19914,7 @@
 3	mo	mo	SCONJ	CIT	_	2	case	2:case	Gloss=CIT|MSeg=mo
 4	go	go	NOUN	NMLZ1	Case=Abs|Number=Sing	11	nsubj	11:nsubj	Gloss=NMLZ1|MSeg=go
 5	na	na	PART	TOP	InfStruct=Top	4	advmod:emph	4:advmod:emph	Gloss=TOP|MSeg=na
-6	anitapparaŋ	tapparaŋ	ADV	_	Clusivity=In|Number[psor]=Plur|Person=1	7	advmod	7:advmod	Gloss=1PL.INCL.POSS-alone|MSeg=ani-tapparaŋ
+6	anitapparaŋ	tapparaŋ	ADV	_	Clusivity=In|Number=Plur|Person=1	7	advmod	7:advmod	Gloss=1PL.INCL.POSS-alone|MSeg=ani-tapparaŋ
 7	cekti	cekt	VERB	_	Aspect=Imp|Clusivity=In|Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=speak-[SBJV.NPST.]1PL[.INCL].S|MSeg=cekt-ĩ
 8	kina	kina	CCONJ	SEQ	_	11	cc	11:cc	Gloss=SEQ|MSeg=kina
 9-10	linokha	_	_	_	_	_	_	_	_
@@ -20965,7 +20965,7 @@
 # sent_id = grammar_Complex_95b
 # text = Ikhaŋsi kaʔno, lanaʔno.
 # english = He comes up to see you, [then] he goes back.
-1	Ikhaŋsi	khag	VERB	PURP	Aspect=Imp|ConvType=Purp|Number[psor]=Sing|Person=2|VerbForm=Conv|Voice=Act	2	advcl:purp	2:advcl:purp	Gloss=2SG.POSS-see-PURP|MSeg=i-khag-si
+1	Ikhaŋsi	khag	VERB	PURP	Aspect=Imp|ConvType=Purp|Number=Sing|Person=2|VerbForm=Conv|Voice=Act	2	advcl:purp	2:advcl:purp	Gloss=2SG.POSS-see-PURP|MSeg=i-khag-si
 2	kaʔno	kat	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=come_up-IND.NPST[.3SG.S]|MSeg=kat-nok|SpaceAfter=No
 3	,	,	PUNCT	_	_	4	punct	4:punct	_
 4	lanaʔno	las	VERB	LNK-COMPL3.ITR	Aspect=ComplImp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	parataxis	2:parataxis	Gloss=return-LNK-COMPL3.ITR-IND.NPST[.3SG.S]|MSeg=las-na-hat-nok|SpaceAfter=No
@@ -25412,7 +25412,7 @@
 2	upukŋa	pukt	VERB	_	Aspect=Imp|Mood=Sub|Number=Sing|Number[p]=Sing|Person=3|Person[p]=1|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl	6:advcl	Gloss=3[SG].A-attack-[SBJV.]NPST.1SG.P|MSeg=u-pukt-ŋa
 3	pachi	pache	SCONJ	POST	_	2	mark	2:mark	Gloss=POST|MSeg=pʌchi
 4-5	yuŋmeiʔpayaŋ	_	_	_	_	_	_	_	_
-4	yuŋmeiʔpa	yug	VERB	DESID	VerbForm=Inf	6	advcl:desid	6:advcl:desid	Gloss=sit-DESID|MSeg=yug-meiʔpa
+4	yuŋmeiʔpa	yug	VERB	DESID	VerbForm=Inf	6	xcomp:desid	6:xcomp:desid	Gloss=sit-DESID|MSeg=yug-meiʔpa
 5	yaŋ	yaŋ	PART	ADD	InfStruct=Foc	4	advmod:emph	4:advmod:emph	Gloss=ADD|MSeg=yaŋ
 6	siŋaʔãnɨŋ	si	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=feel-1SG.S-IND.NPST-NEG|MSeg=si-ŋa-ʔã-nɨŋ|SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	6:punct	SpacesAfter=\n
@@ -25425,7 +25425,7 @@
 3	babu	babu	NOUN	_	Case=Abs|Number=Sing	2	vocative	2:vocative	Gloss=baby|MSeg=babu|SpaceAfter=No
 4	,	,	PUNCT	_	_	7	punct	7:punct	_
 5	easari	esari	ADV	_	_	7	advmod	7:advmod	Gloss=just_now|MSeg=esʌri
-6	camamiʔpa	ca	VERB	DESID	VerbForm=Inf	7	advcl:desid	7:advcl:desid	Gloss=eat-INF-DESID|MSeg=ca-ma-meiʔpa
+6	camamiʔpa	ca	VERB	DESID	VerbForm=Inf	7	xcomp:desid	7:xcomp:desid	Gloss=eat-INF-DESID|MSeg=ca-ma-meiʔpa
 7	siŋaʔãnɨŋ	si	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	2	parataxis	2:parataxis	Gloss=feel-1SG.S-IND.NPST-NEG|MSeg=si-ŋa-ʔã-nɨŋ|SpaceAfter=No
 8	.	.	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
 
