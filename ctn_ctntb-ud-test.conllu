@@ -585,7 +585,7 @@
 4	huda	hu	VERB	COP-CVB	Aspect=Imp|VerbForm=Conv|Voice=Act	7	advcl	7:advcl	Gloss=COP-CVB|MSeg=hu-d̪a
 5-6	hudai	_	_	_	_	_	_	_	_
 5	hud	hu	VERB	COP-CVB	Aspect=Imp|VerbForm=Conv|Voice=Act	4	conj	4:conj	Gloss=COP-CVB|MSeg=hu-d̪a
-6	ai	ai	PART	FOC	InfStruct=Foc	4	fixed	4:fixed	Gloss=FOC|MSeg=ʌi
+6	ai	ai	PART	FOC	InfStruct=Foc	5	advmod:emph	5:advmod:emph	Gloss=FOC|MSeg=ʌi
 7	akhaʔnalok	khat	VERB	LNK-SIM	Aspect=Imp|Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	1:conj	Gloss=2[SG].S-go-LNK-SIM|MSeg=a-khat-na-lok|SpacesAfter=\n
 
 # sent_id = grammar_Morphology_17b
@@ -24935,7 +24935,7 @@
 3	teiʔma	tett	VERB	_	Aspect=Imp|Case=Abs|VerbForm=Inf|Voice=Act	4	acl:relcl	4:acl:relcl	Gloss=serve-INF|MSeg=tett-ma
 4	alcace	alca	NOUN	_	Case=Abs|Number=Plur	5	nmod	3:obj|5:nmod	Gloss=plum-NSG|MSeg=alca-ce
 5	bhela	bhela	NOUN	_	Case=Abs|Number=Sing	6	obj	6:obj	Gloss=collect|MSeg=bhela
-6	numdokhoce	numd	VERB	_	Aspect=Imp|Number=Sing|Number[p]=Plur|Person=2|Person[p]=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=do-3.P-CON-3.P-[2SG>]3NSG|MSeg=numd-u-khag-u-ci|SpaceAfter=No
+6	numdokhoce	numd	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Number[p]=Plur|Person=2|Person[p]=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=do-3.P-CON-3.P-[2SG>]3NSG|MSeg=numd-u-khag-u-ci|SpaceAfter=No
 7	!	!	PUNCT	_	_	6	punct	6:punct	SpacesAfter=\n
 
 # sent_id = grammar_Complex_268d
