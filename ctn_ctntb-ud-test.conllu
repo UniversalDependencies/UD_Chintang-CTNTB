@@ -6116,7 +6116,7 @@
 2	Charama	Chara-ma	PROPN	_	Case=Abs|Number=Sing	9	nsubj	9:nsubj	Gloss=a_clan-woman|MSeg=chara-ma
 3	lo	lo	PART	SURP	InfStruct=Foc	2	advmod:emph	2:advmod:emph	Gloss=SURP|MSeg=lo
 4-5	huncichoŋsiyaŋ	_	_	_	_	_	_	_	_
-4	huncichoŋsi	choŋs	VERB	PURP	Aspect=Imp|ConvType=Purp|Number[psor]=Dual|Person=3|VerbForm=Conv|Voice=Act	6	advcl:purp	6:advcl:purp	Gloss=3DU.POSS-deliver-PURP|MSeg=hunci-choŋs-si
+4	huncichoŋsi	choŋs	VERB	PURP	Aspect=Imp|ConvType=Purp|Number=Dual|Person=3|VerbForm=Conv|Voice=Act	6	advcl:purp	6:advcl:purp	Gloss=3DU.POSS-deliver-PURP|MSeg=hunci-choŋs-si
 5	yaŋ	yaŋ	PART	ADD	InfStruct=Foc	4	advmod:emph	4:advmod:emph	Gloss=ADD|MSeg=yaŋ
 6-8	khaiʔmakhamo	_	_	_	_	_	_	_	_
 6	khaiʔma	khat	VERB	_	Aspect=Imp|Case=Abs|VerbForm=Inf|Voice=Act	7	acl:nmlz	7:acl:nmlz	Gloss=go-INF|MSeg=khat-ma
@@ -11643,7 +11643,7 @@
 2	huŋ	hun	DET	_	Deixis=Med|PronType=Dem	3	det:nmlz	3:det:nmlz	Gloss=MED|MSeg=hun
 3	go	go	NOUN	NMLZ1	Case=Abs|Number=Sing	5	nsubj	5:nsubj	Gloss=NMLZ1|MSeg=go
 4-5	ukhaiʔkha	_	_	_	_	_	_	_	_
-4	ukhaiʔ	khat	VERB	_	Number[psor]=Sing|Person=3|VerbForm=Inf	5	acl:nmlz	5:acl:nmlz	Gloss=3SG.POSS-go|MSeg=u-khat
+4	ukhaiʔ	khat	VERB	_	Aspect=Imp|Case=Abs|Number=Sing|Person=3|VerbForm=Inf	5	acl:nmlz	5:acl:nmlz	Gloss=3SG.POSS-go|MSeg=u-khat
 5	kha	kha	NOUN	NMLZ2	Case=Abs|Number=Sing	6	nmod:nmlz	6:nmod:nmlz	Gloss=NMLZ2|MSeg=kha
 6	thaũ	thaũ	NOUN	_	Case=Abs|Number=Sing	8	nsubj	8:nsubj	Gloss=place|MSeg=ʈhaũ
 7	hokhiya	hok	PRON	QST-SORT	Case=Abs|Number=Sing|PronType=Int	8	obl	8:obl	Gloss=Q-SORT|MSeg=ho-khiʔya
@@ -24490,7 +24490,7 @@
 2-3	thore	_	_	_	_	_	_	_	_
 2	thor	thor	ADV	_	_	5	advmod	5:advmod	Gloss=a_little|MSeg=t̪hor
 3	e	ai	PART	FOC	InfStruct=Foc	2	advmod:emph	2:advmod:emph	Gloss=FOC|MSeg=ʌi
-4	uchuŋma	chuŋs	VERB	_	Aspect=Imp|Case=Abs|Number[psor]=Sing|Person=3|VerbForm=Inf|Voice=Act	5	csubj	5:csubj	Gloss=3SG.POSS-cough-INF|MSeg=u-chuŋs-ma
+4	uchuŋma	chuŋs	VERB	_	Aspect=Imp|Case=Abs|Number=Sing|Person=3|VerbForm=Inf|Voice=Act	5	csubj	5:csubj	Gloss=3SG.POSS-cough-INF|MSeg=u-chuŋs-ma
 5	lattaŋse	latt	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=stop-PST-PRF-IND.PST[.3SG.S]|MSeg=latt-a-ŋs-e|SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	5:punct	SpacesAfter=\n
 
@@ -24889,7 +24889,7 @@
 2-3	huŋgoiʔyã	_	_	_	_	_	_	_	_
 2	huŋ	hun	DET	_	Deixis=Med|PronType=Dem	3	det:nmlz	3:det:nmlz	Gloss=MED|MSeg=hun
 3	goiʔyã	go	NOUN	NMLZ1-LOC1	Case=LocErg|Number=Sing	5	obl	5:obl	Gloss=NMLZ1-LOC1-ERG|MSeg=go-iʔ-ŋa
-4	uchumma	chums	VERB	_	Aspect=Imp|Case=Abs|Number[psor]=Sing|Person=3|VerbForm=Inf|Voice=Act	5	csubj	5:csubj	Gloss=3SG.POSS-tie-INF|MSeg=u-chums-ma
+4	uchumma	chums	VERB	_	Aspect=Imp|Case=Abs|Number=Sing|Person=3|VerbForm=Inf|Voice=Act	5	csubj	5:csubj	Gloss=3SG.POSS-tie-INF|MSeg=u-chums-ma
 5	li	lis	VERB	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=happen[.SBJV.NPST.3SG.S]|MSeg=lis|SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	5:punct	SpacesAfter=\n
 
@@ -24901,7 +24901,7 @@
 3-4	iskulyaŋ	_	_	_	_	_	_	_	_
 3	iskul	iskul	NOUN	_	Case=Abs|Number=Sing	5	obl	5:obl	Gloss=school|MSeg=iskul
 4	yaŋ	yaŋ	PART	ADD	InfStruct=Foc	3	advmod:emph	3:advmod:emph	Gloss=ADD|MSeg=yaŋ
-5	upaŋma	paŋs	VERB	_	Aspect=Imp|Case=Abs|Number[psor]=Sing|Person=3|VerbForm=Inf|Voice=Act	6	csubj	6:csubj	Gloss=3SG.POSS-send-INF|MSeg=u-paŋs-ma
+5	upaŋma	paŋs	VERB	_	Aspect=Imp|Case=Abs|Number=Sing|Person=3|VerbForm=Inf|Voice=Act	6	csubj	6:csubj	Gloss=3SG.POSS-send-INF|MSeg=u-paŋs-ma
 6	lima	lis	VERB	_	Aspect=Imp|Case=Abs|VerbForm=Inf|Voice=Act	7	xcomp	7:xcomp	Gloss=happen-INF|MSeg=lis-ma
 7	lapteʔ	lapt	VERB	_	Aspect=Perfv|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=be_about_to-IND.PST[.3SG.S]|MSeg=lapt-e|SpaceAfter=No
 8	,	,	PUNCT	_	_	9	punct	9:punct	_
@@ -24987,7 +24987,7 @@
 # text = Abo hunikoma bela.
 # english = Now is the time for them to walk around. / Now is their walking time.
 1	Abo	abo	ADV	_	_	3	advmod	3:advmod	Gloss=now|MSeg=abo
-2	hunikoma	kos	VERB	_	Aspect=Imp|Case=Abs|Number[psor]=Dual|Person=3|VerbForm=Inf|Voice=Act	3	acl	3:acl	Gloss=3PL.POSS-roam-INF|MSeg=huni-kos-ma
+2	hunikoma	kos	VERB	_	Aspect=Imp|Case=Abs|Number=Dual|Person=3|VerbForm=Inf|Voice=Act	3	acl	3:acl	Gloss=3PL.POSS-roam-INF|MSeg=huni-kos-ma
 3	bela	bela	NOUN	_	Case=Abs|Number=Sing	0	root	0:root	Gloss=time|MSeg=bela|SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
 
@@ -24995,7 +24995,7 @@
 # text = Akka itɨŋma chaŋa kha?
 # english = Am I a child for you to kick? / Am I your kicking child?
 1	Akka	akka	PRON	_	Case=Abs,Erg|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	Gloss=1SG|MSeg=akka
-2	itɨŋma	tɨŋs	VERB	_	Aspect=Imp|Case=Abs|Number[psor]=Sing|Person=2|VerbForm=Inf|Voice=Act	3	acl:relcl	3:acl:relcl	Gloss=2SG.POSS-kick-INF|MSeg=i-tɨŋs-ma
+2	itɨŋma	tɨŋs	VERB	_	Aspect=Imp|Case=Abs|Number=Sing|Person=2|VerbForm=Inf|Voice=Act	3	acl:relcl	3:acl:relcl	Gloss=2SG.POSS-kick-INF|MSeg=i-tɨŋs-ma
 3	chaŋa	cha	NOUN	_	Case=Erg|Number=Sing	4	acl:nmlz	2:obj|4:acl:nmlz	Gloss=child-ERG|MSeg=cha-ŋa
 4	kha	kha	NOUN	NMLZ2	Case=Abs|Number=Sing	0	root	0:root	Gloss=NMLZ2|MSeg=kha|SpaceAfter=No
 5	?	?	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
