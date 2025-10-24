@@ -20179,7 +20179,7 @@
 # english = I will beat whoever of you moves, okay?
 1	Jo	j	PRON	REF	Case=Abs,Erg|Number=Sing|PronType=Ind	2	nsubj	2:nsubj	Gloss=REL-REF|MSeg=j-o
 2	soŋno	soŋs	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl	6:advcl	Gloss=move-IND.NPST|MSeg=soŋs-nok|SpaceAfter=No
-3	,	,	PUNCT	_	_	1	punct	1:punct	_
+3	,	,	PUNCT	_	_	2	punct	2:punct	_
 4	akka	akka	PRON	_	Case=Abs,Erg|Number=Sing|Person=1|PronType=Prs	6	nsubj	6:nsubj	Gloss=1SG|MSeg=akka
 5	basaŋa	ba	PRON	OBL	Case=Erg|Deixis=Prox|Number=Sing|PronType=Dem	6	obj	6:obj	Gloss=PROX-OBL-ERG|MSeg=ba-sa-ŋa
 6	tennani	ten	VERB	_	Aspect=Imp|Mood=Sub|Number=Sing|Number[p]=Plur|Person=1|Person[p]=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=beat-1SG>2-[SBJV.NPST.]2PL[.P]|MSeg=ten-nã-nĩ
