@@ -20216,7 +20216,7 @@
 2	,	,	PUNCT	_	_	1	punct	1:punct	_
 3	josaŋa	j	PRON	REF-OBL	Case=Erg|Number=Sing|PronType=Ind	4	nsubj	4:nsubj	Gloss=REL-REF-OBL-ERG|MSeg=j-o-sa-ŋa
 4	sedoko	set	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Number[p]=Sing|Person=3|Person[p]=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	7:advcl	Gloss=kill-3[SG].P-IND.NPST[.3SG.A]|MSeg=set-u-kV|SpaceAfter=No
-5	,	,	PUNCT	_	_	3	punct	3:punct	_
+5	,	,	PUNCT	_	_	4	punct	4:punct	_
 6	huĩsaŋa	hun	PRON	OBL	Case=Erg|Deixis=Med|Number=Sing|PronType=Dem	7	nsubj	7:nsubj	Gloss=MED-OBL-ERG|MSeg=hun-sa-ŋa
 7	khaiʔma	khatt	VERB	_	Aspect=Imp|Case=Abs|VerbForm=Inf|Voice=Act	0	root	0:root	Gloss=take-INF|MSeg=khatt-ma
 8	o	o	PART	RECNF	_	7	discourse	7:discourse	Gloss=RECNF|MSeg=o|SpaceAfter=No
