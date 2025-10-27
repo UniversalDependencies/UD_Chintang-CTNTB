@@ -11,7 +11,7 @@ The sentences originate from the examples in the (currently unpublished) _A Gram
 
 # Acknowledgments
 
-...
+* This work was supported by the University of Zurich Global Strategy and Partnerships Funding Scheme (Project Fund Level 3) (https://www.global.uzh.ch). We gratefully acknowledge the Suansu-speaking community for their continuous support. We also thank Jason M. Vashum for his generous assistance with translation and annotation.
 
 ## References
 
@@ -36,7 +36,7 @@ UPOS: converted from manual
 XPOS: converted from manual
 Features: converted from manual
 Relations: manual native
-Contributors: Tulchynska, Kira; Witzlack, Alena; Schikowski, Robert
+Contributors: Tulchynska, Kira; Schikowski, Robert; Witzlack-Makarevich, Alena;
 Contributing: here
 Contact: kira.tulchynska@mail.huji.ac.il, witzlack@gmail.com
 ===============================================================================
