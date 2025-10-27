@@ -11,7 +11,8 @@ The sentences originate from the examples in the (currently unpublished) _A Gram
 
 # Acknowledgments
 
-* This work was supported by the University of Zurich Global Strategy and Partnerships Funding Scheme (Project Fund Level 3) (https://www.global.uzh.ch). We gratefully acknowledge the Suansu-speaking community for their continuous support. We also thank Jason M. Vashum for his generous assistance with translation and annotation.
+* This work was supported by the University of Zurich Global Strategy and Partnerships Funding Scheme (Project Fund Level 3) (https://www.global.uzh.ch).
+* Kira Tulchynska gratefully acknowledges the financial support of the Jack, Joseph and Morton Mandel School MA Honors Program at the Hebrew University of Jerusalem.
 
 ## References
 
