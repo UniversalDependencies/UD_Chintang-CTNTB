@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>2289</sentences><tokens>12758</tokens><words>14631</words><fused>1708</fused></total>
+    <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
+    <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
+    <test><sentences>2289</sentences><tokens>12758</tokens><words>14631</words><fused>1708</fused></test>
+  </size>
+  <lemmas unique="1674" /><!-- ., go, ,, ta, ?, ba, kha, hun, na, yaŋ, !, mo, kina, akka, khat -->
+  <forms unique="4392" /><!-- ., ,, ta, ?, go, kha, na, yaŋ, !, mo, kina, ba, akka, lo, huŋ -->
+  <fusions unique="1241" /><!-- huŋgo, bago, huŋgoiʔ, migo, mogo, huŋgoiʔyã, thekha, akkayaŋ, appita, bata, huŋgoi, khalo, mikha, thego, hokkoiʔ -->
+  <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
+  <tags unique="16">
+    <tag name="ADJ">192</tag><!-- the, mi, temma, rato, aptharo, bɨtthɨrɨ, aru, hariyo, makacɨk, nayã -->
+    <tag name="ADP">97</tag><!-- likhi, kheiʔyã, nusayaŋ, samma, pache, sɨrɨŋ, bhanda, ansar, pahile -->
+    <tag name="ADV">885</tag><!-- ba, abo, yo, to, mo, paĩ, j, hun, u, appi -->
+    <tag name="AUX">90</tag><!-- pho, lus -->
+    <tag name="CCONJ">424</tag><!-- kina, naŋ, elo, e, tara, ra, na, ani, ena, athawa -->
+    <tag name="DET">452</tag><!-- hun, ba, hok, mo, yo, to, jammai, asuk, baddhe, arko -->
+    <tag name="INTJ">180</tag><!-- ã, lo, aiya, akka, khoi, eiʔ, e, ne, oi, ammai -->
+    <tag name="NOUN">3033</tag><!-- go, kha, cha, khim, cuwa, kok, pa, maʔmi, ma, kam -->
+    <tag name="NUM">222</tag><!-- thitta, hicce, ek, sumce, car, dui, pãc, das, tin, hajar -->
+    <tag name="PART">1589</tag><!-- ta, na, yaŋ, lo, ni, aŋ, hola, caĩ, raicha, manchi -->
+    <tag name="PRON">687</tag><!-- akka, hun, ba, hana, them, sa, ani, anaŋa, jammai, j -->
+    <tag name="PROPN">258</tag><!-- Ram, Dhankuta, Debi, Kalpana, Prithbi, Chintaŋ, Khel, Sem, Budhahaŋ, Khem -->
+    <tag name="PUNCT">2900</tag><!-- ., ,, ?, !, “, ”, ..., [...], –, ; -->
+    <tag name="SCONJ">284</tag><!-- mo, para, gari, pache, panta, bela, haŋ, garda, lagi, bittikai -->
+    <tag name="VERB">3326</tag><!-- lis, khat, yug, numd, ca, pid, kond, hid, cekt, khag -->
+    <tag name="X">12</tag><!-- _, bhan, ke, paubas, sir -->
+  </tags>
+  <!-- Statistics of features and values. The comments show the most frequent word forms. -->
+  <feats unique="91">
+    <feat name="AdvType" value="Ext" upos="ADV">18</feat><!-- batta, battata, utta, Motta, atta, totta, uttata -->
+    <feat name="AdvType" value="Loc" upos="ADV">251</feat><!-- baiʔ, mo, yoʔni, bai, bhaiʔni, moʔni, attu, to, yo, yoba -->
+    <feat name="AdvType" value="Man" upos="ADV">54</feat><!-- huŋkhi, hokhi, bakhi, bakhiʔnɨŋ, Huŋkhiʔnɨŋ, Esari, joso, bakhiʔ, hakhi-hakhi, hakhinɨŋ -->
+    <feat name="AdvType" value="Qua" upos="ADV">47</feat><!-- utti, jatti, uti, etti, eti, jati, Josori, Katti, ettiti, jahã -->
+    <feat name="Animacy" value="Hum" upos="NUM">25</feat><!-- hiccibaŋ, sumbhaŋ, Carjana, thɨkpaŋ, Hiccibaŋ-hiccibaŋ, panjana, pãcjana, tinjana -->
+    <feat name="Animacy" value="Nhum" upos="ADV,DET,NUM">115</feat><!-- thitta, hicce, hicci, sumce, thitta-thitta, sumci, Askogeda, Athgeda, Egharageda, Hihicce -->
+    <feat name="Aspect" value="ComplImp" upos="VERB">93</feat><!-- sinahaiʔ, Sinaiʔ, kaoiʔpadheĩpa, linahaʔno, lisadiki, lɨknahaiʔ, simaiʔma, uthendattake, Akɨnahaiʔ, Bopnaadhennaʔãce -->
+    <feat name="Aspect" value="ComplPerf" upos="VERB">39</feat><!-- lisadaŋse, nadanduŋsehẽ, ahomadaŋse, aktadaŋsa, alisadaŋsace, bhektadase, chobadaŋse, holadaŋseʔ, homadaŋse, kamnadhenaŋnace -->
+    <feat name="Aspect" value="ComplPerfv" upos="VERB">93</feat><!-- siade, cohatte, lisade, mandade, kobucohatte, kɨrade, lɨgade, thiada, ucohatte, ulɨgade -->
+    <feat name="Aspect" value="Imp" upos="AUX,VERB">2078</feat><!-- yuŋno, konno, khaiʔma, numma, lino, cama, konnoʔ, luma, khaŋma, pima -->
+    <feat name="Aspect" value="Perf" upos="AUX,VERB">198</feat><!-- lisaŋse, khadaŋse, lisaŋseʔ, khaoŋse, numdoŋse, utiaŋse, Kɨralɨgaŋse, chaptoŋse, chepmusaŋse, ciaŋse -->
+    <feat name="Aspect" value="Perfv" upos="AUX,VERB">744</feat><!-- khade, khada, lise, khatte, thaptokho, ukhade, kade, lapte, liseʔ, pide -->
+    <feat name="Case" value="Abs" upos="AUX,NOUN,NUM,PRON,PROPN,VERB">3192</feat><!-- go, kha, ko, kok, ba, khaiʔma, cuwa, numma, chace, huĩ -->
+    <feat name="Case" value="Abs,Erg" upos="NOUN,PRON">377</feat><!-- akka, hana, them, ani, jamma, akko, anaŋa, jo, them-them, hani -->
+    <feat name="Case" value="AbsErg" upos="PRON">1</feat><!-- saloŋa -->
+    <feat name="Case" value="Cau" upos="ADV,NOUN,PRON,VERB">13</feat><!-- wahumeiʔmalaŋtoŋ, Hanalaŋtĩ, ajibankolagi, akkolaŋtĩ, appikolagi, camyaŋtoŋ, iphuwalaŋtoŋ, khaiʔmayoŋtoŋ, nummakolaŋtĩ, nummalaŋtoŋ -->
+    <feat name="Case" value="Com" upos="NOUN,NUM,PRON,PROPN,VERB">53</feat><!-- Sanɨŋ, menuwanɨŋ, sencaknɨŋ, Indranɨŋ, Puspanɨŋ, Ramenɨŋ, cuwanɨŋ, maʔmicenɨŋ, ucuwanɨŋ, Amanɨŋ -->
+    <feat name="Case" value="Erg" upos="NOUN,NUM,PART,PRON,PROPN,VERB">400</feat><!-- saŋa, basaŋa, huĩsaŋa, gosaŋa, chaŋa, appaŋa, hunceŋa, Rameŋa, aniŋa, menuwaŋa -->
+    <feat name="Case" value="Loc" upos="ADV,NOUN,NUM,PART,PRON,PROPN,VERB">541</feat><!-- baiʔ, goiʔ, goi, yoʔni, koiʔ, khimbe, teĩbe, bai, bhaiʔni, moʔni -->
+    <feat name="Case" value="LocCom" upos="NOUN">5</feat><!-- khãbobeʔnɨŋ, sontoloŋtaŋbeʔnɨŋ, cuwaiʔnɨŋ -->
+    <feat name="Case" value="LocErg" upos="ADV,NOUN,PRON,PROPN,VERB">57</feat><!-- goiʔyã, Bhojpurbeʔŋa, geiʔyã, Anaiʔŋa, Ancabeʔyã, Anibeyã, Baiʔya, Balaŋkhabeʔŋa, Cimbrahabamuʔŋa, Cuwaiʔyã -->
+    <feat name="Case" value="LocLoc" upos="ADV,NOUN,PROPN">20</feat><!-- huŋkhaiʔ, bakhaiʔ, bhaipatti, yokhaiʔ, Agadipattibe, Bandupatti, Bhayupatti, Jãhãiʔ, Ladimbamuʔni, bakhabe -->
+    <feat name="Case" value="LocLocErg" upos="ADV">2</feat><!-- bhamubaʔŋa, topattiʔyã -->
+    <feat name="Case" value="LocLocPer" upos="ADV">2</feat><!-- Baipattilam, bhamuʔnilam -->
+    <feat name="Case" value="LocPer" upos="ADV,PROPN">8</feat><!-- bayulam, Saŋbhoŋteĩpattilam, Topattilam, Yolam, ayulam, bhaiʔlam, bhamulam -->
+    <feat name="Case" value="LocPerErg" upos="ADV,NOUN">4</feat><!-- Bhaiʔyãpattilamma, bhamulamma, tolamma, umembeʔlamma -->
+    <feat name="Case" value="Per" upos="NOUN,PRON,PROPN">18</feat><!-- hunlam, Bhalam, Budahaŋlam, yolam, Dharanlam, Nepalilam, Panirɨŋlam, balam, inarilam, macelam -->
+    <feat name="Case" value="PerErg" upos="NOUN,PRON,PROPN">5</feat><!-- Budahaŋlamma, Hunlamma, saikalalamma, sakphagharilamma, tolamma -->
+    <feat name="Clusivity" value="Ex" upos="AUX,PRON,VERB">70</feat><!-- anaŋa, ancaŋa, numdikiŋa, sɨknalɨknancĩyehẽ, Anabeʔ, Anaiʔŋa, Ancabeʔyã, anabe, anako, ancaŋaiʔyã -->
+    <feat name="Clusivity" value="In" upos="ADV,AUX,PRON,VERB">212</feat><!-- ani, khadi, aniŋa, lisi, anci, numdi, cekti, hidukum, hidum, khacce -->
+    <feat name="Clusivity[p]" value="Ex" upos="VERB">10</feat><!-- khaŋmameʔte, maapaŋsakteʔ, macopnadheĩ, mahiceke, maledase, mapi, mapidadisaʔ, mapide, mapondacia, mathokno -->
+    <feat name="Clusivity[p]" value="In" upos="VERB">29</feat><!-- maipinɨʔnɨŋ, mainekno, Khapattaŋsa, Khaumaikhaŋyaktaŋseʔ, Maikhaŋnacano, Maipide, Mairecceke, khamaisɨŋ, maica, maichap -->
+    <feat name="Clusivity[psor]" value="Ex" upos="NOUN,PRON">13</feat><!-- Anako, Anacamace, Anakoce, Anamailace, Anapaube, Anapauŋa, Anathurum, anakhalampa, anakko, anapauce -->
+    <feat name="Clusivity[psor]" value="In" upos="NOUN,PRON">40</feat><!-- aniteĩbe, anirek, anirɨŋ, aniteĩ, Anichintaŋbe, Anicuwakhamce, Anidoŋdumce, Anidoŋdumma, Anikhim, Anikoce -->
+    <feat name="ConvType" value="Cntf" upos="VERB">11</feat><!-- Ebi, Negi, Pagi, khoŋsi, khɨndi, ludi, lusi, lɨgadi, pidi, sukti -->
+    <feat name="ConvType" value="Coord" upos="VERB">61</feat><!-- casaŋa, numsaŋa, khaŋsaŋa, ceksaŋa, khoŋsaŋa, ochoksaŋa, pasaŋa, popsaŋa, rɨsaŋa, tomcĩsaŋa -->
+    <feat name="ConvType" value="Purp" upos="VERB">49</feat><!-- copsi, khaŋsi, kosi, pussi, asessi, casi, choŋsi, ilasi, phasi, Icopsi -->
+    <feat name="Degree" value="Dim" upos="NOUN,PROPN">5</feat><!-- Asuki, Asukiko, Khumale, Khumaleŋa, Sailuki -->
+    <feat name="Deixis" value="Med" upos="ADV,DET,PRON">279</feat><!-- huŋ, huĩ, hunce, huĩsaŋa, hun, huŋkhi, hunceŋa, huŋkhiya, Huŋkhiʔnɨŋ, hunlam -->
+    <feat name="Deixis" value="Prox" upos="ADV,DET,PRON">351</feat><!-- ba, baiʔ, basaŋa, bace, batta, bai, bhaiʔni, bakhiʔnɨŋ, bakhiya, baceŋa -->
+    <feat name="Deixis" value="Remt" upos="ADV,DET,PRON">268</feat><!-- mo, yo, to, utti, yoʔni, moʔni, attu, yoba, toba, uti -->
+    <feat name="Evident" value="Nfh" upos="AUX">72</feat><!-- pho, phe -->
+    <feat name="Foreign" value="Yes" upos="VERB,X">8</feat><!-- ke, Bhaisi, bhane, bhanedekhi, kinuŋ, paubasi, sir -->
+    <feat name="InfStruct" value="Foc" upos="PART">814</feat><!-- ta, yaŋ, lo, le, taʔ, ai, leʔ, aitira, i, leʔle -->
+    <feat name="InfStruct" value="Top" upos="PART">244</feat><!-- na, caĩ, cahi, cahĩ, caine, bhane, bhone, caĩne, chaĩ, naʔ -->
+    <feat name="InfStruct" value="Uniq" upos="PART">12</feat><!-- te, teʔ -->
+    <feat name="Mood" value="Imp" upos="VERB">207</feat><!-- khada, thaptokho, eba, thaptaʔ, Maimettha, cia, cohaʔ, coptokho, hiduca, katta -->
+    <feat name="Mood" value="Ind" upos="AUX,VERB">1795</feat><!-- yuŋno, konno, lino, khade, konnoʔ, lise, thaʔno, lisaŋse, uyuŋno, iʔno -->
+    <feat name="Mood" value="Opt" upos="VERB">36</feat><!-- numnacane, Bhonu, Khaiʔyãne, Nacinnakhaŋne, Yuŋyakne, cekŋakhaŋŋane, imnacanɨŋne, khaccone, khatne, khattumne -->
+    <feat name="Mood" value="Sub" upos="AUX,VERB">543</feat><!-- khadi, lɨkŋa, lisi, khaiʔ, khemsuŋ, numdi, waiʔ, aca, akada, akhaiʔ -->
+    <feat name="Number" value="Dual" upos="ADJ,AUX,PRON,VERB">148</feat><!-- anci, ancaŋa, ukhadace, alusace, khacce, ulaptace, Hanci, athukceke, khadaca, khattakhaco -->
+    <feat name="Number" value="Plur" upos="ADV,AUX,NOUN,PRON,PROPN,VERB">922</feat><!-- chace, ani, hunce, goce, anaŋa, bace, wace, hani, maʔmice, uyuŋno -->
+    <feat name="Number" value="Sing" upos="ADJ,ADV,AUX,NOUN,NUM,PRON,PROPN,VERB">5430</feat><!-- go, kha, akka, ko, hana, yuŋno, kok, ba, them, konno -->
+    <feat name="Number[p]" value="Dual" upos="VERB">14</feat><!-- tennace, Mairecceke, Nanahottace, khaŋnamettace, lapceke, mahiceke, maledase, nacacce, nalapceke, nanumceke -->
+    <feat name="Number[p]" value="Plur" upos="AUX,VERB">254</feat><!-- pimace, maipinɨʔnɨŋ, pidukuce, ahidumcumheʔ, chaʔmace, coptuŋcuhẽ, cĩmace, hiduca, hiduŋcuŋ, hiduŋcuŋnɨŋ -->
+    <feat name="Number[p]" value="Sing" upos="VERB">754</feat><!-- rɨktoko, kondoko, thaptokho, anisoko, mettoko, numdoko, yaŋsoko, hidumnum, khemsuŋ, puttoko -->
+    <feat name="Number[psor]" value="Dual" upos="NOUN,PRON">16</feat><!-- Anako, Anakoce, Anikoce, Anikoceŋa, Hancimaya, Huncijhani, anakko, ancimuk, hancichauce, hancimeĩ -->
+    <feat name="Number[psor]" value="Plur" upos="NOUN,PROPN,VERB">63</feat><!-- aniteĩbe, anirek, anirɨŋ, aniteĩ, huninari, Anacamace, Anamailace, Anapaube, Anapauŋa, Anathurum -->
+    <feat name="Number[psor]" value="Sing" upos="NOUN,NUM,PRON,PROPN,VERB">425</feat><!-- uchau, appaŋa, unisa, unɨŋ, uppa, utopi, akko, apa, uchauce, ummaŋa -->
+    <feat name="NumType" value="Card" upos="ADV,NUM">225</feat><!-- thitta, ek, hicce, hiccibaŋ, hicci, sumce, car, dui, sumbhaŋ, thitta-thitta -->
+    <feat name="Person" value="1" upos="ADJ,ADV,AUX,NOUN,PRON,VERB">847</feat><!-- akka, ani, akko, anaŋa, ancaŋa, appaŋa, khadi, aniŋa, lɨkŋa, lisi -->
+    <feat name="Person" value="2" upos="ADJ,ADV,AUX,NOUN,NUM,PRON,VERB">636</feat><!-- hana, khada, hani, hanako, thaptokho, akonno, akhaʔno, anisoko, akhade, alise -->
+    <feat name="Person" value="3" upos="ADJ,AUX,NOUN,PRON,VERB">1911</feat><!-- yuŋno, konno, lino, khade, konnoʔ, lise, uchau, thaʔno, lisaŋse, uyuŋno -->
+    <feat name="Person[p]" value="1" upos="VERB">105</feat><!-- maipinɨʔnɨŋ, khapide, khaupidake, labaŋbidahãʔ, mainekno, ucopmaʔã, ulaiʔyaʔãnɨŋ, uludaŋnɨhẽ, uphattehẽ, upidasehẽ -->
+    <feat name="Person[p]" value="2" upos="VERB">108</feat><!-- chapnabina, nakhae, nakonno, nalatte, naphatte, napino, nateĩ, pina, tennace, Huʔnachokna -->
+    <feat name="Person[p]" value="3" upos="AUX,VERB">823</feat><!-- rɨktoko, kondoko, thaptokho, numdoko, yaŋsoko, anisoko, mettoko, hidumnum, khemsuŋ, pimace -->
+    <feat name="Person[psor]" value="3" upos="VERB">1</feat><!-- hunciumiʔ -->
+    <feat name="Polarity" value="Neg" upos="AUX,CCONJ,INTJ,PART,VERB">321</feat><!-- manchi, mahaʔ, manche, maha, linɨʔnɨŋ, hidumnum, mahãʔ, maipinɨʔnɨŋ, maiseiʔma, mamaimyokte -->
+    <feat name="Polarity" value="Pos" upos="INTJ">16</feat><!-- ei, ã, eʔ, Ho -->
+    <feat name="Poss" value="Yes" upos="ADV,NOUN,PRON,PROPN,VERB">144</feat><!-- akko, hanako, Rameko, anako, basako, huĩsako, maʔmiko, Asumako, Huisako, Iskulako -->
+    <feat name="PronType" value="Dem" upos="ADV,DET,PRON">897</feat><!-- ba, huŋ, huĩ, baiʔ, mo, yo, to, basaŋa, hunce, huĩsaŋa -->
+    <feat name="PronType" value="Ind" upos="ADV,DET,PRON">104</feat><!-- jo, jatti, baddhe, miʔmuŋ, arko, josaŋa, asuk, jahã, joso, kun -->
+    <feat name="PronType" value="Int" upos="ADV,DET,PRON">216</feat><!-- hok, them, saŋa, theke, them-them, aŋ, salo, asuk, hokhi, anɨŋ -->
+    <feat name="PronType" value="Prs" upos="PRON">316</feat><!-- akka, hana, ani, akko, anaŋa, hani, ancaŋa, hanako, aniŋa, anci -->
+    <feat name="PronType" value="Rel" upos="ADV">3</feat><!-- jaha, jaso, jati -->
+    <feat name="PronType" value="Tot" upos="ADV,DET,PRON">43</feat><!-- jamma, jammaŋa, Jamm, Jamma-jamma, Jammaiʔya, picche, sabai -->
+    <feat name="Reach" value="Access" upos="ADV">17</feat><!-- uttu, uyu, uyuba, aiyu, aiyuba, otuba, uipatti, umbu, umuba, uyoba -->
+    <feat name="Reach" value="Remote" upos="ADV">19</feat><!-- attu, ammu, aiyu, ambu, Ayyu, Uttuʔni, Yoayu, aiyuba, ayulam -->
+    <feat name="Red" value="Yes" upos="ADJ,ADV,DET,INTJ,NOUN,NUM,PRON">81</feat><!-- them-them, thitta-thitta, them-themce, Thette, battata, koi, maŋka-maŋka, miʔmuŋ-miʔmuŋ, paila-paila, toto -->
+    <feat name="Tense" value="Past" upos="AUX,VERB">1003</feat><!-- khade, lise, lisaŋse, khatte, yuwakte, ukhade, kade, khadaŋse, lapte, liseʔ -->
+    <feat name="Tense" value="Pres" upos="AUX,VERB">1372</feat><!-- yuŋno, konno, lino, konnoʔ, thaʔno, uyuŋno, iʔno, khadi, rɨktoko, canoʔ -->
+    <feat name="VerbForm" value="Conv" upos="VERB">163</feat><!-- casaŋa, garikana, numsaŋa, khaŋsaŋa, copsi, khaŋsi, kosi, pussi, yuŋsaŋa, asessi -->
+    <feat name="VerbForm" value="Fin" upos="AUX,VERB">2581</feat><!-- yuŋno, konno, lino, khade, konnoʔ, lise, khada, thaʔno, lisaŋse, uyuŋno -->
+    <feat name="VerbForm" value="Inf" upos="AUX,VERB">536</feat><!-- khaiʔma, numma, khice, cama, luma, khaŋma, pima, hapma, seiʔma, yuŋma -->
+    <feat name="VerbForm" value="Part" upos="VERB">61</feat><!-- yuŋmayaŋ, hokmayaŋ, kakheiʔpa, kakɨpa, kaoiʔpadheĩpa, kapuiʔpa, porne, thukmayaŋ, Hoĩmayɨŋ, Kapuippãta -->
+    <feat name="Voice" value="Act" upos="AUX,VERB">3148</feat><!-- yuŋno, konno, khaiʔma, numma, lino, cama, khade, konnoʔ, lise, khada -->
+    <feat name="Voice" value="Cau" upos="AUX,VERB">42</feat><!-- lapmettoko, wahumeiʔma, wahumeiʔmalaŋtoŋ, Maĩkhaŋmettaʔ, aneamettukuce, ataĩmettukucum, chommeʔma, cokkhaune, hakmettuce, hapmettaʔ -->
+    <feat name="Voice" value="CauRcp" upos="VERB">1</feat><!-- Hapmeiʔkameiʔ -->
+    <feat name="Voice" value="CauRefl" upos="VERB">7</feat><!-- khaŋmetnace, Immetnaŋnace, Lapmeʔnacce, Luʔmeʔnace, khumeʔnaʔãce, mɨkseĩkhaŋmeiʔkameiʔ -->
+    <feat name="Voice" value="Rcp" upos="VERB">17</feat><!-- khasɨŋkasɨŋ, tɨŋkatɨŋ, Copkacop, Pamkapam, Pokkathaka, apkaap, caiʔkacaiʔ, khaŋkakhaŋ, lapkalap, lekale -->
+    <feat name="Voice" value="Refl" upos="VERB">25</feat><!-- sɨknalɨknancĩyehẽ, tomcĩsaŋa, Bopnaadhennaʔãce, Kaʔnace, Kɨnadhennaace, Tommancĩ, ahinaʔacenɨŋ, apamnaceʔ, ateknaʔãce, atɨŋnaʔãce -->
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="49">
+    <dep name="acl">12</dep>
+    <dep name="acl:nmlz">354</dep>
+    <dep name="acl:relcl">31</dep>
+    <dep name="advcl">213</dep>
+    <dep name="advcl:cntf">10</dep>
+    <dep name="advcl:coord">58</dep>
+    <dep name="advcl:emph">7</dep>
+    <dep name="advcl:purp">49</dep>
+    <dep name="advcl:sim">30</dep>
+    <dep name="advmod">817</dep>
+    <dep name="advmod:cop">41</dep>
+    <dep name="advmod:emph">1067</dep>
+    <dep name="advmod:nmlz">50</dep>
+    <dep name="amod">45</dep>
+    <dep name="amod:nmlz">77</dep>
+    <dep name="appos">13</dep>
+    <dep name="aux">90</dep>
+    <dep name="case">92</dep>
+    <dep name="cc">361</dep>
+    <dep name="ccomp">75</dep>
+    <dep name="compound:lvc">9</dep>
+    <dep name="conj">286</dep>
+    <dep name="csubj">63</dep>
+    <dep name="det">185</dep>
+    <dep name="det:nmlz">251</dep>
+    <dep name="discourse">637</dep>
+    <dep name="flat">12</dep>
+    <dep name="flat:foreign">3</dep>
+    <dep name="flat:name">5</dep>
+    <dep name="flat:num">1</dep>
+    <dep name="iobj">131</dep>
+    <dep name="mark">289</dep>
+    <dep name="nmod">285</dep>
+    <dep name="nmod:nmlz">128</dep>
+    <dep name="nmod:poss">169</dep>
+    <dep name="nsubj">1141</dep>
+    <dep name="nsubj:outer">3</dep>
+    <dep name="nummod">152</dep>
+    <dep name="obj">955</dep>
+    <dep name="obj:caus">11</dep>
+    <dep name="obl">552</dep>
+    <dep name="orphan">7</dep>
+    <dep name="parataxis">180</dep>
+    <dep name="punct">2900</dep>
+    <dep name="reparandum">62</dep>
+    <dep name="root">2289</dep>
+    <dep name="vocative">74</dep>
+    <dep name="xcomp">355</dep>
+    <dep name="xcomp:desid">4</dep>
+  </deps>
+</treebank>
