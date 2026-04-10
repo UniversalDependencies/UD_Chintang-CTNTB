@@ -11,7 +11,7 @@ The sentences originate from the examples in the (currently unpublished) _A Gram
 
 # Acknowledgments
 
-* This work was supported by the University of Zurich Global Strategy and Partnerships Funding Scheme (Project Fund Level 3) (https://www.global.uzh.ch).
+* This work was supported by the project "Event Packaging in Language" (University of Zurich Global Strategy and Partnerships Funding Scheme, 2023–2026).
 * Kira Tulchynska gratefully acknowledges the financial support of the Jack, Joseph and Morton Mandel School MA Honors Program at the Hebrew University of Jerusalem.
 
 ## References
