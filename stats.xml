@@ -122,9 +122,9 @@
     <feat name="Voice" value="Act" upos="AUX,VERB">3148</feat><!-- yuŋno, konno, khaiʔma, numma, lino, cama, khade, konnoʔ, lise, khada -->
     <feat name="Voice" value="Cau" upos="AUX,VERB">42</feat><!-- lapmettoko, wahumeiʔma, wahumeiʔmalaŋtoŋ, Maĩkhaŋmettaʔ, aneamettukuce, ataĩmettukucum, chommeʔma, cokkhaune, hakmettuce, hapmettaʔ -->
     <feat name="Voice" value="CauRcp" upos="VERB">1</feat><!-- Hapmeiʔkameiʔ -->
-    <feat name="Voice" value="CauRefl" upos="VERB">7</feat><!-- khaŋmetnace, Immetnaŋnace, Lapmeʔnacce, Luʔmeʔnace, khumeʔnaʔãce, mɨkseĩkhaŋmeiʔkameiʔ -->
+    <feat name="Voice" value="CauRfl" upos="VERB">7</feat><!-- khaŋmetnace, Immetnaŋnace, Lapmeʔnacce, Luʔmeʔnace, khumeʔnaʔãce, mɨkseĩkhaŋmeiʔkameiʔ -->
     <feat name="Voice" value="Rcp" upos="VERB">17</feat><!-- khasɨŋkasɨŋ, tɨŋkatɨŋ, Copkacop, Pamkapam, Pokkathaka, apkaap, caiʔkacaiʔ, khaŋkakhaŋ, lapkalap, lekale -->
-    <feat name="Voice" value="Refl" upos="VERB">25</feat><!-- sɨknalɨknancĩyehẽ, tomcĩsaŋa, Bopnaadhennaʔãce, Kaʔnace, Kɨnadhennaace, Tommancĩ, ahinaʔacenɨŋ, apamnaceʔ, ateknaʔãce, atɨŋnaʔãce -->
+    <feat name="Voice" value="Rfl" upos="VERB">25</feat><!-- sɨknalɨknancĩyehẽ, tomcĩsaŋa, Bopnaadhennaʔãce, Kaʔnace, Kɨnadhennaace, Tommancĩ, ahinaʔacenɨŋ, apamnaceʔ, ateknaʔãce, atɨŋnaʔãce -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
   <deps unique="49">

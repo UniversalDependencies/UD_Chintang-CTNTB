@@ -613,7 +613,7 @@
 3-4	teiʔŋalo	_	_	_	_	_	_	_	_
 3	teiʔŋa	teiʔ	NOUN	_	Case=Erg|Number=Sing	5	iobj	5:iobj	Gloss=clothes-ERG|MSeg=teiʔ-ŋa
 4	lo	lo	PART	SURP	InfStruct=Foc	3	advmod:emph	3:advmod:emph	Gloss=SURP|MSeg=lo
-5	bhukŋaŋcɨŋ	bhukt	VERB	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Refl	0	root	0:root	Gloss=cover-NPST.1SG.S-1SG-REFL-[SUBJ.]1SG|MSeg=bhukt-ŋa-ŋ-ci-ŋ
+5	bhukŋaŋcɨŋ	bhukt	VERB	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Rfl	0	root	0:root	Gloss=cover-NPST.1SG.S-1SG-REFL-[SUBJ.]1SG|MSeg=bhukt-ŋa-ŋ-ci-ŋ
 6	hou	hou	PART	EMO	_	5	discourse	5:discourse	Gloss=EMO|MSeg=hʌu|SpaceAfter=No
 7	!	!	PUNCT	_	_	5	punct	5:punct	SpacesAfter=\n
 
@@ -819,14 +819,14 @@
 2	khatai	khat	NOUN	NTVZ-LOC1	Case=Loc|Number=Sing	3	nmod:nmlz	3:nmod:nmlz	Gloss=bed-NTVZ-LOC1|MSeg=khat-a-iʔ
 3	ko	go	NOUN	NMLZ1	Case=Abs|Number=Sing	4	nmod:poss	4:nmod:poss	Gloss=NMLZ1|MSeg=go
 4	ubheĩbe	bheĩ	NOUN	LOC2	Case=Loc|Number=Sing|Number[psor]=Sing|Person=3	5	obl	5:obl	Gloss=3SG.POSS-under-LOC2|MSeg=u-bheĩ-beʔ
-5	sɨknalɨknancĩyehẽ	sɨkt-lɨk	VERB	_	Aspect=Perfv|Clusivity=Ex|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Refl	0	root	0:root	Gloss=squeeze-REFL-in-REFL-[1]NSG[.S].REFL-EXCL-IND.PST|MSeg=sɨkt-na-lɨk-na-ncĩ-ŋa-e|SpaceAfter=No
+5	sɨknalɨknancĩyehẽ	sɨkt-lɨk	VERB	_	Aspect=Perfv|Clusivity=Ex|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Rfl	0	root	0:root	Gloss=squeeze-REFL-in-REFL-[1]NSG[.S].REFL-EXCL-IND.PST|MSeg=sɨkt-na-lɨk-na-ncĩ-ŋa-e|SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	5:punct	SpacesAfter=\n
 
 # sent_id = grammar_Morphology_30b
 # text = Latthiŋa tomcĩsaŋa phanno.
 # english = She walks around supporting herself with a stick.
 1	Latthiŋa	latthi	NOUN	_	Case=Erg|Number=Sing	2	iobj	2:iobj	Gloss=stick-ERG|MSeg=latthi-ŋa
-2	tomcĩsaŋa	tomd	VERB	CVB.COORD	Aspect=Imp|ConvType=Coord|VerbForm=Conv|Voice=Refl	3	advcl:coord	3:advcl:coord	Gloss=support-REFL-CVB.COORD|MSeg=tomd-ncĩ-saŋa
+2	tomcĩsaŋa	tomd	VERB	CVB.COORD	Aspect=Imp|ConvType=Coord|VerbForm=Conv|Voice=Rfl	3	advcl:coord	3:advcl:coord	Gloss=support-REFL-CVB.COORD|MSeg=tomd-ncĩ-saŋa
 3	phanno	phan	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=move-IND.NPST[.3SG.S]|MSeg=phan-nok|SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
 
@@ -834,7 +834,7 @@
 # text = latthiŋa tomgoĩcĩsaŋa
 # english = walking around supporting oneself with a stick
 1	latthiŋa	latthi	NOUN	_	Case=Erg|Number=Sing	2	iobj	2:iobj	Gloss=stick-ERG|MSeg=latthi-ŋa
-2	tomgoĩcĩsaŋa	tomd-gond	VERB	AMB-CVB.COORD	Aspect=Imp|VerbForm=Conv|Voice=Refl	0	root	0:root	Gloss=support-AMB-REFL-CVB.COORD|MSeg=tomd-gond-ncĩ-saŋa|SpacesAfter=\n
+2	tomgoĩcĩsaŋa	tomd-gond	VERB	AMB-CVB.COORD	Aspect=Imp|VerbForm=Conv|Voice=Rfl	0	root	0:root	Gloss=support-AMB-REFL-CVB.COORD|MSeg=tomd-gond-ncĩ-saŋa|SpacesAfter=\n
 
 # sent_id = grammar_Morphology_31a
 # text = Cobidoko ni ukhela!
@@ -990,7 +990,7 @@
 # text = Bopnataadhennaʔãce.
 # english = You cover yourself.
 1-2	Bopnataadhennaʔãce	_	_	_	_	_	_	_	SpaceAfter=No
-1	Bopnaadhennaʔãce	bopt	VERB	COMPL1	Aspect=ComplImp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Refl	0	root	0:root	Gloss=cover-REFL-2[SG].S-COMPL1-REFL-IND.NPST-REFL|MSeg=bopt-na-a-dhend-na-ʔã-ci
+1	Bopnaadhennaʔãce	bopt	VERB	COMPL1	Aspect=ComplImp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Rfl	0	root	0:root	Gloss=cover-REFL-2[SG].S-COMPL1-REFL-IND.NPST-REFL|MSeg=bopt-na-a-dhend-na-ʔã-ci
 2	ta	ta	PART	FOC	InfStruct=Foc	1	advmod:emph	1:advmod:emph	Gloss=FOC|MSeg=ta
 3	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
 
@@ -3563,7 +3563,7 @@
 3	kha	kha	NOUN	NMLZ2	Case=Abs|Number=Sing	5	nmod	5:nmod	Gloss=NMLZ2|MSeg=kha
 4	mobailko	mobail	NOUN	GEN	Case=Abs|Number=Sing|Poss=Yes	5	nmod:poss	5:nmod:poss	Gloss=mobile-GEN|MSeg=mobail-ko
 5	ukhola	khola	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person=3	6	obj	6:obj	Gloss=3SG.POSS-bag|MSeg=u-khola
-6	haknaancĩŋa	hakt	VERB	_	Aspect=Imp|Clusivity=Ex|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Refl	0	root	0:root	Gloss=send-REFL-IND.NPST-[1]NSG.REFL-EXCL|MSeg=hakt-na-ʔã-ncĩ-ŋa
+6	haknaancĩŋa	hakt	VERB	_	Aspect=Imp|Clusivity=Ex|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Rfl	0	root	0:root	Gloss=send-REFL-IND.NPST-[1]NSG.REFL-EXCL|MSeg=hakt-na-ʔã-ncĩ-ŋa
 7	o	o	PART	RECNF	_	6	discourse	6:discourse	Gloss=RECNF|MSeg=o|SpaceAfter=No
 8	.	.	PUNCT	_	_	6	punct	6:punct	SpacesAfter=\n
 
@@ -6669,7 +6669,7 @@
 # english = Susma is shaking herself.
 1	Susma	Susma	PROPN	_	Case=Abs|Number=Sing	3	nsubj	3:nsubj	Gloss=a_name|MSeg=susma
 2	caĩ	caĩ	PART	CTOP	InfStruct=Top	1	advmod:emph	1:advmod:emph	Gloss=CTOP|MSeg=ca(h)ĩ
-3	naŋnaʔãce	ŋaŋs	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Refl	0	root	0:root	Gloss=shake-REFL-IND.NPST-REFL[.3SG.S]|MSeg=ŋaŋs-na-ʔã-ci|SpaceAfter=No
+3	naŋnaʔãce	ŋaŋs	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Rfl	0	root	0:root	Gloss=shake-REFL-IND.NPST-REFL[.3SG.S]|MSeg=ŋaŋs-na-ʔã-ci|SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
 
 # sent_id = grammar_Syntactic_184
@@ -6685,7 +6685,7 @@
 1	Huĩ	hun	PRON	_	Case=Abs|Deixis=Med|Number=Sing|PronType=Dem	3	nsubj	3:nsubj	Gloss=MED-OBL-ERG|MSeg=hun-sa-ŋa
 2	aŋreji	aŋreji	NOUN	_	Case=Abs|Number=Sing	3	obl	3:obl	Gloss=English|MSeg=ʌŋgreji
 3-4	cinnaʔaceta	_	_	_	_	_	_	_	SpaceAfter=No
-3	cinnaʔace	cind	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Refl	0	root	0:root	Gloss=teach-REFL-IND.NPST-REFL[.3SG.S]|MSeg=cind-na-ʔã-ci
+3	cinnaʔace	cind	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Rfl	0	root	0:root	Gloss=teach-REFL-IND.NPST-REFL[.3SG.S]|MSeg=cind-na-ʔã-ci
 4	ta	ta	PART	FOC	InfStruct=Foc	3	advmod:emph	3:advmod:emph	Gloss=FOC|MSeg=ta
 5	.	.	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
 
@@ -7293,7 +7293,7 @@
 2	khatai	khat	NOUN	NTVZ-LOC1	Case=Loc|Number=Sing	3	nmod:nmlz	3:nmod:nmlz	Gloss=bed-NTVZ-LOC1|MSeg=khat-a-iʔ
 3	ko	go	NOUN	NMLZ1	Case=Abs|Number=Sing	4	nmod:poss	4:nmod:poss	Gloss=NMLZ|MSeg=go
 4	ubheĩbe	bheĩ	NOUN	LOC2	Case=Loc|Number=Sing|Number[psor]=Sing|Person=3	5	obl	5:obl	Gloss=3SG.POSS-place_under-LOC2|MSeg=u-bheĩ-beʔ
-5	sɨknalɨknancĩyehẽ	sɨkt-lɨk	VERB	_	Aspect=Perfv|Clusivity=Ex|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Refl	0	root	0:root	Gloss=squeeze-REFL-IN.ITR-REFL-[1]NSG.REFL-EXCL-IND.PST|MSeg=sɨkt-na-lɨkt-na-ncĩ-ŋa-e|SpaceAfter=No
+5	sɨknalɨknancĩyehẽ	sɨkt-lɨk	VERB	_	Aspect=Perfv|Clusivity=Ex|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Rfl	0	root	0:root	Gloss=squeeze-REFL-IN.ITR-REFL-[1]NSG.REFL-EXCL-IND.PST|MSeg=sɨkt-na-lɨkt-na-ncĩ-ŋa-e|SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	5:punct	SpacesAfter=\n
 
 # sent_id = grammar_Syntactic_221a
@@ -12855,7 +12855,7 @@
 1	Rato-rato	rato	ADJ	INTENS	Red=Yes	2	acl:nmlz	2:acl:nmlz	Gloss=red~INTENS|MSeg=rat̪o~rat̪o
 2	kha	kha	NOUN	NMLZ2	Case=Abs|Number=Sing	3	nmod	3:nmod	Gloss=NMLZ2|MSeg=kha
 3	rumalŋa	rumal	NOUN	_	Case=Erg|Number=Sing	4	obl	4:obl	Gloss=kerchief-ERG|MSeg=rumal-ŋa
-4	kamnadhenaŋnace	kam	VERB	COMPL1	Aspect=ComplPerf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Refl	0	root	0:root	Gloss=tie-REFL-COMPL1-REFL-PRF-REFL-REFL-IND.PST[.3SG.S]|MSeg=kam-na-dhend-na-ŋs-na-ci-e|SpaceAfter=No
+4	kamnadhenaŋnace	kam	VERB	COMPL1	Aspect=ComplPerf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Rfl	0	root	0:root	Gloss=tie-REFL-COMPL1-REFL-PRF-REFL-REFL-IND.PST[.3SG.S]|MSeg=kam-na-dhend-na-ŋs-na-ci-e|SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
 
 # sent_id = grammar_Reference_157a
@@ -15361,7 +15361,7 @@
 # text = Theke ateknaʔãce?
 # english = Why do you hide (yourself)?
 1	Theke	theke	ADV	_	PronType=Int	2	advmod	2:advmod	Gloss=why|MSeg=theke
-2	ateknaʔãce	tek	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Refl	0	root	0:root	Gloss=2[SG].S-hide-REFL-IND.NPST-REFL|MSeg=a-tek-nã-ʔã-ci|SpaceAfter=No
+2	ateknaʔãce	tek	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Rfl	0	root	0:root	Gloss=2[SG].S-hide-REFL-IND.NPST-REFL|MSeg=a-tek-nã-ʔã-ci|SpaceAfter=No
 3	?	?	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
 
 # sent_id = grammar_Reference_266
@@ -15395,7 +15395,7 @@
 1-2	Appita	_	_	_	_	_	_	_	_
 1	Appi	appi	ADV	_	_	3	advmod	3:advmod	Gloss=self|MSeg=appi
 2	ta	ta	PART	FOC	InfStruct=Foc	1	advmod:emph	1:advmod:emph	Gloss=FOC|MSeg=ta
-3	atɨŋnaʔãce	tɨŋs	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Refl	0	root	0:root	Gloss=2[SG].S-kick-REFL-IND.NPST-REFL|MSeg=a-tɨŋs-na-ʔã-ci
+3	atɨŋnaʔãce	tɨŋs	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Rfl	0	root	0:root	Gloss=2[SG].S-kick-REFL-IND.NPST-REFL|MSeg=a-tɨŋs-na-ʔã-ci
 4	aŋ	aŋ	PART	COLLAB	_	3	discourse	3:discourse	Gloss=COLLAB|MSeg=aŋ|SpaceAfter=No
 5	.	.	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
 
@@ -15477,7 +15477,7 @@
 6-7	apta	_	_	_	_	_	_	_	_
 6	ap	appi	ADV	_	_	8	advmod	8:advmod	Gloss=self|MSeg=appi
 7	ta	ta	PART	FOC	InfStruct=Foc	6	advmod:emph	6:advmod:emph	Gloss=FOC|MSeg=ta
-8	apamnaceʔ	pamd	VERB	_	Aspect=Perfv|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Refl	4	conj	4:conj	Gloss=2[SG].S-scratch-REFL-REFL-IND.PST|MSeg=a-pamd-na-ci-e|SpaceAfter=No
+8	apamnaceʔ	pamd	VERB	_	Aspect=Perfv|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Rfl	4	conj	4:conj	Gloss=2[SG].S-scratch-REFL-REFL-IND.PST|MSeg=a-pamd-na-ci-e|SpaceAfter=No
 9	?	?	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
 
 # sent_id = grammar_Reference_271b
@@ -15531,7 +15531,7 @@
 2-3	cuwalo	_	_	_	_	_	_	_	_
 2	cuwa	cuwa	NOUN	_	Case=Abs|Number=Sing	4	obj	4:obj	Gloss=water|MSeg=cuwa
 3	lo	lo	PART	SURP	InfStruct=Foc	2	advmod:emph	2:advmod:emph	Gloss=SURP|MSeg=lo
-4	pinaʔancĩyã	pid	VERB	_	Aspect=Imp|Clusivity=Ex|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Refl	0	root	0:root	Gloss=give-REFL-IND.NPST-[1]NSG.REFL-EXCL|MSeg=pid-na-ʔã-ncĩ-ŋa|SpaceAfter=No
+4	pinaʔancĩyã	pid	VERB	_	Aspect=Imp|Clusivity=Ex|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Rfl	0	root	0:root	Gloss=give-REFL-IND.NPST-[1]NSG.REFL-EXCL|MSeg=pid-na-ʔã-ncĩ-ŋa|SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
 
 # sent_id = grammar_Reference_275
@@ -15542,7 +15542,7 @@
 2	huŋ	hun	DET	_	Deixis=Med|PronType=Dem	3	det:nmlz	3:det:nmlz	Gloss=MED|MSeg=hun
 3	go	go	NOUN	NMLZ1	Case=Abs|Number=Sing	5	nsubj	5:nsubj	Gloss=NMLZ1|MSeg=go
 4	hani	hani	PRON	_	Case=Abs,Erg|Number=Plur|Person=2|PronType=Prs	5	iobj	5:iobj	Gloss=2PL|MSeg=hani
-5	lunanciya	lud	VERB	_	Aspect=Imp|Clusivity=Ex|Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Refl	0	root	0:root	Gloss=tell-REFL-[1]NSG.REFL-EXCL|MSeg=lud-na-ncĩ-ŋa
+5	lunanciya	lud	VERB	_	Aspect=Imp|Clusivity=Ex|Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Rfl	0	root	0:root	Gloss=tell-REFL-[1]NSG.REFL-EXCL|MSeg=lud-na-ncĩ-ŋa
 6	kina	kina	CCONJ	SEQ	_	8	cc	8:cc	Gloss=SEQ|MSeg=kina
 7	them	them	PRON	_	Case=Abs,Erg|Number=Sing|PronType=Int	8	nmod:nmlz	8:nmod:nmlz	Gloss=what|MSeg=them
 8	kha	kha	NOUN	NMLZ2	Case=Abs|Number=Sing	5	conj	5:conj	Gloss=NMLZ2|MSeg=kha|SpaceAfter=No
@@ -15555,14 +15555,14 @@
 2	tin	tin	NUM	_	NumType=Card	3	nmod	3:nmod	Gloss=three|MSeg=t̪in
 3	nambarbeʔŋa	nambar	NOUN	_	Case=LocErg|Number=Sing	5	obl	5:obl	Gloss=number-LOC-ERG|MSeg=n̪ʌmbʌr-beʔ-ŋa
 4	baiʔ	ba	ADV	_	AdvType=Loc|Case=Loc|Deixis=Prox|PronType=Dem	5	advmod	5:advmod	Gloss=PROX-LOC|MSeg=ba-iʔ
-5	soiʔyãancɨŋ	sott	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Refl	0	root	0:root	Gloss=shift-1SG.S-IND.NPST-1SG-REFL-1SG|MSeg=sott-ŋa-ʔã-ŋ-ci-ŋ|SpaceAfter=No
+5	soiʔyãancɨŋ	sott	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Rfl	0	root	0:root	Gloss=shift-1SG.S-IND.NPST-1SG-REFL-1SG|MSeg=sott-ŋa-ʔã-ŋ-ci-ŋ|SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	5:punct	SpacesAfter=\n
 
 # sent_id = grammar_Reference_277
 # text = Kaʔnacekha.
 # english = You might choke.
 1-2	Kaʔnacekha	_	_	_	_	_	_	_	SpaceAfter=No
-1	Kaʔnace	kakt	VERB	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Refl	2	acl:nmlz	2:acl:nmlz	Gloss=cross-REFL-[.SUBJ.NPST.3SG.S.]REFL|MSeg=kakt-na-ci
+1	Kaʔnace	kakt	VERB	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Rfl	2	acl:nmlz	2:acl:nmlz	Gloss=cross-REFL-[.SUBJ.NPST.3SG.S.]REFL|MSeg=kakt-na-ci
 2	kha	kha	NOUN	NMLZ2	Case=Abs|Number=Sing	0	root	0:root	Gloss=NMLZ2|MSeg=kha
 3	.	.	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
 
@@ -15576,7 +15576,7 @@
 # text = Kɨnadhennaaceyaŋ, nano.
 # english = She's lying down on the floor and acting up.
 1-2	Kɨnadhennaaceyaŋ	_	_	_	_	_	_	_	SpaceAfter=No
-1	Kɨnadhennaace	kɨr	VERB	COMPL1	Aspect=ComplImp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Refl	0	root	0:root	Gloss=roll-REFL-COMPL1-REFL-IND.NPST[.3SG.S]-REFL|MSeg=kɨr-na-dhend-na-ʔã-ci
+1	Kɨnadhennaace	kɨr	VERB	COMPL1	Aspect=ComplImp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Rfl	0	root	0:root	Gloss=roll-REFL-COMPL1-REFL-IND.NPST[.3SG.S]-REFL|MSeg=kɨr-na-dhend-na-ʔã-ci
 2	yaŋ	yaŋ	PART	ADD	InfStruct=Foc	1	advmod:emph	1:advmod:emph	Gloss=ADD|MSeg=yaŋ
 3	,	,	PUNCT	_	_	4	punct	4:punct	_
 4	nano	nad	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	1:parataxis	Gloss=refuse-IND.NPST[.3SG.S]|MSeg=nad-nok|SpaceAfter=No
@@ -15678,21 +15678,21 @@
 # english = Jogendra made himself watch Anita. / *Joge made Anita watch herself.
 1	Joge	Jogendra	PROPN	NICK	Case=Abs|Number=Sing	3	nsubj	3:nsubj	Gloss=a_name-NICK|MSeg=jogen̪d̪rʌ-e
 2	Anita	Anita	PROPN	_	Case=Abs|Number=Sing	3	obj	3:obj	Gloss=a_name|MSeg=ʌnit̪a
-3	khaŋmetnace	khag	VERB	_	Aspect=Perfv|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=CauRefl	0	root	0:root	Gloss=watch-CAUS-REFL-PST-REFL-IND.PST[.3SG.S]|MSeg=khag-mett-na-a-ci-e|SpaceAfter=No
+3	khaŋmetnace	khag	VERB	_	Aspect=Perfv|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=CauRfl	0	root	0:root	Gloss=watch-CAUS-REFL-PST-REFL-IND.PST[.3SG.S]|MSeg=khag-mett-na-a-ci-e|SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
 
 # sent_id = grammar_Reference_282
 # text = Uttuʔni soʔnaʔacenɨŋ.
 # english = She doesnt move herself towards up there.
 1	Uttuʔni	to	ADV	DEM.UP-DIR	AdvType=Loc|Case=Loc|Deixis=Remt|PronType=Dem|Reach=Remote	2	advmod	2:advmod	Gloss=REMOTE-DEM.UP-DIR|MSeg=u-to-ʔni
-2	soʔnaʔacenɨŋ	sott	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Refl	0	root	0:root	Gloss=move-REFL-IND.NPST[.3SG.S]-REFL-NEG|MSeg=sott-na-ʔã-ci-nɨŋ|SpaceAfter=No
+2	soʔnaʔacenɨŋ	sott	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Rfl	0	root	0:root	Gloss=move-REFL-IND.NPST[.3SG.S]-REFL-NEG|MSeg=sott-na-ʔã-ci-nɨŋ|SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	2:punct	SpacesAfter=\n
 
 # sent_id = grammar_Reference_283
 # text = Latthiŋa tomcĩsaŋa phannokha.
 # english = He walks supporting himself with a stick.
 1	Latthiŋa	latthi	NOUN	_	Case=Erg|Number=Sing	2	iobj	2:iobj	Gloss=stick-ERG|MSeg=latthi-ŋa
-2	tomcĩsaŋa	tomd	VERB	CVB.COORD	Aspect=Imp|ConvType=Coord|VerbForm=Conv|Voice=Refl	3	advcl:coord	3:advcl:coord	Gloss=support-REFL-CVB.COORD|MSeg=tomd-cĩ-saŋa
+2	tomcĩsaŋa	tomd	VERB	CVB.COORD	Aspect=Imp|ConvType=Coord|VerbForm=Conv|Voice=Rfl	3	advcl:coord	3:advcl:coord	Gloss=support-REFL-CVB.COORD|MSeg=tomd-cĩ-saŋa
 3-4	phannokha	_	_	_	_	_	_	_	SpaceAfter=No
 3	phanno	phan	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	acl:nmlz	4:acl:nmlz	Gloss=walk-IND.NPST[.3SG.S]|MSeg=phan-nok
 4	kha	kha	NOUN	NMLZ2	Case=Abs|Number=Sing	0	root	0:root	Gloss=NMLZ2|MSeg=kha
@@ -15706,7 +15706,7 @@
 3	bhasa	bhasa	NOUN	_	Case=Abs|Number=Sing	5	obj	5:obj	Gloss=language|MSeg=bhasa
 4	huniummaiʔyã	umma	NOUN	LOC1	Case=LocErg|Number=Sing|Number[psor]=Plur|Person=3	5	obl	5:obl	Gloss=3PL.POSS-mother-LOC1-ERG|MSeg=huni-umma-iʔ-ŋa
 5-6	ucinnaʔancĩmo	_	_	_	_	_	_	_	_
-5	ucinnaʔancĩ	cind	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Refl	0	root	0:root	Gloss=3[PL].S-teach-REFL-IND.NPST-NSG.REFL|MSeg=u-cind-na-ʔa-ncĩ
+5	ucinnaʔancĩ	cind	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Rfl	0	root	0:root	Gloss=3[PL].S-teach-REFL-IND.NPST-NSG.REFL|MSeg=u-cind-na-ʔa-ncĩ
 6	mo	mo	SCONJ	CIT	_	5	mark	5:mark	Gloss=CIT|MSeg=mo
 7	kina	kina	CCONJ	SEQ	_	5	cc	5:cc	Gloss=SEQ|MSeg=kina
 8	them	them	PART	INFORM	_	5	discourse	5:discourse	Gloss=INFORM|MSeg=them
@@ -15724,7 +15724,7 @@
 # sent_id = grammar_Reference_286
 # text = Immetnaŋnace, aya!
 # english = Oh dear, she's put herself to sleep!
-1	Immetnaŋnace	ims	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=CauRefl	0	root	0:root	Gloss=sleep-CAUS-REFL-PRF-REFL-REFL-IND.PST[.3SG.S]|MSeg=ims-mett-na-ŋs-na-ci-e|SpaceAfter=No
+1	Immetnaŋnace	ims	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=CauRfl	0	root	0:root	Gloss=sleep-CAUS-REFL-PRF-REFL-REFL-IND.PST[.3SG.S]|MSeg=ims-mett-na-ŋs-na-ci-e|SpaceAfter=No
 2	,	,	PUNCT	_	_	3	punct	3:punct	_
 3	aya	aiya	INTJ	_	_	1	discourse	1:discourse	Gloss=oh|MSeg=aya|SpaceAfter=No
 4	!	!	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
@@ -15733,7 +15733,7 @@
 # text = Lapmeʔnaccepho huŋgo pheŋniba.
 # english = The deaf guy (I) made him (J) hold onto himself (I) .
 1-2	Lapmeʔnaccepho	_	_	_	_	_	_	_	_
-1	Lapmeʔnacce	lapt	VERB	_	Aspect=Perfv|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=CauRefl	0	root	0:root	Gloss=hold-CAUS-REFL-PST-REFL-IND.PST[.3SG.S]|MSeg=lab-mett-na-a-ci-e
+1	Lapmeʔnacce	lapt	VERB	_	Aspect=Perfv|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=CauRfl	0	root	0:root	Gloss=hold-CAUS-REFL-PST-REFL-IND.PST[.3SG.S]|MSeg=lab-mett-na-a-ci-e
 2	pho	pho	AUX	REP	Evident=Nfh	1	aux	1:aux	Gloss=REP|MSeg=pho
 3-4	huŋgo	_	_	_	_	_	_	_	_
 3	huŋ	hun	DET	_	Deixis=Med|PronType=Dem	4	det:nmlz	4:det:nmlz	Gloss=MED|MSeg=hun
@@ -15747,14 +15747,14 @@
 1-2	Yogo	_	_	_	_	_	_	_	_
 1	Yo	yo	DET	DEM.LVL	Deixis=Remt|PronType=Dem	2	det:nmlz	2:det:nmlz	Gloss=DEM.LVL|MSeg=yo
 2	go	go	NOUN	NMLZ1	Case=Abs|Number=Sing	3	obl	3:obl	Gloss=NMLZ1|MSeg=go
-3	khumeʔnaʔãce	khur	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=CauRefl	0	root	0:root	Gloss=carry-CAUS-REFL-IND.NPST-REFL[.3SG.S]|MSeg=khur-mett-na-ʔã-ci|SpaceAfter=No
+3	khumeʔnaʔãce	khur	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=CauRfl	0	root	0:root	Gloss=carry-CAUS-REFL-IND.NPST-REFL[.3SG.S]|MSeg=khur-mett-na-ʔã-ci|SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
 
 # sent_id = grammar_Reference_289
 # text = Luʔmeʔnacepho.
 # english = I heard she got herself smeared. / ?She made herself smear others.
 1-2	Luʔmeʔnacepho	_	_	_	_	_	_	_	SpaceAfter=No
-1	Luʔmeʔnace	lupt	VERB	_	Aspect=Perfv|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=CauRefl	0	root	0:root	Gloss=smear-CAUS-REFL-PST-REFL-IND.PST[.3SG.S]|MSeg=lupt-mett-na-a-ci-e
+1	Luʔmeʔnace	lupt	VERB	_	Aspect=Perfv|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=CauRfl	0	root	0:root	Gloss=smear-CAUS-REFL-PST-REFL-IND.PST[.3SG.S]|MSeg=lupt-mett-na-a-ci-e
 2	pho	pho	AUX	REP	Evident=Nfh	1	aux	1:aux	Gloss=REP|MSeg=pho
 3	.	.	PUNCT	_	_	1	punct	1:punct	SpacesAfter=\n
 
@@ -15763,7 +15763,7 @@
 # english = Jogendra (I) made the doctor (J) see himself (I) . (A = base P)  / Jogendra (I) made himself (I) see the doctor (J) . (A = causee)
 1	Joge	Jogendra	PROPN	NICK	Case=Abs|Number=Sing	3	nsubj	3:nsubj	Gloss=a_name-NICK|MSeg=jogen̪d̪rʌ-e
 2	daktar	daktar	NOUN	_	Case=Abs|Number=Sing	3	obj:caus	3:obj:caus	Gloss=doctor|MSeg=daktʌr
-3	khaŋmetnace	khag	VERB	_	Aspect=Perfv|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=CauRefl	0	root	0:root	Gloss=see-CAUS-REFL-PST-REFL-IND.PST[.3SG.S]|MSeg=khag-mett-na-a-ci-e|SpaceAfter=No
+3	khaŋmetnace	khag	VERB	_	Aspect=Perfv|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=CauRfl	0	root	0:root	Gloss=see-CAUS-REFL-PST-REFL-IND.PST[.3SG.S]|MSeg=khag-mett-na-a-ci-e|SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
 
 # sent_id = grammar_Reference_291
@@ -15772,7 +15772,7 @@
 1	Anitaŋa	Anita	PROPN	_	Case=Erg|Number=Sing	4	nsubj	4:nsubj	Gloss=a_name-ERG|MSeg=ʌnit̪a-ŋa
 2	Lokendranɨŋ	Lokendra	PROPN	_	Case=Com|Number=Sing	3	nmod	3:nmod	Gloss=a_name-COM|MSeg=loken̪d̪rʌ-nɨŋ
 3	Lakhmannɨŋ	Lakhman	PROPN	_	Case=Com|Number=Sing	4	obj:caus	4:obj:caus	Gloss=a_name-COM|MSeg=lakhmʌn-nɨŋ
-4	mɨkseĩkhaŋmeiʔkameiʔ	mɨkseĩ-khag	VERB	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=CauRefl	0	root	0:root	Gloss=recognize-STEM-CAUS-REFL-CAUS|MSeg=mɨkseĩ-khag-mett-ka-mett
+4	mɨkseĩkhaŋmeiʔkameiʔ	mɨkseĩ-khag	VERB	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=CauRfl	0	root	0:root	Gloss=recognize-STEM-CAUS-REFL-CAUS|MSeg=mɨkseĩ-khag-mett-ka-mett
 5	lumettuce	lus	AUX	_	Aspect=Perfv|Mood=Ind|Number=Sing|Number[p]=Plur|Person=3|Person[p]=3|Tense=Past|VerbForm=Fin|Voice=Cau	4	aux	4:aux	Gloss=AUX-CAUS-3.P-3NSG.P-IND.PST[.3SG.A]|MSeg=lus-mett-u-ci-e|SpaceAfter=No
 6	.	.	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
 
@@ -15888,7 +15888,7 @@
 2-3	hokkoi-hokkoi	_	_	_	_	_	_	_	_
 2	hok	hok	DET	QST	PronType=Int	3	det	3:det	Gloss=QST|MSeg=hoC
 3	koi	go	NOUN	NMLZ1-LOC1-DISTR	Case=Loc|Number=Sing|Red=Yes	4	obl	4:obl	Gloss=NMLZ1-LOC1~DISTR|MSeg=go-iʔ~hokkoiʔ
-4	teknadhennaceʔ	tek	VERB	COMPL1	Aspect=ComplPerfv|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Refl	0	root	0:root	Gloss=hide-REFL-COMPL1-REFL-REFL-IND.PST[.3SG.S]|MSeg=tek-nã-dhend-nã-ci-e|SpaceAfter=No
+4	teknadhennaceʔ	tek	VERB	COMPL1	Aspect=ComplPerfv|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Rfl	0	root	0:root	Gloss=hide-REFL-COMPL1-REFL-REFL-IND.PST[.3SG.S]|MSeg=tek-nã-dhend-nã-ci-e|SpaceAfter=No
 5	?	?	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
 
 # sent_id = grammar_Reference_299a
@@ -18832,7 +18832,7 @@
 1	Tara	tara	CCONJ	_	_	5	cc	5:cc	Gloss=but|MSeg=t̪ʌrʌ
 2	hunceŋa	hun	PRON	_	Case=Erg|Deixis=Med|Number=Plur|PronType=Dem	3	nsubj	3:nsubj	Gloss=MED-NSG-ERG|MSeg=hun-ce-ŋa
 3-4	keŋaseʔnacego	_	_	_	_	_	_	_	_
-3	keŋaseʔnace	keŋs-set	VERB	_	Aspect=Perfv|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Refl	4	acl:nmlz	4:acl:nmlz	Gloss=hang-REFL-PST-kill-REFL-[SBJV.]PST-REFL[.3SG.S]|MSeg=keŋs-na-a-set-na-a-ce
+3	keŋaseʔnace	keŋs-set	VERB	_	Aspect=Perfv|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Rfl	4	acl:nmlz	4:acl:nmlz	Gloss=hang-REFL-PST-kill-REFL-[SBJV.]PST-REFL[.3SG.S]|MSeg=keŋs-na-a-set-na-a-ce
 4	go	go	NOUN	NMLZ1	Case=Abs|Number=Sing	5	obj	5:obj	Gloss=NMLZ1|MSeg=go
 5-6	umainiyoktepho	_	_	_	_	_	_	_	SpaceAfter=No
 5	umainiyokte	ŋis	VERB	_	Aspect=Perfv|Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=3[PL].A-NEG-know-NEG-IND.PST|MSeg=u-mai-ŋis-yokt-e
@@ -24089,9 +24089,9 @@
 # text = Tommancĩyaŋ ahinaʔacenɨŋ?
 # english = Can't you prop yourself up?
 1-2	Tommancĩyaŋ	_	_	_	_	_	_	_	_
-1	Tommancĩ	tomd	VERB	_	Aspect=Imp|Case=Abs|VerbForm=Inf|Voice=Refl	3	xcomp	3:xcomp	Gloss=support-INF-REFL|MSeg=tomd-ma-ncĩ
+1	Tommancĩ	tomd	VERB	_	Aspect=Imp|Case=Abs|VerbForm=Inf|Voice=Rfl	3	xcomp	3:xcomp	Gloss=support-INF-REFL|MSeg=tomd-ma-ncĩ
 2	yaŋ	yaŋ	PART	ADD	InfStruct=Foc	1	advmod:emph	1:advmod:emph	Gloss=ADD|MSeg=yaŋ
-3	ahinaʔacenɨŋ	hid	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Refl	0	root	0:root	Gloss=2[SG].S-can-REFL-IND.NPST-REFL-NEG|MSeg=a-hid-na-ʔã-ci-nɨŋ|SpaceAfter=No
+3	ahinaʔacenɨŋ	hid	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Rfl	0	root	0:root	Gloss=2[SG].S-can-REFL-IND.NPST-REFL-NEG|MSeg=a-hid-na-ʔã-ci-nɨŋ|SpaceAfter=No
 4	?	?	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
 
 # sent_id = grammar_Complex_233a
