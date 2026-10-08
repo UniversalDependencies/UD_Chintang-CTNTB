@@ -7,7 +7,7 @@
 1	Huŋ	hun	DET	_	Deixis=Med|PronType=Dem	2	det:nmlz	2:det:nmlz	Gloss=MED|MSeg=hun
 2	go	go	NOUN	NMLZ1	Case=Abs|Number=Sing	3	nmod	3:nmod	Gloss=NMLZ1|MSeg=go
 3	haniwahum	wahum	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Plur|Person=2	4	obj	4:obj	Gloss=2PL.POSS-calabash|MSeg=hani-wahum
-4	koptubidaʔ	kopt-pid	kopt-pid	BEN1	Aspect=Perfv|Mood=Imp|Number=Sing|Number[p]=Sing|Person=2|Person[p]=3|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=pick_up_for-3[SG].P-BEN-IMP[.2SG.A]|MSeg=kopt-u-pid-a|SpaceAfter=No
+4	koptubidaʔ	kopt-pid	VERB	BEN1	Aspect=Perfv|Mood=Imp|Number=Sing|Number[p]=Sing|Person=2|Person[p]=3|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=pick_up_for-3[SG].P-BEN-IMP[.2SG.A]|MSeg=kopt-u-pid-a|SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
 
 # sent_id = grammar_Introduction_1b
@@ -2568,7 +2568,7 @@
 2-3	toiʔko	_	_	_	_	_	_	_	_
 2	toiʔ	to	ADV	DEM.UP-LOC1	AdvType=Loc|Case=Loc|Deixis=Remt|PronType=Dem	3	advmod:nmlz	3:advmod:nmlz	Gloss=DEM.UP-LOC1|MSeg=to-iʔ
 3	ko	go	NOUN	NMLZ1	Case=Abs|Number=Sing	4	nmod	4:nmod	Gloss=NMLZ1|MSeg=go
-4	thitta	thitta	NUM	_	Animacy=Nhum|Case=Abs|NumType=Card|Number=Sing	5	obj	5:obj	Gloss=one|MSeg=thitta
+4	thitta	thitta	NUM	_	Animacy=Nhum|Case=Abs|Number=Sing|NumType=Card	5	obj	5:obj	Gloss=one|MSeg=thitta
 5	cama	ca	VERB	_	Aspect=Imp|Case=Abs|VerbForm=Inf|Voice=Act	6	xcomp	6:xcomp	Gloss=eat-INF|MSeg=ca-ma
 6	kondaŋseʔ	kond	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=must-PST-PRF-IND.PST[.3SG.S]|MSeg=kond-a-ŋs-e|SpaceAfter=No
 7	!	!	PUNCT	_	_	6	punct	6:punct	SpacesAfter=\n
@@ -3328,8 +3328,8 @@
 # sent_id = grammar_Morphology_158a
 # text = Hicce sumce appaŋa inanduceʔ.
 # text_en = Dad sold two or three.
-1	Hicce	hicce	NUM	_	Animacy=Nhum|Case=Abs|NumType=Card|Number=Sing	4	obj	4:obj	Gloss=two|MSeg=hicce
-2	sumce	sumce	NUM	_	Animacy=Nhum|Case=Abs|NumType=Card|Number=Sing	1	conj	1:conj	Gloss=three|MSeg=sumce
+1	Hicce	hicce	NUM	_	Animacy=Nhum|Case=Abs|Number=Sing|NumType=Card	4	obj	4:obj	Gloss=two|MSeg=hicce
+2	sumce	sumce	NUM	_	Animacy=Nhum|Case=Abs|Number=Sing|NumType=Card	1	conj	1:conj	Gloss=three|MSeg=sumce
 3	appaŋa	pa	NOUN	_	Case=Erg|Number=Sing|Number[psor]=Sing|Person=1	4	nsubj	4:nsubj	Gloss=1SG.POSS-father-ERG|MSeg=a-pa-ŋa
 4	inanduceʔ	in	VERB	COMPL1	Aspect=ComplPerfv|Mood=Ind|Number=Sing|Number[p]=Plur|Person=3|Person[p]=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=sell-3.P-COMPL1-3.P-3NSG.P-IND.PST[.3SG.A]|MSeg=in-u-dhend-u-ci-e|SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
@@ -3347,7 +3347,7 @@
 # text = Sumbhaŋta sɨŋbe ukhadaloĩsaŋse.
 # text_en = All three have gone out to search for firewood.
 1-2	Sumbhaŋta	_	_	_	_	_	_	_	_
-1	Sumbhaŋ	sumce	NUM	_	Animacy=Hum|Case=Abs|NumType=Card|Number=Sing	4	nsubj	4:nsubj	Gloss=three-HUM.CLF|MSeg=sum-paŋ
+1	Sumbhaŋ	sumce	NUM	_	Animacy=Hum|Case=Abs|Number=Sing|NumType=Card	4	nsubj	4:nsubj	Gloss=three-HUM.CLF|MSeg=sum-paŋ
 2	ta	ta	PART	FOC	InfStruct=Foc	1	advmod:emph	1:advmod:emph	Gloss=FOC|MSeg=ta
 3	sɨŋbe	sɨŋ	NOUN	LOC2	Case=Loc|Number=Sing	4	obl	4:obl	Gloss=wood-LOC2|MSeg=sɨŋ-beʔ
 4	ukhadaloĩsaŋse	khat-loĩs	VERB	OUT	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=3[PL].S-go-PST-out1-PST-PRF-IND.PST|MSeg=u-khat-a-loĩs-a-ŋs-e|SpaceAfter=No
@@ -3698,7 +3698,7 @@
 # text = Thittatago them atisoko?
 # text_en = Why do you put in the single one?
 1-3	Thittatago	_	_	_	_	_	_	_	_
-1	Thitta	thitta	NUM	_	Animacy=Nhum|Case=Abs|NumType=Card|Number=Sing	3	nmod:nmlz	3:nmod:nmlz	Gloss=one|MSeg=thitta
+1	Thitta	thitta	NUM	_	Animacy=Nhum|Case=Abs|Number=Sing|NumType=Card	3	nmod:nmlz	3:nmod:nmlz	Gloss=one|MSeg=thitta
 2	ta	ta	PART	FOC	InfStruct=Foc	1	advmod:emph	1:advmod:emph	Gloss=FOC|MSeg=ta
 3	go	go	NOUN	NMLZ1	Case=Abs|Number=Sing	5	obj	5:obj	Gloss=NMLZ1|MSeg=go
 4	them	them	PRON	_	Case=Abs,Erg|Number=Sing|PronType=Int	5	obl	5:obl	Gloss=what|MSeg=them
@@ -6203,8 +6203,8 @@
 # sent_id = grammar_Syntactic_163b
 # text = Carjana pãcjana uli kina khaŋnummace ukonno hola.
 # text_en = Once there are four or five people, they will probably have to be shown [it].
-1	Carjana	car	NUM	_	Animacy=Hum|Case=Abs|NumType=Card|Number=Sing	3	nsubj	3:nsubj	Gloss=four-HUM|MSeg=car-jʌna
-2	pãcjana	pãc	NUM	_	Animacy=Hum|Case=Abs|NumType=Card|Number=Sing	1	conj	1:conj	Gloss=five-HUM|MSeg=pãc-jʌna
+1	Carjana	car	NUM	_	Animacy=Hum|Case=Abs|Number=Sing|NumType=Card	3	nsubj	3:nsubj	Gloss=four-HUM|MSeg=car-jʌna
+2	pãcjana	pãc	NUM	_	Animacy=Hum|Case=Abs|Number=Sing|NumType=Card	1	conj	1:conj	Gloss=five-HUM|MSeg=pãc-jʌna
 3	uli	lis	VERB	_	Aspect=Imp|Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl	6:advcl	Gloss=3[PL].S-be[.SUBJ.NPST]|MSeg=u-lis
 4	kina	kina	CCONJ	SEQ	_	3	cc	3:cc	Gloss=SEQ|MSeg=kina
 5	khaŋnummace	khag	VERB	_	Aspect=Imp|Case=Abs|Number[p]=Plur|Person[p]=3|VerbForm=Inf|Voice=Cau	6	xcomp	6:xcomp	Gloss=see-CAUS-INF-3NSG.P|MSeg=khag-numd-ma-ci
@@ -7919,7 +7919,7 @@
 3	[...]	[...]	PUNCT	_	_	2	punct	2:punct	_
 4	wada	wad	NOUN	NTVZ	Case=Abs|Number=Sing	7	obl	7:obl	Gloss=ward-NTVZ|MSeg=ward-a
 5	nambar	nambar	NOUN	_	Case=Abs|Number=Sing	4	nmod	4:nmod	Gloss=number|MSeg=nʌmbʌr
-6	duibe	dui	NUM	LOC2	Case=Loc|NumType=Card|Number=Sing	5	nmod	5:nmod	Gloss=two-LOC2|MSeg=d̪ui-beʔ
+6	duibe	dui	NUM	LOC2	Case=Loc|Number=Sing|NumType=Card	5	nmod	5:nmod	Gloss=two-LOC2|MSeg=d̪ui-beʔ
 7-8	linokha	_	_	_	_	_	_	_	SpaceAfter=No
 7	lino	lis	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	acl:nmlz	8:acl:nmlz	Gloss=become-IND.NPST[.3SG.S]|MSeg=lis-nok
 8	kha	kha	NOUN	NMLZ2	Case=Abs|Number=Sing	0	root	0:root	Gloss=NMLZ2|MSeg=kha
@@ -8199,7 +8199,7 @@
 8	,	,	PUNCT	_	_	9	punct	9:punct	_
 9	wada	wad	NOUN	NTVZ	Case=Abs|Number=Sing	3	flat	3:flat	Gloss=ward-NTVZ|MSeg=ward-a
 10	nambar	nambar	NOUN	_	Case=Abs|Number=Sing	9	nmod	9:nmod	Gloss=number|MSeg=nʌmbʌr
-11	duibe	dui	NUM	LOC2	Case=Loc|NumType=Card|Number=Sing	10	nmod	10:nmod	Gloss=two-LOC2|MSeg=d̪ui-beʔ
+11	duibe	dui	NUM	LOC2	Case=Loc|Number=Sing|NumType=Card	10	nmod	10:nmod	Gloss=two-LOC2|MSeg=d̪ui-beʔ
 12-13	linokha	_	_	_	_	_	_	_	SpaceAfter=No
 12	lino	lis	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	acl:nmlz	13:acl:nmlz	Gloss=become-IND.NPST[.3SG.S]|MSeg=lis-nok
 13	kha	kha	NOUN	NMLZ2	Case=Abs|Number=Sing	0	root	0:root	Gloss=NMLZ2|MSeg=kha
@@ -8336,7 +8336,7 @@
 1-2	Huĩyaŋ	_	_	_	_	_	_	_	_
 1	Huĩ	hun	PRON	_	Case=Abs|Deixis=Med|Number=Sing|PronType=Dem	3	nsubj	3:nsubj	Gloss=MED|MSeg=huĩ
 2	yaŋ	yaŋ	PART	ADD	InfStruct=Foc	1	advmod:emph	1:advmod:emph	Gloss=ADD|MSeg=yaŋ
-3	noube	nau	NUM	LOC2	Case=Loc|NumType=Card|Number=Sing	4	acl:nmlz	4:acl:nmlz	Gloss=nine-LOC2|MSeg=n̪ʌu-beʔ
+3	noube	nau	NUM	LOC2	Case=Loc|Number=Sing|NumType=Card	4	acl:nmlz	4:acl:nmlz	Gloss=nine-LOC2|MSeg=n̪ʌu-beʔ
 4	kha	kha	NOUN	NMLZ2	Case=Abs|Number=Sing	0	root	0:root	Gloss=NMLZ2|MSeg=kha
 5	elo	elo	CCONJ	DISJ2	_	4	conj	4:conj	Gloss=DISJ2|MSeg=elo|SpaceAfter=No
 6	?	?	PUNCT	_	_	4	punct	4:punct	SpacesAfter=\n
@@ -8802,7 +8802,7 @@
 1-2	Akkayaŋ	_	_	_	_	_	_	_	_
 1	Akka	akka	PRON	_	Case=Abs,Erg|Number=Sing|Person=1|PronType=Prs	4	iobj	4:iobj	Gloss=1SG|MSeg=akka
 2	yaŋ	yaŋ	PART	ADD	InfStruct=Foc	1	advmod:emph	1:advmod:emph	Gloss=ADD|MSeg=yaŋ
-3	thitta	thitta	NUM	_	Animacy=Nhum|Case=Abs|NumType=Card|Number=Sing	4	obj	4:obj	Gloss=one|MSeg=thitta
+3	thitta	thitta	NUM	_	Animacy=Nhum|Case=Abs|Number=Sing|NumType=Card	4	obj	4:obj	Gloss=one|MSeg=thitta
 4-5	pidahaʔna	_	_	_	_	_	_	_	SpaceAfter=No
 4	pidahaʔ	pid	VERB	_	Aspect=Perfv|Mood=Imp|Number=Sing|Number[p]=Sing|Person=2|Person[p]=1|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=give-IMP-1SG[.P]-IMP[.2SG.A]|MSeg=pid-a-ŋ-a
 5	na	na	PART	INSIST	_	4	discourse	4:discourse	Gloss=INSIST|MSeg=na
@@ -11571,7 +11571,7 @@
 4	tin	tin	NUM	_	NumType=Card	5	nummod	5:nummod	Gloss=three|MSeg=t̪in̪
 5	barsa	barsa	NOUN	_	Case=Abs|Number=Sing	2	conj	2:conj|6:obj	Gloss=year|MSeg=bʌrsʌ
 6	lise	lis	VERB	_	Aspect=Perfv|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=become-IND.PST[.3SG.S]|MSeg=lis-e
-7	iek	ek	NUM	_	NumType=Card|Number[psor]=Sing|Person=2	9	nummod	9:nummod	Gloss=2SG.POSS-one|MSeg=i-ek
+7	iek	ek	NUM	_	Number[psor]=Sing|NumType=Card|Person=2	9	nummod	9:nummod	Gloss=2SG.POSS-one|MSeg=i-ek
 8	dui	dui	NUM	_	NumType=Card	7	conj	7:conj|9:nummod	Gloss=two|MSeg=d̪ui
 9	dinice	dini	NOUN	_	Case=Abs|Number=Plur	6	nsubj	6:nsubj	Gloss=day-NSG|MSeg=dini-ce
 10	ni	ni	PART	ASS	_	6	discourse	6:discourse	Gloss=ASS|MSeg=n̪i|SpaceAfter=No
